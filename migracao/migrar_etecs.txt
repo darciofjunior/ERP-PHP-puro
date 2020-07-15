@@ -1,0 +1,372 @@
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Eng. Herval Bellusci|Estrada Seis|s/n|Boa Vista|17800-000|Adamantina|18|3521-2494|etebellusci@uol.com.br|www.escolaagricolaadamantina.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Prof. Eudécio Luiz Vicente|R. Libero Badaró|600|Vl. Jamil de Lima|17800-000|Adamantina|18|3521-2493|eteindus@terra.com.br|www.escolaeudecio.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Aguaí|R. Joaquim José|227|Centro|13860-000|Aguaí|19|3652-6204|e.aguai.dir@centropaulasouza.sp.gov.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Rodrigues de A.em Agudos|Rua Cleophano Pitaguary|283|Centro|17120-000|Agudos|14|3234-4252|etebauru@yahoo.com.br|www.etecbauru.site90.com
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Dr. José Dagnoni|R. Dos Professores|40|Centro|13465-060|Americana|19|3457-4624|dir.josedagnoni@centropaulasouza.sp.gov.b|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Polivalente de Americana|Av. Nossa S.de Fátima|567|N.S.de Fátima|13478-540|Americana|19|3468-4071|vestibulinho@etecpa.com.br|www.etecpa.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Dr. José Dagnoni|R. Duque de Caxias|550|Vl Sta Catarina|13466-320|Americana|19|3457-4625|dir.josedagnoni@centropaulasouza.sp.gov.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec João Belarmino|R. Sete de Setembro|299|Centro|13900-372|Amparo|19|3807-2288|etejbelarmino@uli.com.br|www.jbelarmino.uli.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Sebastiana A.de Moraes|Est.Vic.Seb.Lour. da Silva|Km 11|Vl. Planalto|16900-470|Andradina|18|3722-3302|etesam@ig.com.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Sebastiana A.de Moraes|R. Paraguassu|850|Vila Sanches|16900-117|Andradina|18|3722-3302|etesam@ig.com.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Araçatuba|R. Carlos Gomes|732|Higienópolis|16010-713|Araçatuba|18|3625-8677|etecdearacatuba@yahoo.com.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Araçatuba|Av. Prestes Maia|1764|Jd Ipanema|16052-045|Araçatuba|18|3625-8677|etecdearacatuba@yahoo.com.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Araçatuba|Pça. Diogo Júnior|500|Santana|16055-160|Araçatuba|18|3625-8677|etecdearacatuba@yahoo.com.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Profª Anna de Oliveira Ferraz|Av. Bandeirantes|503|Centro|14801-180|Araraquara|16|3336-6636|secretaria029@techs.com.br|www.industrialararaquara.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Profª Anna de Oliveira Ferraz|R. Padre Duarte|2821|São Geraldo|14801-310|Araraquara|16|3336-6636|secretaria029@techs.com.br|www.industrialararaquara.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Pref.Alberto Feres|R. Dr. Armando S.de Oliveira|311|Centro|13600-730|Araras|19|3541-2819|dir.albertoferes@centropaulasouza.sp.gov.br|www.albertoferes.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Pref. Alberto Feres|Av. Sen.César Lac.Vergueiro|690|Jd. Cândida|13603-013|Araras|19|3541-2819|dir.albertoferes@centropaulasouza.sp.gov.br|www.albertoferes.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Dra. Maria Aug. Saraiva|Rua Mariana Lourenço|55|Jd.Albano Neves|07400-000|Arujá|11|3105-7250|e.masaraiva.acad@centropaulasouza.sp.gov.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Pedro D’Arcádia Neto|R. Senhor do Bonfim|1226|Vl. Xavier|19802-130|Assis|18|3322-3941|etea@femanet.com.br|www.femanet.com.br/eteassis
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Prof.Carmine B.Tundisi|Av.Pref.A.J.de Toledo G.Lopes|200|Jd. das Cerejeiras|12954-270|Atibaia|11|4402-2129|e.cbiagio.dir@centropaulasouza.sp.gov.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Avaré|R. Álvaro Lemos Torres|561|Brabância|18703-060|Avaré|14|3732-5572|eteavare@hotmail.com|www.eteavare.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Avaré|Av. Prefeito Paulo Novaes|871|Centro|18705-000|Avaré|14|3732-5572|eteavare@hotmail.com|www.eteavare.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Comendador João Rays|R.Ludovico Victorio|2140|Vl. Habitacional|17340-000|Barra Bonita|14|3641-1310|etecbarrabonita@etecbarrabonita.com.br|www.etecbarrabonita.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Dr. Dário Pach.Pedroso|R.Prof. Paulo Fco de Assis|82|Centro|18325-000|Barra do Chapéu|15|3534-1139|etedpp@ig.com.br|www.etedpp.hpg.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Cel. Raphael Brandão|Av. 37|Nº 646|Barone|14780-390|Barretos|17|3323-1099|etebarretos@yahoo.com|www.etebarretos.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Cel. Raphael Brandão|Pça. Francisco Barreto|s/n|Centro|14780-059|Barretos|17|3323-1099|etebarretos@yahoo.com|www.etebarretos.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec ProFª Erm.Giannini Teixeira|Rua João Rodrigues Nunes|s/n|Jardim Mutinga|06463-320|Barueri|11|4154-7142|e.eteixeira.dir@centropaulasouza.sp.gov.br|www.etecermelinda.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Eng. Herval Bellusci|Rua Almirante Alexandrino|622|Centro|17690-000|Bastos|18|3521-2494|etebellusci@uol.com.br|www.escolaagricolaadamantina.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Antonio de Pádua Cardoso|R. Artur Lopes de Oliveira|1087|Santo Antônio|14300-000|Batatais|16|3761-2428|secetecapc@gmail.com|www.eteapc.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Rodrigues de Abreu|R. Virgílio Malta|1270|Centro|17015-220|Bauru|14|3234-4252|etebauru@yahoo.com.br|www.etecbauru.site90.com
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Rodrigues de Abreu|Pça. das Cerejeiras|444|Centro|17014-500|Bauru|14|3223-3856|etebauru@yahoo.com.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Astor de Mattos Carvalho|R. Gerson Franca Quadra|19165|Jd. Estoril II|17016-000|Bauru|14|3285-1147|dir_serv@etecabralia.com.br|www.etecabralia.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Bebedouro|R. Oscar Werneck|1286|Centro|14701-120|Bebedouro|17|3343-9695|etecbebedouro@gmail.com|www.etecbebedouro.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Orlando Quagliato|Pça. Da Bandeira|340|Centro|18960-000|Bern.de Campos|14|3372-2011|diretoria@etecsantacruz.com.br|www.etecsantacruz.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Dr. Renato Cordeiro|R. Ermando Zin|1531|Jd. Santana|16202-407|Birigui|18|3644-4019|etebirigui@yahoo.com.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Prof. Carmine Biagio Tundisi|Av. Eliseu Correia Dias|325|Centro|12955-000|Bom J.dos Perdões|11|4402-2129|e.cbiagio.dir@centropaulasouza.sp.gov.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Dr. Domingos Minicucci Filho|Av. Santana|654|Centro|18603-700|Botucatu|14|3882-0503|ete051@terra.com.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Dr. Domingos Minicucci Filho|Pça. Professor Pedro Torres|s/n|Centro|18600-011|Botucatu|14|3882-0503|ete051@terra.com.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Angelo Cavalheiro|Rua Floriano Peixoto|1553|Centro|14340-000|Brodowski|16|3987-4964|etecserrana@bol.com.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Astor de Mattos Carvalho|Rod.Lour.Lozano|km 4|Restinga|17480-000|Cabrália Paulista|14|3285-1210|dir_serv@etecabralia.com.br|www.etecabralia.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Machado de Assis|R. Nações Unidas|253|Jd. Santo Antonio|12281-050|Caçapava|12|3653-3225|etecpv@yahoo.com.br|www.etemacpv.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Prof. Marcos U.S. Penchel|R. Afonso Pereira da Silva|96|Vl. Carmem|12630-000|Cachoeira Paulista|12|3103-1493|dir.cachoeirapaulista@centropaulasouza.sp.gov.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Profª Helcy M.Martins Aguiar|Pça. Sagr.Coração de Jesus|70|Centro|16500-000|Cafelândia|14|3554-1184|etecafelandia@bol.com.br|www.etecafelandia.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Gino Rezaghi|Av. Arujá|175|Jd. Maria Luiza|07760-000|Cajamar|11|4447-3600|etecgino@gmail.com|www:etecgino.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Bento Quirino|Av. Anchieta|80|Centro|13015-100|Campinas|19|3252-3596|secretariabento@terra.com.br|www.etecbentoquirino.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Bento Quirino|R. Trinta e Dois|s/n|DIC VI|13054-632|Campinas|19|3252-3596|secretariabento@terra.com.br|www.etecbentoquirino.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Conselheiro Ant.Prado|R. Com.Ataliba Eurides Vieira|1030|Jd. Nilopolis|13089-480|Campinas|19|3246-2888|ds@etecapcps.com.br|www.etecapcps.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Conselheiro Ant.Prado|Av.Cônego A.Roccato|s/n, km 3,5|Jd. Santa Mônica|13082-015|Campinas|19|3246-2888|vestibulinho@etecapcps.com.br|www.etecapcps.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Bento Quirino|Av. Paulo Prov.Sobrinho|1450|Vl Perceu L. de Barros|13060-356|Campinas|19|3252-3596|secretariabento@terra.com.br|www.etecbentoquirino.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Conselheiro Ant. Prado|R. dos Arapanés|S/N|Vl. Costa e Silva|13081-050|Campinas|19|3208-0455|ds@etecapcps.com.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Bento Quirino|Av. Orosimbo Maia|2600|Vl. Estanislau|13024-045|Campinas|19| 3252-3596|secretariabento@terra.com.br|www.etecbentoquirino.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Campo Limpo Paulista|R. João Julião Moreira|s/n|Botujuru|13238-470|Campo Limpo Pta|11| 4812-2966|e.clpaulista.dir@centropaulasouza.sp.gov.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Prof. Luiz Pires Barbosa|Rodovia SP 266|Km 2|Água do Jacu|19880-000|Cândido Mota|18| 3341-1014|eteplpb@cmotanet.com.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Dr. Celso Charuri|R. Yoiti Ikeda|170|Centro|18307-040|Capão Bonito|15| 3543-1231|ete_celsocharuri@yahoo.com.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Dr. Celso Charuri|Av. Péricles de Freitas|296|Terras de Embiruçu|18304-750|Capão Bonito|15| 3543-1231|ete_celsocharuri@yahoo.com.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Votorantim|Rua João Felipe|200|Centro|18195-000|Capela do Alto|15| 3242-6636|secretariavotorantim@gmail.com|www.etecvotorantim.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Caraguatatuba|Av. Rio Grande do Norte|480|Indaiá|11665-310|Caraguatatuba|12| 3888-1387|eteccaraguatatuba@gmail.com|www.eteccaragua.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Carapicuíba|R. Bom Jesus do Amparo|2|Cj. Hab.P.C. Branco|06329-250|Carapicuíba|11| 4184-8404|dir.etecarapicuiba@centropaulasouza.sp.gov.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Carapicuíba|Av. Francisco Pignatari|650|Vl. Gustavo Correia|06310-390|Carapicuíba|11| 4183-6849|contato@eteccarapicuiba.com.br|www.eteccarapicuiba.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Dr. Fco Nogueira de Lima|Av. Coronel Castro|12|Centro|13700-000|Casa Branca|19| 3671-1170|industcb@dglnet.com.br|www.industrialcb.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Dr. Fco Nogueira de Lima |Pça. Dr. Carvalho|281|Centro|13700-000|Casa Branca|19| 3671-1170|industcb@dglnet.com.br|Site: industrialcb.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Elias Nechar|R. Guariba|800|Jd. Bela Vista|15806-355|Catanduva|17| 3522-2408|eteelias@terra.com.br|www.eliasnechar.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Pref. José Esteves|Rod.Donato Fco Sassi|Km 5|Macucão|18760-000|Cerq.César|14| 3714-6175|contato@etecerqueira.com.br|www.etecerqueira.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Salles Gomes|Rua Vereador Mário Pillon|s/n|São Francisco|18520-000|Cerquilho|15| 3205-2202|sgomes@asseta.com.br|www.sallesgomes.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Trajano Camargo|Rua dos Sorocabanos|s/n|Jd Andorinhas|13150-000|Cosmópolis|19| 3441-8838|trajano@trajanocamargo.com.br|www.trajanocamargo.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Cotia|R. Martiniano Lemos Leite|30|Vila Jovina|06705-110|Cotia|11| 4148-2099|e.cotia.dir@centropaulasouza.sp.gov.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Prof.José Sant’Ana de Castro|R. Dr. Othon Barcelos|s/n|Centro|12730-010|Cruzeiro|12| 3144-1207|eteccruzeiro@yahoo.com.br|www.etesantanadecastro.xpg.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Prof.José Sant’Ana de Castro|R. Capitão Otavio Ramos|593|Centro|12701-360|Cruzeiro|12| 3144-0212|etesantanadecastro@uol.com.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Cubatão|Rua Bernardo Pinto|94|Vila Paulista|11510-260|Cubatão|13| 3375-2175|extensao.etecubatao@gmail.com|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Cubatão|R. Tamoyo|230|Vl. Couto|11510-160|Cubatão|13| 3372-8976|etecubatao@gmail.com|www.etecubatao.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Prof.Alfredo de B.Santos|Av. Daher Pedro|445|Areão|12530-000|Cunha|12| 3125-2266|dir.alfredodebarros@centropaulasouza.sp.gov.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Diadema|R. Guarani|735|Serraria|09991-060|Diadema|11| 4055-2883|dir.etecdiadema@centropaulasouza.sp.gov.br|www.etecdiadema.com
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Joaquim Ferreira do Amaral|Praça Francisco Simões|39|Centro|17300-000|Dois Córregos|14| 3624-8585|etejau@etejau.com.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Profª Carmelina Barbosa|Rod.Com.João R.de Barros|Km 653|Antas|17900-000|Dracena|18| 3822-4448|etedracena@terra.com.br|www.etedracena.rg3.net
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Embu|Rua Marcelino Pinto Teixeira|s/n|Pq.Indl.R.de Freitas|06816-000|Embu/SP|11| 4778-1168|e.cotia.dir@centropaulasouza.sp.gov.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Dr. Carolino da Mota e Silva|Pça. Presidente Kennedy|36|Centro|13990-000|Esp.Sto do Pinhal|19| 3651-1229|dir.carolinodamotta@centropaulasouza.sp.gov.b|www.etepinhal.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Dr. Carolino da Motta e Silva|Rodovia SP|346 – Km 204|Morro Azul|13990-000|Esp.Sto do Pinhal|19| 3651-1229|dir.carolinodamotta@centropaulasouza.sp.gov.br|www.etepinhal.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Fernandópolis|Av. Carlos Barozzi|607|Brasilândia|15600-000|Fernandópolis|17| 3462-3311|dir.fernandopolis@centropaulasouza.sp.gov.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Fernandópolis|Av. Geraldo Roquete|135|Jd. Paulista|15600-000|Fernandópolis|17| 3462-3311|dir.fernandopolis@centropaulasouza.sp.gov.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Ferraz de Vasconcelos|Av. Gov.Jânio Quadros|2000|Pq. São Francisco|08500-330|F.de Vasconcelos|11| 4679-6145|e.fvasconcelos.dir@centropaulasouza.sp.gov.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Dr. Júlio Cardoso|R. General Carneiro|1675|Centro|14400-500|Franca|16| 3721-8133|industrial@netsite.com.br|www.escolaindustrial.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Prof.Carm.Corrêa Júnior|Rod.Când. Portinari|Km 405|City Petrópolis|14407-000|Franca|16| 3703-8035|dir.correajunior@centropaulasouza.sp.gov.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Dr. Julio Cardoso|R. Ursula Pousa Araujo Torres|740|Pq. Vila Leporace I|14407-330|Franca|16| 3721-8133|industrial@netsite.com.br|www.escolaindustrial.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Dr. Júlio Cardoso|R. Benedito Maniglia|200|Vl. Chico Júlio|14405-245|Franca|16| 3722-0939|industrial@netsite.com.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Francisco Morato|R. Tupinambás|572|Jd. Nova Belém|07909-065|Fco Morato|11| 4488-2192|ctps1073@terra.com.br|www.etecfran.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Dr.Emílio Hernandez Aguilar|Estrada do Governo|s/n Km 42|Pouso Alegre|07859-340|Fco da Rocha|11| 4449-3115|ctps898@terra.com.br|www.etecfran.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Dep.Paulo O.C. de Barros|R. Prof. Edson José Puga|100|José Ribeiro|17400-000|Garça|14| 3406-1296|coord_ped@hotmail.com|www.escolaagricoladegraca.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Mons. Antônio Magliano|Pça.Dr Martinho F. de Barros|277|Williams|17400-000|Garça|14| 3471-0099|dir.antoniomagliano@centropaulasouza.sp.gov.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Pedro Badran|Rua São Miguel|42|Vila Maria|14580-000|Guará|16| 3818-2192|dir.pedrobadran@centropaulasouza.sp.gov.bratinguetá|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Prof.Alfredo de B. Santos|R. Afonso Giannico|350|Pedregulho|12515-160|Guaratinguetá|12| 3125-2266|dir.alfredodebarros@centropaulasouza.sp.gov.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Alberto Santos Dumont|R. Dona Vitória|502|Jd. São Miguel|11440-170|Guarujá|13| 3382-5677|dir.santosdumont@centropaulasouza.sp.gov.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Prof. Aprígio Gonzaga|R. Alegre|213|Vila São Rafael|07053-100|Guarulhos|11| 2647-1491|etepag@ig.com.br|www.etecaprigio.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Drª Maria Aug.Saraiva|R. Francisco Antunes|1078|Vl. Augusta|07040-010|Guarulhos|11| 2422-5292||
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Hortolândia|R. Capitão Lourival Mey|750|Jd. Santana|13184-470|Hortolândia/SP|19| 3897-3727|etehoro@uol.com.br|www.etechortolandia.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Ibitinga|R. Rosalbino Tucci|431|Centro|14940-000|Ibitinga|16| 3342-6039|eteibitinga@yahoo.com.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Antônio Junqueira da Veiga|Fazenda Baixada|s/nº|Zona Rural|14540-000|Igarapava|16| 3172-1814|dir.junqueiradaveiga@centropaulasouza.sp.gov.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Eng. Agr. Narc.de Medeiros|Rod.Pref.Casimiro Teixeira|Km 51,5|Três Barras|11920-970|Iguape|13| 3841-5170|etenarciso@yahoo.com.br|www.colegioagricoladeiguape.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Ilha Solteira|Alameda Perimetral|s/n|Zona Rural|15385-000|Ilha Solteira|18| 3742-2575|dir.eteilhasolteira@centropaulasouza.sp.gov.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Ilha Solteira|Av.Brasil Sul|920 |Zona Sul|15385-000|Ilha Solteira|18| 3742-2575|dir.eteilhasolteira@centropaulasouza.sp.gov.br|www.eteilhasolteira.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Prof.Pedro L.B. Sobrinho|Av.Antonio C.de Abreu Sodré|1040|Centro|18950-000|Ipaussu|14| 3344-1408|ctps323@terra.com.br|www.etecipaussu.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Elias Nechar|Av.Catanduva|1.130|Jd dos Ipês|15840-000|Itajobi|17| 3522-2408|eteelias@terra.com.br|www.eliasnechar.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Itanhaém|Av. José Batista Campos|1431|Anchieta|11740-000|Itanhaém|13| 3427-1601|eteitanhaem@yahoo.com.br|www.etecitanhaem.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Prof. Edson Galvão|Rua Pedro Lopes de Almeida|s/n|Tupy|18200-000|Itapetininga|15| 3271-0444|eteedsongalvao@yahoo.com|www.eteedsongalvao.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Prof. Edson Galvão|Rod.Gladys Bern.Minhoto|Km 11|Capão Alto|18200-970|Itapetininga|15| 3271-0444|sonia.mariacardoso@yahoo.com.br|www.eteedsongalvao.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Dr Demétrio Azevedo.Jr.|R. Mário Prandini|962|Centro|18400-170|Itapeva|15| 3522-4169|escminas@terra.com.br|www.escolademinas.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Dr. Demétrio Azevedo Jr.|Av. Europa|1097|Jd. Europa|18406-460|Itapeva|15| 3522-1077|escminassa@terra.com.br|www.escolademinas.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec João Maria Stevanatto|R. Benedita Leme Ramos|77|Jardim Ivete|13972-180|Itapira|19| 3843-1171|e.itapira.dir@centropaulasouza.sp.gov.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Ferraz de Vasconcelos|Rua Cambarás|s/n|Jardim Miral||Itaquaquecetuba|11| 4679-6145|dir.ferrazdevasconcelos@centropaulasouza.sp.gov.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Dr. Demétrio Azevedo Júnior|R. Campos Salles|S/N|Centro|18460-000|Itararé|15| 3522-1077|escminassa@terra.com.br|www.escolademinas.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Rosa Perrone Scavone|R. Dr. João dos Santos Rangel|66|Vl. Belém|13256-312|Itatiba|11| 4538-1493|rosaperrone@uol.com.br|www.rosaperrone.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Martinho Di Ciero|Av. Tiradentes|973|Pq. Industrial|13309-640|Itu|11| 4024-1009|eteitu@uol.com.br|www.etemartinhodiciero.com
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Martinho Di Ciero|R. dos Andradas|412|Centro|13300-170|Itu|11| 4025-3720|eteitu@uol.com.br|www.etemartinhodiciero.com
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Ituverava|Rua Omaguás|810|Jardim Marajoara|14500-000|Ituverava|16| 3839-0853|etecituverava@netsite.com.br|www.etecituverava.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Bebedouro|R. São Sebastião|294|Centro|14870-290|Jaboticabal|17| 3343-9695|dir.etebebedouro@centropaulasouza.sp.gov.br|www.etecbebedouro.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Cônego José Bento|Av. Nove de Julho|745|Pereira do Amparo|12327-682|Jacareí|12| 3951-5800|tania@etecjbento.com.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Dr.José Luiz Viana Coutinho|Chác.Municipal|Córrego Tambory||15700-971|Jales|17| 3632-9007|etejales@etejales.com.br|www.etejales.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Dr.José Luiz Viana Coutinho|R. Treze|2422|Centro|15700-034|Jales|17| 3632-9004|etejales@etejales.com.br|www.etejales.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Prof. André Bogasian|Av. João Balhesteiro|186|Centro|06600-020|Jandira|11| 3685-4945|ete_de_osasco@yahoo.com.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Angelo Cavalheiro|Rua José Davi|s/n|Vila Oliveira|14680-000|Jardinópolis|16| 3987-4964|etecserrana@bol.com.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Joaquim Ferreira do Amaral|R. Humaitá|1090|Centro|17201-320|Jaú|14| 3624-8585|etejau@etejau.com.br|www.etejau.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Prof. Urias Ferreira|Rod.Dep.Leônidas P.Ferreira|Km17|Pouso Alegre|17201-970|Jaú|14| 3623-1170|etae.jau@uol.com.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Joaquim Ferreira do Amaral|Av. Zézinho Magalhães|s/n|Vila Nova|17202-170|Jaú|14| 3624-8585|direcao@etejau.com.br|www.etejau.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Vasco Antônio Venchiarutti|R. Barão de Jundiaí|53|Centro|13201-010|Jundiaí|11| 4586-2414|secretaria@etevav.com.br|www.etevav.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Vasco Antonio Venchiarutti|R. Pedro Nano|175|Jd. Pacaembu|13218-160|Jundiaí|11| 4587-3093|etevav@etevav.com.br|www.etevav.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Benedito Storani|Av.Antônio Pincinato|4355|Recanto IV Centenário|13211-171|Jundiaí|11| 4582-1881|cps@etecbest.com.br|www.etecbest.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Vasco Antônio Venchiarutti|Av.Eng.Tasso Pinheiro|700|Terra Nova|13211-470|Jundiaí|11| 4587-3093|etevav@etevav.com.br|www.etevav.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Salles Gomes |Rua Duque de Caxias|s/n|Vila Félix|18500-000|Laranjal Paulista|15| 3205-2202|sgomes@asseta.com.br|www.sallesgomes.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Deputado Salim Sedeh|R. Neida Zencker Leme|500|Cidade Jardim|13614-240|Leme|19| 3571-4898|eteleme@linkway.com.br|www.eteleme.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Dona Sebastiana de Barros|R. José Paulino da Silva|61|Centro|18682-070|Lençóis Paulista|14| 3841-2288|dir.sebastianadebarros@centropaulasouza.sp.gov.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Comendador João Rays|Av. Lázaro Brígido Dutra|s/n|Jardim Caju|18682-335|Lençóis Paulista|14| 3641-1310|etecbarrabonita@etecbarrabonita.com.br|www.etecbarrabonita.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Trajano Camargo|R. Tenente Belizário|439|Centro|13480-120|Limeira|19| 3441-8838|trajano@trajanocamargo.com.br|www.trajanocamargo.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Trajano Camargo|R. Cesarino Ferreira|145|Vila Piza|13486-159|Limeira|19| 3441-8838|aparecida@trajanocamargo.com.br|www.trajanocamargo.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Lins na EE Fernando Costa|R. Nove de Julho|1276|Centro|16400-111|Lins|14| 3523-1217|etelins@bol.com.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Lins|R. São Pedro|300|Vl. Perin|16400-537|Lins|14| 3523-4859|dir.etelins@centropaulasouza.sp.gov.br|www.eteclins.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Padre Carlos Leôncio da Silva|Av. Doutor Epitácio Santiago|199|Centro|12601-050|Lorena|12| 3101-2816|etecpta@itelefonica.com.br|www.etecpta.xpg.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Mairinque|R. Antonio Alves de Souza|S/N|Centro|18120-000|Mairinque|11| 4718-2605|e.mairinque.dir@centropaulasouza.sp.gov.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Pedro D’Arcádia Neto|Rua Mal Deodoro da Fonseca|480|Centro|19820-000|Maracaí|18| 3322-3941|etea@femanet.com.br|www.femanet.com.br/eteassis
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Antonio Devisate|Av. Rio Branco|803|Sen.Salgado Filho|17502-000|Marília|14| 3433-5274|devisate@terra.com.br|www.devisate.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Antônio Devisate|Av. Castro Alves|62|Somenzari|17506-000|Marília|14| 3433-5467|e.adevisate.acad@centropaulasouza.sp.gov.br|www.devisate.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Sylvio de Mattos Carvalho|R. Cesário Motta|644|Centro|15990-050|Matão|16| 3382-1226|dir@etecmatao.com.br|www.etecmatao.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Mauá|Av. Antônia Rosa Fioravanti|804|Vl. Fausto Morelli|09390-120|Mauá|11| 4543-3221|dir.etemaua@centropaulasouza.sp.gov.br|www.etemaua.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Laurindo Alves de Queiroz|Fazenda Lajeado|s/n|Zona Rural|14530-000|Miguelópolis|16| 3835-1370|agromig@netsite.com.br|www.etecmiguelopolis.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Sebastiana Aug.de Moraes|R. Dalva Colaferro|1330|Centro|16800-000|Mirandópolis|18| 3722-3302|etesam@ig.com.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Prof.Matheus L.de Abreu|Estrada da Gruta|S/N|Bairro da Gruta|15130-000|Mirassol|17| 3242-3249|agricola.mirassol@terra.com.br|www.escolaagricola.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Prof.Matheus L.de Abreu|Rua Santo Antônio|s/n|Centro|15130-000|Mirassol|17| 3242-3249|agricola.mirassol@terra.com.br|www.escolaagricola.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Francisco Garcia|Av. Dr.Américo Pereira Lima|1507|Jd. Lavínia|13732-260|Mococa|19| 3656-0052|secretaria@etefgarcia.com.br|www.etefgarcia.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec João Baptista de L.Figueiredo|Av. Dr.Américo Pereira Lima|s/n|Jd. Lavínia|13736-260|Mococa|19| 3656-2052|eletro@eletro.g12.br|www.eletro.g12.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Presidente Vargas|R. Adriano Francisco Salgado|30|Vl. Sud Menucci|08715-130|Mogi das Cruzes|11| 4799-1511|dir.presidentevargas@centropaulasouza.sp.gov.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Euro Albino de Souza|R. Antonio Luiz Filho|350|Jardim Novo II|13848-114|Mogi Guaçu|19| 3831-2890|etec206@gmail.com|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Pedro Ferreira Alves|R. Ariovaldo Silveira Franco|237|Jd. 31 de Março|13801-005|Mogi Mirim|19| 3862-0177|sec-academica@pfalves.com.br|www.pfalves.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Adolpho Berezin|Av. Monteiro Lobato|8000|Balneário Jussara|11730-000|Mongaguá|13| 3448-3800|eteab@uol.com.br|www.eteab.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Padre José Nunes Dias|Estrada do Bacuri|s/n|Zona Rural|15150-000|Monte Aprazível|17| 3275-1841|ete075monte@ig.com.br|www.escolaagricolamonte.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Monte Mor|Av. Benedito Lazaro Vieira|s/n|Aterrado|13190-000|Monte Mor|19| 3879-6515|dir.etecmmor@yahoo.com.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Nova Odessa|R. Teófilo Sniker|38|Cj.Industrial Harmonia|13460-000|Nova Odessa|19| 3476 5074|etecnovaodessa@bol.com.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Nova Odessa|Rua Irineu José Bordon|s/n|Santa Luzia II|13460-000|Nova Odessa|19| 3476 5074|etecnovaodessa@bol.com.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Profª Marinês T.de F.Almeida|Av. Cel. Junqueira|640|Centro|14960-000|Novo Horizonte|17| 3542-1182|e.nhorizonte.dir@centropaulasouza.sp.gov.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Olímpia|R. José Piton|165|Vila Rodrigues|15400-000|Olímpia|17| 3323-1099|etebarretos@yahoo.com|www.etebarretos.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Prof. Alcídio de Souza Prado|Av. Dez|1100|Centro|14620-000|Orlândia|16| 3826-0774|vestibulinho@etecalcidio.com.br|www.etecalcidio.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Prof. André Bogasian|R. Manoel Rodrigues|155|Presidente Altino|06233-160|Osasco|11| 3685-4945|ete_de_osasco@yahoo.com.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Osasco II|Rua Pedro Rissato|s/n|Vila dos Remédios|06296-220|Osasco|11| 3683-4309|ete_de_osasco@yahoo.com.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Amim Jundi|R. Japão|724|Centro|17700-000|Osvaldo Cruz|18| 3528-3982|e.ajundi.adm@centropaulasouza.sp.gov.br|www.etecamimjundi.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Jacinto Ferreira de Sá|Av. Antônio de Almeida Leite|913|Jd. Paulista|19907-000|Ourinhos|14| 3322-4908|direserv.eteouro@terra.com.br|www.eteourinhos.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Jacinto Ferreira de Sá|R. Gaspar Ricardo|484|Vila Nova Sá|19911-832|Ourinhos|14| 3322-4908|direserv.eteouro@terra.com.br|www.eteourinhos.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Prof. Mário Antonio Verza|Av. Anchieta|487|Centro|19970-000|Palmital|18| 3351-3753|ctps490@terra.com.br|www.etecpalmital.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Augusto Tortolero Araújo|Rodovia SP 284|Km 477/478|Sapê|19700-000|Paraguaçu Paulista|18| 3361-1130|dir.tortoleroaraujo@centropaulasouza.sp.gov.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Dr. Domingos Minicucci Filho|Rua Jurumil Sartori|255|Loteamento Municipal|18640-000|Pardinho|14| 3882-0503|ete051@terra.com.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Urias Ferreira na EE Anchieta|Rua Prof.Felipe L de Aguiar|L-121|Centro|17280-000|Pederneiras|14| 3623-1170|etae.jau@uol.com.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec João Jorge Geraissate|Estr.José Vigilato de Castilho|s/n|Lajeado|16300-000|Penápolis|18| 3652-1577|dir.jorgegeraissate@centropaulasouza.sp.gov.br|www.colegioagricola.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Ilha Solteira|R. Cyro Maia|2230|Jd. Serrador|15370-000|Pereira Barreto|18| 3742-2575|dir.eteilhasolteira@centropaulasouza.sp.gov.br|www.eteilhasolteira.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Itanhaém|Av. São João|635|Centro|11750-000|Peruíbe|13| 3455-9712|etecperuibe@yahoo.com.br|www.etecitanhaem.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Piedade|R. Bento Xavier de Oliveira|50|Paulas e Mendes|18170-000|Piedade|15| 3244-4570|escolatecnicadepiedade@gmail.com|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec João Gomes de Araújo|R. Prof. José Benedito Cursino|75|Boa Vista|12401-090|Pindamonhangaba|12| 3642-1077|dir.gomesdearaujo@centropaulasouza.sp.gov.br|www.etejga.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec João Gomes de Araújo|Rua Guilherme Schimidt|340|Jardim Rosely|12410-670|Pindamonhangaba|12| 3642-2414|secretaria@etejga.com.br|www.etejga.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec João Gomes de Araújo|Av.da dos Lírios|319|Res.Vale das Acácias|12440-440|Pindamonhangaba|12| 3642-1077|dir.gomesdearaujo@centropaulasouza.sp.gov.br|www.etejga.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Cel. Fernando Feb.da Costa|R. Mons.Manoel Fco Rosa|433|Centro|13400-270|Piracicaba|19| 3433-9734|etepiracicaba@uol.com.br|www.etepiracicaba.org.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Dep. Ary de C. Pedroso|Av. Dr. João Conceição|350|Paulista|13401-080|Piracicaba|19| 34338541|e.piracicaba.adm@centropaulasouza.sp.gov.br|www.etecdepiracicaba.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Waldir Duron Junior|Rod.Rap.Tavares|s/n, km 316/318|Bananeiras|18800-000|Piraju|14| 3351-7602|ete_piraju@hotmail.com|www.etecpiraju.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Ten. Aviador Gustavo Klug|R. José Bonifácio|325|Centro|13630-010|Pirassununga|19| 3561-2961|ctps348@terra.com.br|www.etecpirassununga.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Ten. Aviador Gustavo Klug|Av. Padre Antonio Van Ess|1925|Jd. Petrópolis|13634-054|Pirassununga|19| 3562-1315|dir.etepirassununga@centropaulasouza.sp.gov.br|www.etecpirassununga.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Poá|Av. Vital Brasil|827|Vl. Acoreana|08557-000|Poá|11| 4636-8085|dir.etecpoa@yahoo.com.br|www.etecpoa.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Prof. Jadyr Salles|Av. Prof.Henr.da Motta F.Jr|849|Centro|13660-000|Porto Ferreira|19| 3581-1201|etecportoferreira@hotmail.com|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Praia Grande|Pça. 19 de Janeiro|144|Boqueirão|11700-100|Praia Grande|13| 3591-1303|secretaria@fernandofeijo.com|www.fatecpg.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Prof.Dr A.Eufrásio de Toledo|Rod.Rap.Tavares|Km 561|Pontilhão|19053-205|Pres.Prudente|18| 3221-1665|dir.eufrasiodetoledo@centropaulasouza.sp.gov.br|www.etecpresidenteprudente.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Presidente Venceslau|R. Bernardino de Campos|809|Vl. Baruta|19400-000|Pres.Venceslau|18| 3271-3687|secretaria@etepv.com.br|www.etepv.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Dr. Luiz César Couto|Rod. Antonio Farinasso|Km 3|Agüinha|19780-000|Quatá|18| 3366-1001|ete080quata@gmail.com|www.etecquata.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Dep. Francisco Franco|Av. Pedro Machado de Goes|58|Jd. Primavera|19600-000|Rancharia|18| 3265-1666|ete.franciscofranco@yahoo.com.br|www.etec-rancharia.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Registro|R. Tamekishi Takano|05|Centro|11900-000|Registro|13| 3822-4531|etecregistro@yahoo.com.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Dr. Dário Pacheco Pedroso|Rua Capitão Elias Pereira|1348|Centro|18430-000|Ribeirão Branco|15| 3534-1139|etedpp@ig.com.br|www.etedpp.hpg.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Ribeirão Pires|R. Bélgica|88|Jd. Alvorada|09402-060|Ribeirão Pires|11| 4825-4470|eteribeirao@bol.com.br|www.eteribeiraopires.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec José Martimiano da Silva|R. Tamandaré|520|Campos Elíseos|14085-070|Ribeirão Preto|16| 3610-8374|eterp@terra.com|www.industrialrp.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec José Martimiano da Silva|R. Bernardino de Campos|1749|Vila Seixas|14015-130|Ribeirão Preto|16| 3610-8261|secretjms@terra.com.br|www.industrialrp.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Prof.Armando B.da Silva|Av. Cinco|445|Centro|13500-380|Rio Claro|19| 3524-2330|etebayeux@vivax.com.br|www.etebayeux.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Prof.Armando B.da Silva|Rua 2|nº 2877|Vila Operária|13504-090|Rio Claro|19| 3534-1688|etebayeux@vivax.com.br|www.etebayeux.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Dr. José Coury|Av. Prefeito Nicolau Marino|2680|Nosso Teto|13390-000|Rio das Pedras|19| 3493-2244|dir.etejosecoury@centropaulasouza.sp.gov.br|www.ejcoury.vilabol.uol.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Prof.Alcídio de S. Prado|R. Vereador Omar Rocha|174|Centro|14660-000|Sales Oliveira|16| 3826-0774|vestibulinho@etecalcidio.com.br|www.etecalcidio.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Suzano|Av.Antonio Paulino de Miranda|101|Centro|08970-000|Salesópolis|11| 4748-1732|e.suzano.dir@centropaulasouza.sp.gov.br|www.etecsuzano.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Prof. Dr. José Dagnoni|Av. Antonio Pedroso|1731|Cidade Nova|13457-150|Santa Bárbara D’oeste|19| 3457-4624|dir.josedagnoni@centropaulasouza.sp.gov.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Prof. Dr. José Dagnoni|Pça. Dona Carolina|11|Jardim Panambi|13450-515|Santa Bárbara D’oeste|19| 3457-4625|diretoriasbo@uol.com.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Dr. Fco Nogueira de Lima|Av. do Café|720|Centro|13650-000|Sta Cruz das Palmeiras|19| 3671-1170|industcb@dglnet.com.br|www.industrialcb.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Orlando Quagliato|Rod.Eng.João Bat.Cabral Renno|Km 309|Cachoeira|18900-000|Sta Cruz do Rio Pardo|14| 3372-2011|diretoria@etecsantacruz.com.br|www.etecsantacruz.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Santa Isabel|R. Profª Ana Moutinho Gonç|57|Centro|07500-000|Santa Isabel|11| 4656-4588|etecsantaisabel@gmail.com|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Manoel dos Reis Araujo|Pça. Zequinha de Abreu|624|Centro|13670-000|Sta Rita do P.Quatro|19| 3582-2100|dir.manoelreisaraujo@centropaulasouza.sp.gov.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Manoel dos Reis Araújo|Av. Paris|79|Cinelândia|13670-000|Sta Rita do P.Quatro|19| 3582-2100|dir.manoelreisaraujo@centropaulasouza.sp.gov.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Santa Rosa de Viterbo|R. Albina Pedreschi|365|Res.Luiz Gonzaga|14270-000|Sta Rosa de Viterbo|16| 3954-2446|e.srviterbo.dir@centropaulasouza.sp.gov.br|www.industrialcb.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Profª Ermelinda G. Teixeira|R. Fernão Dias Falcão|196|Centro|06501-120|Santana de Parnaíba|11| 4154-7142|e.eteixeira.dir@centropaulasouza.sp.gov.br|www.etecermelinda.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Júlio de Mesquita|R. Prefeito Justino Paixão|150|Centro|09020-130|Santo André|11| 4990-2577|dir.juliodemesquita@centropaulasouza.sp.gov.br|www.etecjuliodemesquita.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Mauá|R. Saquarema|145|Jd.Alzira Franco|09271-570|Santo André|11| 4543-3221|dir.etemaua@centropaulasouza.sp.gov.br|www.etemaua.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Júlio de Mesquita|Av. Utinga|1100|Utinga|09220-611|Santo André|11| 4990-2577|dir.juliodemesquita@centropaulasouza.sp.gov.br|www.etecjuliodemesquita.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Ribeirão Pires|R. Ubatuba|s/n|Vila Guiomar|09090-450|Santo André|11| 4825-4470|eteribeirao@bol.com.br|www.eteribeiraopires.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Júlio de Mesquita|R. Cabo Verde|386|Vila Lucinda|09241-200|Santo André|11| 4990-2577|dir.juliodemesquita@centropaulasouza.sp.gov.br|www.etecjuliodemesquita.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Aristóteles Ferreira|Av. Dr. Epitácio Pessoa|466|Aparecida|11030-600|Santos|13| 3236-9998|etearistotelesferreira@gmail.com|www.etecaristotelesferreira.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Dona Escolástica Rosa|Av. Bartolomeu de Gusmão|111|Aparecida|11045-401|Santos|13| 3236-9986|escolasticarosa@escolasticarosa.com.br|www.escolasticarosa.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Dona Escolástica Rosa|Praça Mal Eurico Gaspar Dutra|s/n|Jardim Castelo|11088-260|Santos|13| 3238-8407|escolasticarosa@escolasticarosa.com.br|www.escolasticarosa.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Lauro Gomes|Av. Imperador Pedro II|nº 1000|Nova Petrópolis|09770-420|São Bern.do Campo|11| 4125-2288|etelgdir@etelg.com.br|www.etelg.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Lauro Gomes|R. Ângela Tomé|134|Rudge Ramos|09624-060|São B.do Campo|11| 4330-2691|etelgdir@etelg.com.br|www.etelg.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Jorge Street|R. General Craveiro Lopes|110|Vila Camargo|09634-010|São B.do Campo|11| 4238-7955|diretoria@jorgestreet.com.br|www.jorgestreet.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Diadema|R. Nilo Peçanha|200|Vila Lúcia|09810-580|São B.do Campo|11| 4055-2883|dirserv.etecdiadema@centropaulasouza.sp.gov.br|www.etecdiadema.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Lauro Gomes|Av. Pereira Barreto|400|Vl. Baeta Neves|09751-000|São B.do Campo|11| 4125-2288|etelgdir@etelg.com.br|www.etelg.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Jorge Street|R. José Benedetti|nº 550|Bairro Cerâmica|09531-090|São C.do Sul|11| 4238-7955|diretoria@jorgestreet.com.br|www.jorgestreet.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Jorge Street|R. Bell Aliance|149|Jd. São Caetano|09581-420|São C.do Sul|11| 4238-0424|salomao@jorgestreet.com.br|www.jorgestreet.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Jorge Street|Estrada das Lágrimas|579|São José|09581-300|São C.do Sul|11| 4238-7955|pires@jorgestreet.com.br|www.jorgestreet.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Paulino Botelho|Rua Francisco Briscesse|151|Jardim Centenário|13564-170|São Carlos|16| 3371-1027|ata@etepb.com.br|www.etepb.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Paulino Botelho|Av. Araraquara|1200|Vila Costa do Sol|13566-770|São Carlos|16| 3371-1027|ata@etepb.com.br|www.etepb.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Paulino Botelho|R. Marechal Deodoro|3183|Vila Nery|13560-201|São Carlos|16| 3371-1027|ata091@hotmail.com|www.etepb.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Pedro Badran|R. Maranhão|1225|Centro|14600-000|São J.da Barra|16| 3818-2192|dir.pedrobadran@centropaulasouza.sp.gov.br|www.etecpedrobadran.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de São José do Rio Pardo|Av. Brasil|414|Vl. Brasil|13720-000|São J.do Rio Pardo|19| 3681-2389|etesjrpardo@centropaulasouza.sp.gov.br|www.etecriopardo.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Philadelpho Gouvea Netto|R. Roberto Mange|170|Chácara Municipal|15090-150|São J.do Rio Preto|17| 3233-9823|philadelpho@terra.com.br|www.philadelpho.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Philadelpho Gouvêa Netto|Av. dos Estudantes|3278|Jd. Aeroporto|15035-010|São J.do Rio Preto|17| 3233-9266|philadelpho@terra.com.br|www.philadelpho.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de São José dos Campos|R. Ipiau|162|Jd. Satelite|12230-750|São J.dos Campos|12| 3942-7806|e.jcampos.dir@centropaulasouza.sp.gov.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de São José dos Campos|Av. Salmão|570|Pq. Resid. Aquarius|12246-260|São J.dos Campos|12| 3942-7806|e.jcampos.dir@centropaulasouza.sp.gov.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Carapicuíba|Rua João Alfredo de Moraes|386|Centro|06890-000|São L.da Serra|11| 4184-8404|contato@eteccarapicuiba.com.br|www.eteccarapicuiba.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Dona Sebastiana de Barros|Fazenda da Serra|s/n|Zona Rural|18650-000|São Manuel|14| 3841-2288|dir.sebastianadebarros@centropaulasouza.sp.gov.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Albert Einstein|Av. Diogenes Rib.de Lima|2001|Alto de Pinheiros|05458-001|São Paulo|11| 3858-7529|aeinst@uol.com.br|www.etealberteinstein.com
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Tereza Ap.C.N.de Oliveira|Av. Waldemar Tietz|1477|Arthur Alvim|03589-001|São Paulo|11| 2217-1409|e.aalvim.dir@centropaulasouza.sp.gov.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Tereza Ap.C.N. de Oliveira|R. Andrea Feliciani|501|Arthur Alvim|03591-020|São Paulo|11| 2217-1547|diretoria_etecaa@hotmail.com|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec José Rocha Mendes|Largo São José do Belém|66|Belém|03057-040|São Paulo|11| 2063-4454|secretariajrm@terra.com.br|www.etejoserochamendes.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Parque Belém|R. Ulisses Cruz|85|Belém|03077-000|São Paulo|11| 2291-9293|e.pbelem.dir@centropaulasouza.sp.gov.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de São Paulo|Av. Tiradentes|615|Bom Retiro|01101-010|São Paulo|11| 3326-0993|etesp@terra.com.br|www.etesaopaulo.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Prof. Camargo Aranha|R. Guararema|365|Bosque da Saúde|04136-030|São Paulo|11| 2694-6733|secretariaacademica@eteccamargoaranha.com.br|www.etecamargoaranha.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Carlos de Campos|R. Monsenhor Andrade|798|Brás|03009-000|São Paulo|11| 3311-7098|cacasecretaria@ig.com.br|www.etecarlosdecampos.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de São Paulo no Ceu Butantã|Av.Eng.Heitor Ant.Eiras Garcia|1870|Butantã|05564-000|São Paulo|11| 3326-0993|etesp@terra.com.br|www.etesaopaulo.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Ceu Cantos do Amanhecer|Av.Cantos do Amanhecer|s/nº|Campo Limpo|05856-020|São Paulo|11| 5851-9315|dir.servico@etezonasul.com.br|www.etezonasul.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Dra. Maria Augusta Saraiva|R. Guaianazes|1385|Campos Elíseos|01204-003|São Paulo|11| 3105-7250|e.masaraiva.acad@centropaulasouza.sp.gov.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Prof. Aprígio Gonzaga|Av. Luis Imparato|564|Cangaíba|03819-160|São Paulo|11| 2647-1491|etepag@ig.com.br|www.etecaprigio.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec CEU Capão Redondo|R. Daniel Gran|s/n|Capão Redondo|05867-380|São Paulo|11| 5851-5829|secretaria@etezonasul.com.br|www.etezonasul.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Capela do Socorro|Av.Feliciano Correa||Capela do Socorro|04815-240|São Paulo|11| 5667-3971|diretoria@etecsta.com.br|www.etecsta.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Albert Einsten|R. Nova Granada|35|Casa Verde|02522-050|São Paulo|11| 3858-7529|aeinst@uol.com.br|www.etealberteinstein.com
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Ceu Azul da Cor do Mar|Rua Ernesto de Souza Cruz|2171|Cid. A.E Carvalho|08225-380|São Paulo|11| 2045-4000|dir.etezonaleste@centropaulasouza.sp.gov.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Zona Leste|Av. Águia de Haia|2633|Cid.A.E. Carvalho|03685-000|São Paulo|11| 2045-4002|ameneses@aasp.org.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Cidade Tiradentes|R. Igarapé Água Azul|70|Cidade Tiradentes|08485-310|São Paulo|11| 2516-6965|e.ctiradentes.dir@centropaulasouza.sp.gov.br|www.etectiradentes.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec CEPAM|Av. Prof. Lineu Prestes|913|Cidade Universitária|05508-000|São Paulo|11| 3811-0384|eteccepam@gmail.com|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Raposo Tavares|R. Cachoeira Poraquê|326|Cohab Rap.Tavares|05574-456|São Paulo|11| 3685-4945|ete_de_osasco@yahoo.com.br |
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Zona Sul no Ceu Três Lagos|Estrada do Barro Branco|s/n|Grajaú|05818-270|São Paulo|11| 5851-9315|dir.servico@etezonasul.com.br|www.etezonasul.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Guaianazes|R. Feliciano de Mendonça|290|Guaianases|08460-365|São Paulo|11| 2552-0140|ete_guaianazes@yahoo.com.br|www.etecdeguaianazes.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Ceu Jambeiro|Av. Flores do Jambeiro|s/nº|Guaianases|08430-810|São Paulo|11| 2551-9484|ete_guaianazes@yahoo.com.br|www.etecdeguaianazes.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec CEU Lajeado|R. Manuel da Mota Coutinho|293|Guaianases|08451-420|São Paulo|11| 2552-0140|ete_guaianazes@yahoo.com.br|www.etecdeguaianazes.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Ceu Inácio Monteiro|R.Barão Barroso do Amazonas|s/nº|Guaianases|08472-721|São Paulo|11| 2521-8188|op169@centropaulasouza.sp.gov.br|www.etecitaquera.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Heliópolis|Rua: Luigi Alamanni|nº 91|Heliópolis|04232-000|São Paulo|11| 2083-2727|soraya.etegv@terra.com.br |
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Getúlio Vargas|R. Clóvis Bueno de Azevedo|70|Ipiranga|04266-040|São Paulo|11| 2066-2500|etegv@terra.com.br|www.etegv.com
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec EE Teotônio Alves Pereira|R. Arcipreste Ezequias|734|Ipiranga|04271-060|São Paulo|11| 2066-2501|etegv@terra.com.br|www.etegv.com
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec EE Ministro Costa Manso|R. João Cachoeira|960|Itaim Bibi|04535-003|São Paulo|11| 3326-0993|etesp@terra.com.br|www.etesaopaulo.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec CEU Parque Veredas|R. Daniel Muller|347|Itaim Paulista|08141-290|São Paulo|11| 2521-8188|veralucia196@gmail.com|www.etecitaquera.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Itaquera|R. Virginia Ferni|400|Itaquera|08253-000|São Paulo|11| 2254-7627|veralucia196@gmail.com|www.etecitaquera.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Ceu Caminho do Mar|R. Eng.Arm.de A.Pereira|5.241|Jabaquara|04325-001|São Paulo|11| 2066-2500|etegv@terra.com.br|www.etegv.com
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Prof. André Bogasian|Av.Kenkiti Simomoto|80|Jaguaré|05347-010|São Paulo|11| 3685-4945|ete_de_osasco@yahoo.com.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Jaraguá|Av.Jairo de Alm.Machado|401|Jaraguá|02998-060|São Paulo|11| 3941-7242|basilides@basilides.com.br|www.basilides.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Paulistano – Zona Norte|Av. Elísio Teixeira Leite|nº 3611|Jd Paulistano|02810-000|São Paulo|11| 3979-1120|etepaulistano@gmail.com|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Ceu Sapopemba|R.Manoel Quirino de Mattos|s/n|Jardim Sapopemba|08341-240|São Paulo|11| 2019-1519|e.sapopemba.acad@centropaulasouza.sp.gov.br|www.etecsapopemba.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec EE Godofredo Furtado|R. João Moura|727|Jd. América|05412-001|São Paulo|11| 3063-3160|e.masaraiva.acad@centropaulasouza.sp.gov.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Jardim Ângela|Estrada da Baronesa|1695|Jd. Ângela|04919-000|São Paulo|11| 5833-0943|sergio.araujo@etecsta.com.br|www.etecjardimangela.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Zona Sul no CEU Vila do Sol|Av. dos Funcionários Públicos|369|Jd. Ângela|04962-000|São Paulo|11| 5851-5829|secretaria@etezonasul.com.br|www.etezonasul.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec CEU Parque Anhanguera|R.Pedro José de Lima|s/n|Jd. Anhanguera|05267-174|São Paulo|11| 3834-4780|basilides@basilides.com.br|www.basilides.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Parque da Juventude|R. Antonio Cesar Neto|105|Jd. Guapira|02274-100|São Paulo|11| 2221-0098|contato@etecparquedajuventude.com.br|www.etecparquedajuventude.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Uirapuru|Rua Frei Claude D´Alberville|nº 425|Jd. João XXIII|05569-010|São Paulo|11| 3872-5529|etecuirapuru@yahoo.com.br|www.etecuirapuru.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Zona Sul|R. Frederico Grotte|322|Jd. São Luis|05818-270|São Paulo|11| 5851-9315|dir.servico@etezonasul.com.br|www.eteczonasul.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec EE Presidente Roosevelt|R. São Joaquim|320|Liberdade|01508-000|São Paulo|11| 3311-7098|cacasecretaria@ig.com.br|www.etecarlosdecampos.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec EE Prof. Carlos de Laet|R. Albertina V.da Silva Gordo|147|Mandaqui|02410-000|São Paulo|11| 3858-7529|aeinst@uol.com.br|www.etealberteinstein.com
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Getúlio Vargas|R. César Zama c/ R.Dr.Luís Lustosa|#VALOR!|Mandaqui||São Paulo|11| 2066-2501|etegv@terra.com.br|www.etegv.com
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Prof. Camargo Aranha|R. Marcial|25|Mooca|03169-040|São Paulo|11| 2694-6733|secretariaacademica@eteccamargoaranha.com.br|www.eteccamargoaranha.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Paraisópolis|R. Dr.José Aug.de Souza e Silva|#VALOR!|Morumbi|05712-040|São Paulo|11| 3507-7491|mallena_1@terra.com.br|www.etecparaisopolis.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec no Ceu Parelheiros|Rua José Pedro de Borba|20|Parelheiros|04890-090|São Paulo|11| 5521-0636|diretoria@etecsta.com.br|www.etecsta.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec no Ceu Parque Bristol|Rua Prof. Arthur Primavesi|s/n|Parque Bristol|04177-070|São Paulo|11| 2066-2500|etegv@terra.com.br|www.etegv.com
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec no CEU Alvarenga|Estrada do Alvarenga|3752|Pedreira|04474-340|São Paulo|11| 55210636|diretoria@etecsta.com.br|www.etecsta.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Tiquatira|Av.Cond.Elisabeth de Rob.|5200|Penha|03704-000|São Paulo|11| 2225-2504|secretaria@etectiquatira.com.br|www.etectiquatira.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Prof. Aprígio Gonzaga|Av.Dr. Orêncio Vidigal|212|Penha|03640-010|São Paulo|11| 2647-1491|etepag@ig.com.br|www.etecaprigio.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec EE Dom João M.Ogno Osb|Rua Maria Carlota|400|Penha|03647-000|São Paulo|11| 3311-7098|cacasecretaria@ig.com.br|www.etecarlosdecampos.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec EE Maria de Carvalho Senne|R. Puquixan|s/n|Penha|03656-060|São Paulo|11| 2647-1491|etepag@ig.com.br|www.etecaprigio.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec EE Paulo Kobayashi|Rua Dener|s/n|Penha|08072-132|São Paulo|11| 2045-4000|dir.etezonaleste@centropaulasouza.sp.gov.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec EE Prof. Mauro de Oliveira|R.Pedro Soares de Almeida|134|Perdizes|05029-030|São Paulo|11| 3031-6208|eteguaracy@terra.com.br|www.etecguaracy.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Gildo Marçal Bez.Brandão|R. Presidente Vargas|S/N|Perus (Vila Caiuba)|05207-000|São Paulo|11| 3917-8751|etecperus@gmail.com|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Guaracy Silveira|R. Ferreira de Araújo|527|Pinheiros|05428-001|São Paulo|11| 3813-3986|eteguaracy@terra.com.br|www.eteguaracy.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec EE Prof. Antonio Alves Cruz|R. Alves Guimarães|1511|Pinheiros|05410-002|São Paulo|11| 3813-3986|eteguaracy@terra.com.br|www.eteguaracy.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Cid. Zumbi dos Palmares|Av. Santos Dumont|843|Ponte Pequena|01101-000|São Paulo|11| 2221-0098|contato@etecparquedajuventude.com.br|www.etecparquedajuventude.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Parque Santo Antonio|Rua Abilene|16|Pq. Sto Antonio|03385-160|São Paulo|11| 2301-1058|etec.stoantonio@ig.com.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec EE Stefan Zweig|R. Genaro Arila Arensanz|225|Pq. São Lucas|03275-090|São Paulo|11| 2019-1519|e.sapopemba.acad@centropaulasouza.sp.gov.br|www.etecsapopemba.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec EE Prof. Guiomar R. Rinaldi|R. Dom Fco Cardoso Ayres|285|Raposo Tavares|05560-010|São Paulo|11| 3834-4780|basilides@basilides.com.br|www.basilides.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Artes|Av. Cruzeiro do Sul|2630|Prédio II – Santana|02030-100|São Paulo|11| 2089-0740|secretaria.etecdeartes@gmail.com|www.etecdeartes.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Parque da Juventude|Av. Cruzeiro do Sul|2630|Santana|02030-100|São Paulo|11| 2221-0098|contato@etecparquedajuventude.com.br|www.etecparquedajuventude.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Santo Amaro|R. Mario Lopes Leão|1050 A|Santo Amaro|04754-010|São Paulo|11| 5521-0636|diretoria@etecsta.com.br|www.etecsta.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec EE Paulo Eiro|R. Padre José Maria|210|Santo Amaro|04753-060|São Paulo|11| 5521-0636|diretoria@etecsta.com.br|www.etecsta.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec São Mateus|R. Soledade de Minas|87|São Mateus|03930-070|São Paulo|11| 2721-5111|etecsm@ig.com.br|www.etecsaomateus.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec no Ceu Alto Alegre|Rua Bento Guelfi|s/n|Iguatemi|08381-001|São Paulo|11| 2516-6965|e.ctiradentes.dir@centropaulasouza.sp.gov.br|www.etectiradentes.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec no Ceu Parque São Carlos|Rua Clarear|141|São Miguel Paulista|08062-590|São Paulo|11| 2045-4000|dir.etezonaleste@centropaulasouza.sp.gov.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Sapopemba|R. Benjamin de Tudela|155|Sapopemba|03977-408|São Paulo|11| 2019-1519|e.sapopemba.acad@centropaulasouza.sp.gov.br|www.etecsapopemba.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec EE Maria Rib.Guim.Bueno|R. Vuturuna|190|Saúde|04147-080|São Paulo|11| 2694-6733|secretariaacademica@eteccamargoaranha.com.br|www.etecamargoaranha.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Martin Luther King|R. Apucarana|815|Tatuapé|03311-000|São Paulo|11| 2091-7465|etemlk@terra.com.br|www.etemlk.com
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec EE Cônego João Ligabue|R. da Grota|483|Tucuruvi|02206-010|São Paulo|11| 2905-1125|horacio_augusto@terra.com.br|www.etechoracio.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Vila Formosa|R. Bactória|38|Vila Formosa|03472-100|São Paulo|11| 2211-6485|e.formosa.dir@centropaulasouza.sp.gov.br|www.etecdevilaformosa.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Prof. Horácio Aug.da Silveira|R. Alcântara|113|Vila Guilherme|02110-010|São Paulo|11| 2905-1125|horacio_augusto@terra.com.br|www.etechoracio.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Prof. Basilides de Godoy|R. Artur Orlando|907|Vila Jaguará|05118-000|São Paulo|11| 3834-4780|basilides@basilides.com.br|www.basilides.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Prof. Basilides de Godoy|R. Guaipá|678|Vila Leopoldina|05089-000|São Paulo|11| 3831-6034|basilides@basilides.com.br|www.basilides.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Guaracy Silveira|R. Jericó|nº 256|Vila Madalena|05435-040|São Paulo|11| 3031-9233|mallena_1@terra.com.br|www.eteguaracy.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec EE Brasilio Machado|R. Afonso Celso|311|Vila Mariana|04119-002|São Paulo|11| 2063-4454|secretariajrm@terra.com.br|www.etejoserochamendes.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec EE Prof.Jamil P.Sawaya|R. Palmeirina|189|Vila Matilde|03556-010|São Paulo|11| 2211-6485|e.formosa.dir@centropaulasouza.sp.gov.br|www.etecdevilaformosa.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec EE Carmosina M.Vianna|R. Antônio Palmieri|377|Vila Medeiros|02210-000|São Paulo|11| 2905-1125|horacio_augusto@terra.com.br|www.etechoracio.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec José Rocha Mendes|R. Américo Vespucci|1241|Vila Prudente|03135-010|São Paulo|11| 2063-4454|secretariajrm@terra.com.br|www.etejoserochamendes.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec EE Profº Américo de Moura|Rua Mendonça Corte Real|s/n|Vila Prudente|03227-110|São Paulo|11| 2063-4454|secretariajrm@terra.com.br|www.etejoserochamendes.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Santo Amaro|R. Mario Lopes Leão|1050 A|Santo Amaro|04754-010|São Paulo|11| 5521-0636|diretoria@etecsta.com.br|www.etecsta.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec EE Paulo Eiro|R. Padre José Maria|210|Santo Amaro|04753-060|São Paulo|11| 5521-0636|diretoria@etecsta.com.br|www.etecsta.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec São Mateus|R. Soledade de Minas|87|São Mateus|03930-070|São Paulo|11| 2721-5111|etecsm@ig.com.br|www.etecsaomateus.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec no Ceu Alto Alegre|R. Bento Guelfi|s/n|Iguatemi|08381-001|São Paulo|11| 2516-6965|e.ctiradentes.dir@centropaulasouza.sp.gov.br|www.etectiradentes.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec no Ceu Parque São Carlos|R. Clarear|141|São Miguel Paulista|08062-590|São Paulo|11| 2045-4000|dir.etezonaleste@centropaulasouza.sp.gov.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Sapopemba|R. Benjamin de Tudela|155|Sapopemba|03977-408|São Paulo|11| 2019-1519|e.sapopemba.acad@centropaulasouza.sp.gov.br|www.etecsapopemba.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec EE Maria Rib.Guim.Bueno|R. Vuturuna|190|Saúde|04147-080|São Paulo|11| 2694-6733|secretariaacademica@eteccamargoaranha.com.br|www.etecamargoaranha.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Martin Luther King|R. Apucarana|815|Tatuapé|03311-000|São Paulo|11| 2091-7465|etemlk@terra.com.br|www.etemlk.com
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec EE Cônego João Ligabue|R. da Grota|483|Tucuruvi|02206-010|São Paulo|11| 2905-1125|horacio_augusto@terra.com.br|www.etechoracio.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Vila Formosa|R. Bactória|38|Vila Formosa|03472-100|São Paulo|11| 2211-6485|e.formosa.dir@centropaulasouza.sp.gov.br|www.etecdevilaformosa.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Prof. Horácio Aug.da Silveira|R. Alcântara|113|Vila Guilherme|02110-010|São Paulo|11| 2905-1125|horacio_augusto@terra.com.br|www.etechoracio.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec EE Prof. Ayres de Moura|R. Artur Orlando|907|Vila Jaguará|05118-000|São Paulo|11| 3834-4780|basilides@basilides.com.br|www.basilides.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Prof. Basilides de Godoy|R. Guaipá|678|Vila Leopoldina|05089-000|São Paulo|11| 3834-4780|basilides@basilides.com.br|www.basilides.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Guaracy Silveira|R. Jericó|nº 256|Vila Madalena|05435-040|São Paulo|11| 3031-9233|mallena_1@terra.com.br|www.eteguaracy.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec EE Brasilio Machado|R. Afonso Celso|311|Vila Mariana|04119-002|São Paulo|11| 2063-4454|secretariajrm@terra.com.br|www.etejoserochamendes.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec EE Prof. Jamil Pedro Sawaya|R. Palmeirina|189|Vila Matilde|03556-010|São Paulo|11| 2211-6485|e.formosa.dir@centropaulasouza.sp.gov.br|www.etecdevilaformosa.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec EE Carmosina M.Vianna|R. Antônio Palmieri|377|Vila Medeiros|02210-000|São Paulo|11| 2905-1125|horacio_augusto@terra.com.br|www.etechoracio.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec José Rocha Mendes|R. Américo Vespucci|1241|Vila Prudente|03135-010|São Paulo|11| 2063-4454|secretariajrm@terra.com.br|www.etejoserochamendes.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec EE Profº Américo de Moura|R. Mendonça Corte Real|s/n|Vila Prudente|03227-110|São Paulo|11| 2063-4454|secretariajrm@terra.com.br|www.etejoserochamendes.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec EE República do Paraguai|R. Carlos Muller|21|Vila Prudente|03132-060|São Paulo|11| 2091-7465|etemlk@terra.com.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec no CEU Vila Rubi|R. Domingos Tarroso|101|Vila Rubi|04823-090|São Paulo|11| 5851-5829|secretaria@etezonasul.com.br|www.etezonasul.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Gustavo Teixeira|R. Manoel Estevan Dias|351|Jd. Holiday|13520-000|São Pedro|19| 3483-4111|etecgustavoteixeira@yahoo.com.br|www.etecsaopedro.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de São Roque|R. Vinte e Dois de Abril|35|Jd. René|18135-000|São Roque|11| 4784-3220|dir.etesaoroque@centropaulasouza.sp.gov.br|www.etecsr.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de São Sebastião|R. Italo Nascimento|366|Porto Grande|11600-000|São Sebastião|12| 38921424|etecss@etecss.com.br|www.etecss.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Dr. C. da Motta e Silva|Estr.São Sebastião da Grama|s/n|Fazenda Cachoeira|13790-000|São Seb.da Grama|19| 3651-1229|dir.carolinodamotta@centropaulasouza.sp.gov.br|www.etepinhal.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Prof. Francisco dos Santos|Rod.C.Fco Matarazzo Jr|Km 127|Zona Rural|14200-000|São Simão|16| 3984-1415|ete-pfs@uol.com.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Doutora Ruth Cardoso|Pça. Coronel Lopes|387|Centro|11310-020|São Vicente|13| 3467-7153|etecsv@etecsv.com.br|www.etecsv.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec na EE Enio Vilas Boas|R José Joaquim de Azevedo|1166|Cidade Náutica|11355-040|São Vicente|13| 3467-2955|etecsv@etecsv.com.br|www.etecsv.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Angelo Cavalheiro|R. José Côrrea Filho|750|Jd. Boa Vista|14150-000|Serrana|16| 3987-4964|etecserrana@bol.com.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec EE Winston Churchill|R. Ant.Malaquias Pedroso|1430|Centro|14160-800|Sertãozinho|16| 3610-8374|eterp@terra.com|www.industrialrp.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Rubens de Faria e Souza|Av.Com. Pereira Inácio|190|Lageado|18030-005|Sorocaba|15| 3233-1314|eterfs@terra.com.br|www.eterfs.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Fernando Prestes|R. Natal|340|Jd. Paulistano|18040-810|Sorocaba|15| 3221-9677|direcao@etefernandoprestes.com.br|www.etefernandoprestes.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec EE Prof. J.Izidoro Martins|R. Dolores Bruno|432|Vl. Angélica|18065-400|Sorocaba|15| 3221-9677|direcao@etefernandoprestes.com.br|www.etefernandoprestes.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec EE Prof.Roberto Paschoalick|R. Assis Machado|920|Vl. Hortência|18020-258|Sorocaba|15| 3233-1314|eterfs@terra.com.br|www.eterfs.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec EE Ângelo Campo Dall’Orto|Av. São Paulo|466|Jd Nova Veneza|13177-000|Sumaré|19| 3897-3727|etehoro@uol.com.br|www.etechortolandia.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Suzano|R. Guilherme|325|Jd. Colorado|08615-110|Suzano|11| 4748-1732|e.suzano.dir@centropaulasouza.sp.gov.br|www.etecsuzano.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Dr. Adail Nunes da Silva|R. Mario Rosário Lapenta|S/N|Jd. Contendas|15900-000|Taquaritinga|16| 3252-2530|etedans@yahoo.com.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Dr. Adail Nunes da Silva|R. Francisco Valzacchi|51|Vl. Rosa|15900-000|Taquaritinga|16| 3252-5615|etedans@yahoo.com.br|www.etedans.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Profª Terezinha M.dos Santos|R. Marechal Floriano Peixoto|989|Centro|18740-000|Taquarituba|14| 3762-1401|etetaquarituba@bol.com.br|www.etectaquarituba.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Dr. Dário Pacheco Pedroso|R. Acácio Paulino|s/n|Centro|18425-000|Taquarivaí|15| 3534-1139|etedpp@ig.com.br|www.etedpp.hpg.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Pedro D’Arcádia Neto|Rua Lambaris|405|Vila Dourado|19820-000|Tarumã/SP|18| 3322-3941|etea@femanet.com.br|www.femanet.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Salles Gomes|Pça. Adelaide Barnsley Guedes|01|Centro|18270-020|Tatuí|15| 3205-2202|sgomes@asseta.com.br|www.sallesgomes.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Dr. Geraldo José R.Alckmin|Av. Tomé Portes Del Rei|507|Jd. Ana Rosa|12070-610|Taubaté|12| 3608-4632|etematte@yahoo.com.br|www.etetaubate.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Profª Nair Luccas Ribeiro|R. Pará|506|Bairro da Estação|19280-000|Teodoro Sampaio|18| 3282-1682|dir.teodorosampaio@centropaulasouza.sp.gov.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Dep.Ary de C.Pedroso|Rua Mariana Jacob Biscaro|45|Jd.Bacili|18530000|Tietê|19| 3433-8541|e.piracicaba.adm@centropaulasouza.sp.gov.br|www.etecdepiracicaba.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Prof. Massuyuki Kawano|R. Guaranis|1271|Centro|17600-400|Tupã|14| 3496-1520|etetupa@yahoo.com.br|www.etectupa.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Prof. Massuyuki Kawano|R. Bezerra de Menezes|215|Vl. Independência|17605-440|Tupã|14| 3491-5393|etetupa@yahoo.com.br|www.etectupa.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Dr. Geraldo J.Alckmin|Av. Castro Alves|392|Itaguá|11680-000|Ubatuba|12| 3608-4632|etematte@yahoo.com.br|www.etetaubate.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Sebastiana Aug.de Moraes|Av. Agostinho Barbosa|335|Praça da Bandeira|16880-000|Valparaíso|18| 3722-3302|etesam@ig.com.br|
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Vargem Grande do Sul|R. Joaquim Antônio da Silva|207|Jd. São José|13880-000|Vargem Grande do Sul|19| 3643-1364|etec.vgsul@yahoo.com.br|www.etecvgsul.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Paulo Guerreiro Franco|Estrada Ribeirão das Garças|Km 3|Bandeirantes|17560-000|Vera Cruz|14| 3492-1373|etepgf@terra.com.br|www.eteveracruz.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Benedito Storani|Rua Guido Cinci|310|Jd São Mateus|13280-000|Vinhedo|11| 4582-1881|ctps320@terra.com.br|www.etecbest.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec EE Prof. Daniel Verano|R. Carlos Luvison|180|Pq. Boa Vista|18110-435|Votorantim|15| 3242-6636|secretariavotorantim@gmail.com|www.etecvotorantim.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec de Votorantim|R. Irma Ferrarezi|s/n|Votocel|18115-350|Votorantim|15| 3242-6636|secretariavotorantim@gmail.com|www.etecvotorantim.com.br
+CENTRO ESTADUAL DE EDUCACAO TECNOLOGICA PAULA SOUZA|Etec Frei Arnaldo M.Itaporanga|R. Ceará|4360|Patrimônio Velho|15505-167|Votuporanga|17| 3421-3112|e.amitaporanga.acad@centropaulasouza.sp.gov.br|www.etecvotuporanga.com.br

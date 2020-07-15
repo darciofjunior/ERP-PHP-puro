@@ -1,0 +1,6 @@
+<?
+	$veio_compras = 1;//Essa variável indica que o arquivo foi solicitado compras ...
+/*Eu faço requisição desse arquivo em outro módulo porque a idéia é a mesma aqui em Compras
+e para q a manutenção deste seje única ...*/  
+	require('../../../vendas/estoque_acabado/manipular_estoque/consultar.php');
+?>

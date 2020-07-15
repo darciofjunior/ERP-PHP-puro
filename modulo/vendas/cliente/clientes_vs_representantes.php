@@ -1,0 +1,13 @@
+<?
+require('../../../lib/segurancas.php');
+require('../../../lib/menu/menu.php');
+require('../../../lib/calculos.php');//Essa biblioteca é chamada aqui porque a mesma é utilizada dentro do Custos ...
+require('../../../lib/custos.php');//Essa biblioteca é chamada aqui porque a mesma é utilizada dentro da Vendas ...
+require('../../../lib/data.php');
+require('../../../lib/estoque_acabado.php');//Essa biblioteca é chamada aqui porque a mesma é utilizada dentro da Vendas ...
+require('../../../lib/financeiros.php');
+require('../../../lib/intermodular.php');//Essa biblioteca é chamada aqui porque a mesma é utilizada dentro da Vendas ...
+require('../../../lib/vendas.php');
+segurancas::geral($PHP_SELF, '../../../');
+require('../../classes/cliente/clientes_vs_representantes.php');
+?>

@@ -1,0 +1,109 @@
+ESP|Alargador Manual concico 1:50 DIN 9-B HSS 10x175x215 mm|2|1|1|0|60|145|S|0|0
+ESP|Alargador Manual concico 1:50 DIN 9-B HSS 12x210x255 mm|2|1|1|0|60|145|S|0|0
+ESP|Alargador Manual concico 1:50 DIN 9-B HSS 14x210x255 mm|2|1|1|0|60|145|S|0|0
+ESP|Alargador Manual concico 1:50 DIN 9-B HSS 16x230x280 mm|2|1|1|0|60|145|S|0|0
+ESP|Alargador Manual concico 1:50 DIN 9-B HSS 20x250x310 mm|2|1|1|0|60|145|S|0|0
+ESP|Alargador Manual concico 1:50 DIN 9-B HSS 3x58x80 mm|2|1|1|0|60|145|S|0|0
+ESP|Alargador Manual concico 1:50 DIN 9-B HSS 4x68x93 mm|2|1|1|0|60|145|S|0|0
+ESP|Alargador Manual concico 1:50 DIN 9-B HSS 5x73x100 mm|2|1|1|0|60|145|S|0|0
+ESP|Alargador Manual concico 1:50 DIN 9-B HSS 6x105x135 mm|2|1|1|0|60|145|S|0|0
+ESP|Alargador Manual concico 1:50 DIN 9-B HSS 8x145x180 mm|2|1|1|0|60|145|S|0|0
+ESP|Alargador Manual DIN 206-B HSS 14x81x163 mm|2|1|1|0|60|145|S|0|0
+ESP|Alargador Manual DIN 206-B HSS 16x87x175 mm|2|1|1|0|60|145|S|0|0
+ESP|Alargador Maquina DIN 212-B HSS 10x38x133 mm|2|1|1|0|60|145|S|0|0
+ESP|Alargador Maquina DIN 212-B HSS 12x44x151 mm|2|1|1|0|60|145|S|0|0
+ESP|Alargador Maquina DIN 212-B HSS 14x47x160 mm|2|1|1|0|60|145|S|0|0
+ESP|Alargador Maquina DIN 212-B HSS 16x52x170 mm|2|1|1|0|60|145|S|0|0
+ESP|Alargador Maquina DIN 212-B HSS 18x56x182 mm|2|1|1|0|60|145|S|0|0
+ESP|Alargador Maquina DIN 212-B HSS 20x60x195 mm|2|1|1|0|60|145|S|0|0
+ESP|Alargador Maquina DIN 212-B HSS 22x60x225 mm|2|1|1|0|60|145|S|0|0
+ESP|Alargador Maquina DIN 212-B HSS 24x60x240 mm|2|1|1|0|60|145|S|0|0
+ESP|Alargador Maquina DIN 212-B HSS 25x60x245 mm|2|1|1|0|60|145|S|0|0
+ESP|Alargador Maquina DIN 212-B HSS 26x60x250 mm|2|1|1|0|60|145|S|0|0
+ESP|Alargador Maquina DIN 212-B HSS 28x65x270 mm|2|1|1|0|60|145|S|0|0
+ESP|Alargador Maquina DIN 212-B HSS 30x65x270 mm|2|1|1|0|60|145|S|0|0
+ESP|Alargador Maquina DIN 212-B HSS 3x15x61 mm|2|1|1|0|60|145|S|0|0
+ESP|Alargador Maquina DIN 212-B HSS 4x19x75 mm|2|1|1|0|60|145|S|0|0
+ESP|Alargador Maquina DIN 212-B HSS 5x23x86 mm|2|1|1|0|60|145|S|0|0
+ESP|Alargador Maquina DIN 212-B HSS 6x26x93 mm|2|1|1|0|60|145|S|0|0
+ESP|Alargador Maquina DIN 212-B HSS 8x33x117 mm|2|1|1|0|60|145|S|0|0
+ESP|ESCAREADOR DIN 334C 3 CORTES 60° - HSS 25X6.3 mm|2|1|1|0|60|146|S|0|0
+ESP|ESCAREADOR DIN 334C 3 CORTES 60° - HSS 5x1.5 mm|2|1|1|0|60|146|S|0|0
+ESP|ESCAREADOR DIN 334C 3 CORTES 60° - HSS 15x3.2 mm|2|1|1|0|60|146|S|0|0
+ESP|ESCAREADOR DIN 334C 3 CORTES 60° - HSS 28x4.0 mm|2|1|1|0|60|146|S|0|0
+ESP|Fresa de Topo 2 cortes DIN 327 - HSS 10x13x63 mm|2|1|1|0|60|141|S|0|0
+ESP|Fresa de Topo 2 cortes DIN 327 - HSS 12x16x73 mm|2|1|1|0|60|141|S|0|0
+ESP|Fresa de Topo 2 cortes DIN 327 - HSS 14x16x73 mm|2|1|1|0|60|141|S|0|0
+ESP|Fresa de Topo 2 cortes DIN 327 - HSS 16x19x79 mm|2|1|1|0|60|141|S|0|0
+ESP|Fresa de Topo 2 cortes DIN 327 - HSS 18x19x79 mm|2|1|1|0|60|141|S|0|0
+ESP|Fresa de Topo 2 cortes DIN 327 - HSS 2x4x48 mm|2|1|1|0|60|141|S|0|0
+ESP|Fresa de Topo 2 cortes DIN 327 - HSS 20x22x88 mm|2|1|1|0|60|141|S|0|0
+ESP|Fresa de Topo 2 cortes DIN 327 - HSS 3x5x49 mm|2|1|1|0|60|141|S|0|0
+ESP|Fresa de Topo 2 cortes DIN 327 - HSS 4x7x51 mm|2|1|1|0|60|141|S|0|0
+ESP|Fresa de Topo 2 cortes DIN 327 - HSS 5x8x52 mm|2|1|1|0|60|141|S|0|0
+ESP|Fresa de Topo 2 cortes DIN 327 - HSS 6x8x52 mm|2|1|1|0|60|141|S|0|0
+ESP|Fresa de Topo 2 cortes DIN 327 - HSS 8x11x61 mm|2|1|1|0|60|141|S|0|0
+ESP|Fresa de Topo 4 cortes DIN 844 - HSS 10x22x72 mm|2|1|1|0|60|141|S|0|0
+ESP|Fresa de Topo 4 cortes DIN 844 - HSS 12x26x83 mm|2|1|1|0|60|141|S|0|0
+ESP|Fresa de Topo 4 cortes DIN 844 - HSS 14x26x83 mm|2|1|1|0|60|141|S|0|0
+ESP|Fresa de Topo 4 cortes DIN 844 - HSS 18x32x92 mm|2|1|1|0|60|141|S|0|0
+ESP|Fresa de Topo 4 cortes DIN 844 - HSS 2x7x51 mm|2|1|1|0|60|141|S|0|0
+ESP|Fresa de Topo 4 cortes DIN 844 - HSS 20x38x104 mm|2|1|1|0|60|141|S|0|0
+ESP|Fresa de Topo 4 cortes DIN 844 - HSS 3x8x52 mm|2|1|1|0|60|141|S|0|0
+ESP|Fresa de Topo 4 cortes DIN 844 - HSS 4x11x55 mm|2|1|1|0|60|141|S|0|0
+ESP|Fresa de Topo 4 cortes DIN 844 - HSS 5x13x57 mm|2|1|1|0|60|141|S|0|0
+ESP|Fresa de Topo 4 cortes DIN 844 - HSS 6x13x57 mm|2|1|1|0|60|141|S|0|0
+ESP|Fresa de Topo 4 cortes DIN 844 - HSS 8x19x69 mm|2|1|1|0|60|141|S|0|0
+ESP|Fresa de Topo 2 cortes - MD 3x6x38 mm|2|1|1|0|60|140|S|0|0
+ESP|Fresa de Topo 2 cortes - MD 4x8x51 mm|2|1|1|0|60|140|S|0|0
+ESP|Fresa de Topo 2 cortes - MD 5x11x51 mm|2|1|1|0|60|140|S|0|0
+ESP|Fresa de Topo 2 cortes esférica MD 3x3x9 mm|2|1|1|0|60|140|S|0|0
+ESP|Fresa de Topo 2 cortes esférica MD 4x4x12 mm|2|1|1|0|60|140|S|0|0
+ESP|Fresa de Topo 2 cortes esférica MD 5x5x15 mm|2|1|1|0|60|140|S|0|0
+ESP|Fresa de Topo 2 cortes esférica MD 6x6x15 mm|2|1|1|0|60|140|S|0|0
+ESP|Fresa de Topo 2 cortes esférica MD 8x8x19 mm|2|1|1|0|60|140|S|0|0
+ESP|Fresa de Topo 2 cortes esférica MD 9x9x19 mm|2|1|1|0|60|140|S|0|0
+ESP|Fresa de Topo 2 cortes esférica MD 10x10x25 mm|2|1|1|0|60|140|S|0|0
+ESP|Fresa de Topo 2 cortes esférica MD 12x12x26 mm|2|1|1|0|60|140|S|0|0
+ESP|Fresa de Topo 2 cortes esférica MD 14x14x28 mm|2|1|1|0|60|140|S|0|0
+ESP|Fresa de Topo 2 cortes esférica MD 16x16x32 mm|2|1|1|0|60|140|S|0|0
+ESP|Fresa de Topo 2 cortes esférica MD 20x20x38 mm|2|1|1|0|60|140|S|0|0
+ESP|Fresa de Topo 2 cortes esférica HSS 3x5x49 mm|2|1|1|0|60|141|S|0|0
+ESP|Fresa de Topo 2 cortes esférica HSS 4x7x51 mm|2|1|1|0|60|141|S|0|0
+ESP|Fresa de Topo 2 cortes esférica HSS 5x8x52 mm|2|1|1|0|60|141|S|0|0
+ESP|Fresa de Topo 2 cortes esférica HSS 6x8x52 mm|2|1|1|0|60|141|S|0|0
+ESP|Fresa de Topo 2 cortes esférica HSS 8x11x61 mm|2|1|1|0|60|141|S|0|0
+ESP|Fresa de Topo 2 cortes esférica HSS 9x11x61 mm|2|1|1|0|60|141|S|0|0
+ESP|Fresa de Topo 2 cortes esférica HSS 10x13x63 mm|2|1|1|0|60|141|S|0|0
+ESP|Fresa de Topo 2 cortes esférica HSS 12x16x73 mm|2|1|1|0|60|141|S|0|0
+ESP|Fresa de Topo 2 cortes esférica HSS 14x16x73 mm|2|1|1|0|60|141|S|0|0
+ESP|Fresa de Topo 2 cortes esférica HSS 16x19x79 mm|2|1|1|0|60|141|S|0|0
+ESP|Fresa de Topo 2 cortes esférica HSS 20x22x88 mm|2|1|1|0|60|141|S|0|0
+ESP|Fresa de Topo 2 cortes esférica HSS 24x26x102 mm|2|1|1|0|60|141|S|0|0
+ESP|Fresa de Topo para desbaste DIN 844A NR- HSS 2x7x51 mm|2|1|1|0|60|141|S|0|0
+ESP|Fresa de Topo para desbaste DIN 844A NR- HSS 3x8x52 mm|2|1|1|0|60|141|S|0|0
+ESP|Fresa de Topo para desbaste DIN 844A NR- HSS 4x11x55 mm|2|1|1|0|60|141|S|0|0
+ESP|Fresa de Topo para desbaste DIN 844A NR- HSS 5x13x57 mm|2|1|1|0|60|141|S|0|0
+ESP|Fresa de topo 4 cortes DIN 1835-N HSS 16x92|2|1|1|0|60|141|S|0|0
+ESP|Fresa de Topo 2 cortes esférica MD 3x9 mm|2|1|1|0|60|140|S|0|0
+ESP|Fresa de Topo 2 cortes esférica MD 4x12 mm|2|1|1|0|60|140|S|0|0
+ESP|Fresa de Topo 2 cortes esférica MD 5x15 mm|2|1|1|0|60|140|S|0|0
+ESP|Fresa de Topo 2 cortes esférica MD 6x15 mm|2|1|1|0|60|140|S|0|0
+ESP|Fresa de Topo 2 cortes esférica MD 8x19 mm|2|1|1|0|60|140|S|0|0
+ESP|Fresa de Topo 2 cortes esférica MD 9x19 mm|2|1|1|0|60|140|S|0|0
+ESP|Fresa de Topo 2 cortes esférica MD 10x25 mm|2|1|1|0|60|140|S|0|0
+ESP|Fresa de Topo 2 cortes esférica MD 12x26 mm|2|1|1|0|60|140|S|0|0
+ESP|Fresa de Topo 2 cortes esférica MD 14x28 mm|2|1|1|0|60|140|S|0|0
+ESP|Fresa de Topo 2 cortes esférica MD 16x32 mm|2|1|1|0|60|140|S|0|0
+ESP|Fresa de Topo 2 cortes esférica MD 20x38 mm|2|1|1|0|60|140|S|0|0
+ESP|Fresa de Topo 4 cortes esférica MD 3x9 mm|2|1|1|0|60|140|S|0|0
+ESP|Fresa de Topo 4 cortes esférica MD 4x12 mm|2|1|1|0|60|140|S|0|0
+ESP|Fresa de Topo 4 cortes esférica MD 5x15 mm|2|1|1|0|60|140|S|0|0
+ESP|Fresa de Topo 4 cortes esférica MD 6x15 mm|2|1|1|0|60|140|S|0|0
+ESP|Fresa de Topo 4 cortes esférica MD 8x19 mm|2|1|1|0|60|140|S|0|0
+ESP|Fresa de Topo 4 cortes esférica MD 9x19 mm|2|1|1|0|60|140|S|0|0
+ESP|Fresa de Topo 4 cortes esférica MD 10x25 mm|2|1|1|0|60|140|S|0|0
+ESP|Fresa de Topo 4 cortes esférica MD 12x26 mm|2|1|1|0|60|140|S|0|0
+ESP|Fresa de Topo 4 cortes esférica MD 14x28 mm|2|1|1|0|60|140|S|0|0
+ESP|Fresa de Topo 4 cortes esférica MD 16x32 mm|2|1|1|0|60|140|S|0|0
+ESP|Fresa de Topo 4 cortes esférica MD 20x38 mm|2|1|1|0|60|140|S|0|0

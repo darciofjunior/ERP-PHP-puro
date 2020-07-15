@@ -1,0 +1,5564 @@
+29|1100148|Nova Brasilândia D'Oeste
+29|1100320|São Miguel do Guaporé
+29|1100346|Alvorada D'Oeste
+29|1101500|Seringueiras
+29|1100015|Alta Floresta D'Oeste
+29|1100049|Cacoal
+29|1100098|Espigão D'Oeste
+29|1100288|Rolim de Moura
+29|1100296|Santa Luzia D'Oeste
+29|1100379|Alto Alegre dos Parecis
+29|1100502|Novo Horizonte do Oeste
+29|1100908|Castanheiras
+29|1101203|Ministro Andreazza
+29|1100189|Pimenta Bueno
+29|1100304|Vilhena
+29|1100924|Chupinguaia
+29|1101450|Parecis
+29|1101476|Primavera de Rondônia
+29|1101484|São Felipe D'Oeste
+29|1100031|Cabixi
+29|1100056|Cerejeiras
+29|1100064|Colorado do Oeste
+29|1100072|Corumbiara
+29|1101468|Pimenteiras do Oeste
+25|1200203|Cruzeiro do Sul
+25|1200336|Mâncio Lima
+25|1200351|Marechal Thaumaturgo
+25|1200393|Porto Walter
+25|1200427|Rodrigues Alves
+25|1200302|Feijó
+25|1200328|Jordão
+25|1200609|Tarauacá
+25|1200344|Manoel Urbano
+25|1200435|Santa Rosa do Purus
+25|1200500|Sena Madureira
+25|1200013|Acrelândia
+25|1200138|Bujari
+25|1200179|Capixaba
+25|1200385|Plácido de Castro
+25|1200401|Rio Branco
+25|1200450|Senador Guiomard
+25|1200807|Porto Acre
+25|1200054|Assis Brasil
+25|1200104|Brasiléia
+25|1200252|Epitaciolândia
+25|1200708|Xapuri
+26|1300409|Barcelos
+26|1303205|Novo Airão
+29|1100205|Porto Velho
+29|1100338|Nova Mamoré
+29|1100452|Buritis
+29|1100700|Campo Novo de Rondônia
+29|1100809|Candeias do Jamari
+29|1100940|Cujubim
+29|1101104|Itapuã do Oeste
+29|1100080|Costa Marques
+29|1100106|Guajará-Mirim
+29|1101492|São Francisco do Guaporé
+29|1100023|Ariquemes
+29|1100130|Machadinho D'Oeste
+29|1100262|Rio Crespo
+29|1100403|Alto Paraíso
+29|1100601|Cacaulândia
+29|1101401|Monte Negro
+29|1101757|Vale do Anari
+29|1100114|Jaru
+29|1100122|Ji-Paraná
+29|1100155|Ouro Preto do Oeste
+29|1100254|Presidente Médici
+29|1101005|Governador Jorge Teixeira
+29|1101302|Mirante da Serra
+29|1101435|Nova União
+29|1101559|Teixeirópolis
+29|1101609|Theobroma
+29|1101708|Urupá
+29|1101807|Vale do Paraíso
+26|1303601|Santa Isabel do Rio Negro
+26|1303809|São Gabriel da Cachoeira
+26|1302108|Japurá
+26|1302801|Maraã
+26|1300060|Amaturá
+26|1300201|Atalaia do Norte
+26|1300607|Benjamin Constant
+26|1301605|Fonte Boa
+26|1302306|Jutaí
+26|1303700|Santo Antônio do Içá
+26|1303908|São Paulo de Olivença
+26|1304062|Tabatinga
+26|1304237|Tonantins
+26|1301001|Carauari
+26|1301407|Eirunepé
+26|1301506|Envira
+26|1301654|Guajará
+26|1301803|Ipixuna
+26|1301951|Itamarati
+26|1302207|Juruá
+26|1300029|Alvarães
+26|1304203|Tefé
+26|1304260|Uarini
+26|1300086|Anamã
+26|1300102|Anori
+26|1300631|Beruri
+26|1300839|Caapiranga
+26|1301209|Coari
+26|1301308|Codajás
+26|1300300|Autazes
+26|1301100|Careiro
+26|1301159|Careiro da Várzea
+26|1301852|Iranduba
+26|1302504|Manacapuru
+26|1302553|Manaquiri
+26|1302603|Manaus
+26|1303536|Presidente Figueiredo
+26|1303569|Rio Preto da Eva
+26|1301902|Itacoatiara
+26|1302009|Itapiranga
+26|1303106|Nova Olinda do Norte
+26|1304005|Silves
+26|1304401|Urucurituba
+26|1300508|Barreirinha
+26|1300680|Boa Vista do Ramos
+26|1302900|Maués
+26|1303007|Nhamundá
+26|1303403|Parintins
+26|1303957|São Sebastião do Uatumã
+26|1304302|Urucará
+26|1300706|Boca do Acre
+26|1303502|Pauini
+26|1300904|Canutama
+26|1302405|Lábrea
+26|1304104|Tapauá
+26|1300144|Apuí
+26|1300805|Borba
+26|1301704|Humaitá
+26|1302702|Manicoré
+26|1303304|Novo Aripuanã
+28|1400027|Amajari
+28|1400050|Alto Alegre
+28|1400100|Boa Vista
+28|1400456|Pacaraima
+28|1400159|Bonfim
+28|1400175|Cantá
+28|1400407|Normandia
+28|1400704|Uiramutã
+28|1400209|Caracaraí
+28|1400282|Iracema
+28|1400308|Mucajaí
+28|1400233|Caroebe
+28|1400472|Rorainópolis
+28|1400506|São João da Baliza
+28|1400605|São Luiz
+31|1503002|Faro
+31|1503903|Juruti
+31|1505106|Óbidos
+31|1505304|Oriximiná
+31|1507979|Terra Santa
+31|1500404|Alenquer
+31|1501451|Belterra
+31|1502855|Curuá
+31|1504802|Monte Alegre
+31|1505650|Placas
+31|1506005|Prainha
+31|1506807|Santarém
+31|1500503|Almeirim
+31|1505908|Porto de Moz
+31|1501105|Bagre
+31|1503101|Gurupá
+31|1504505|Melgaço
+31|1505809|Portel
+31|1500305|Afuá
+31|1500701|Anajás
+31|1501808|Breves
+31|1502806|Curralinho
+31|1507706|São Sebastião da Boa Vista
+31|1502004|Cachoeira do Arari
+31|1502509|Chaves
+31|1504901|Muaná
+31|1505700|Ponta de Pedras
+31|1506302|Salvaterra
+31|1506401|Santa Cruz do Arari
+31|1507904|Soure
+31|1500800|Ananindeua
+31|1501303|Barcarena
+31|1501402|Belém
+31|1501501|Benevides
+31|1504422|Marituba
+31|1506351|Santa Bárbara do Pará
+31|1501907|Bujaru
+31|1502400|Castanhal
+31|1503408|Inhangapi
+31|1506500|Santa Isabel do Pará
+31|1507003|Santo Antônio do Tauá
+31|1502608|Colares
+31|1502905|Curuçá
+31|1504109|Magalhães Barata
+31|1504307|Maracanã
+31|1504406|Marapanim
+31|1506203|Salinópolis
+31|1507102|São Caetano de Odivelas
+31|1507466|São João da Ponta
+31|1507474|São João de Pirabas
+31|1507961|Terra Alta
+31|1508209|Vigia
+31|1500909|Augusto Corrêa
+31|1501600|Bonito
+31|1501709|Bragança
+31|1502202|Capanema
+31|1503200|Igarapé-Açu
+31|1505007|Nova Timboteua
+31|1505601|Peixe-Boi
+31|1506104|Primavera
+31|1506112|Quatipuru
+31|1506609|Santa Maria do Pará
+31|1506906|Santarém Novo
+31|1507409|São Francisco do Pará
+31|1508035|Tracuateua
+31|1500107|Abaetetuba
+31|1501204|Baião
+31|1502103|Cametá
+31|1503309|Igarapé-Miri
+31|1504000|Limoeiro do Ajuru
+31|1504604|Mocajuba
+31|1505205|Oeiras do Pará
+31|1500206|Acará
+31|1502756|Concórdia do Pará
+31|1504703|Moju
+31|1507953|Tailândia
+31|1508001|Tomé-Açu
+31|1500958|Aurora do Pará
+31|1501956|Cachoeira do Piriá
+31|1502301|Capitão Poço
+31|1503077|Garrafão do Norte
+31|1503457|Ipixuna do Pará
+31|1503507|Irituia
+31|1504059|Mãe do Rio
+31|1504950|Nova Esperança do Piriá
+31|1505403|Ourém
+31|1506559|Santa Luzia do Pará
+31|1507201|São Domingos do Capim
+31|1507607|São Miguel do Guamá
+31|1508308|Viseu
+31|1501006|Aveiro
+31|1503606|Itaituba
+31|1503754|Jacareacanga
+31|1505031|Novo Progresso
+31|1506195|Rurópolis
+31|1508050|Trairão
+31|1500602|Altamira
+31|1500859|Anapu
+31|1501725|Brasil Novo
+31|1504455|Medicilândia
+31|1505486|Pacajá
+31|1507805|Senador José Porfírio
+31|1508159|Uruará
+31|1508357|Vitória do Xingu
+31|1501782|Breu Branco
+31|1503705|Itupiranga
+31|1503804|Jacundá
+31|1504976|Nova Ipixuna
+31|1505064|Novo Repartimento
+31|1508100|Tucuruí
+31|1500131|Abel Figueiredo
+31|1501576|Bom Jesus do Tocantins
+31|1502939|Dom Eliseu
+31|1503093|Goianésia do Pará
+31|1505502|Paragominas
+31|1506187|Rondon do Pará
+31|1508126|Ulianópolis
+31|1501253|Bannach
+31|1502764|Cumaru do Norte
+31|1505437|Ourilândia do Norte
+31|1507300|São Félix do Xingu
+31|1508084|Tucumã
+31|1500347|Água Azul do Norte
+31|1502152|Canaã dos Carajás
+31|1502772|Curionópolis
+31|1502954|Eldorado dos Carajás
+31|1505536|Parauapebas
+31|1501758|Brejo Grande do Araguaia
+31|1504208|Marabá
+31|1505494|Palestina do Pará
+31|1507151|São Domingos do Araguaia
+31|1507508|São João do Araguaia
+31|1505551|Pau D'Arco
+31|1505635|Piçarra
+31|1506138|Redenção
+31|1506161|Rio Maria
+31|1507458|São Geraldo do Araguaia
+31|1507755|Sapucaia
+31|1508407|Xinguara
+31|1502707|Conceição do Araguaia
+31|1503044|Floresta do Araguaia
+31|1506583|Santa Maria das Barreiras
+31|1506708|Santana do Araguaia
+27|1600204|Calçoene
+27|1600501|Oiapoque
+27|1600105|Amapá
+27|1600550|Pracuúba
+27|1600709|Tartarugalzinho
+27|1600055|Serra do Navio
+27|1600154|Pedra Branca do Amapari
+27|1600212|Cutias
+27|1600238|Ferreira Gomes
+27|1600253|Itaubal
+27|1600303|Macapá
+27|1600535|Porto Grande
+27|1600600|Santana
+27|1600279|Laranjal do Jari
+27|1600402|Mazagão
+27|1600808|Vitória do Jari
+30|1700301|Aguiarnópolis
+30|1701002|Ananás
+30|1701051|Angico
+30|1702208|Araguatins
+30|1702554|Augustinópolis
+30|1702901|Axixá do Tocantins
+30|1703800|Buriti do Tocantins
+30|1703826|Cachoeirinha
+30|1703891|Carrasco Bonito
+30|1706506|Darcinópolis
+30|1707405|Esperantina
+30|1710706|Itaguatins
+30|1712454|Luzinópolis
+30|1712801|Maurilândia do Tocantins
+30|1713809|Palmeiras do Tocantins
+30|1714302|Nazaré
+30|1718303|Praia Norte
+30|1718550|Riachinho
+30|1718808|Sampaio
+30|1720002|Santa Terezinha do Tocantins
+30|1720101|São Bento do Tocantins
+30|1720200|São Miguel do Tocantins
+30|1720309|São Sebastião do Tocantins
+30|1720804|Sítio Novo do Tocantins
+30|1721208|Tocantinópolis
+30|1701309|Aragominas
+30|1702109|Araguaína
+30|1702158|Araguanã
+30|1702307|Arapoema
+30|1703008|Babaçulândia
+30|1703057|Bandeirantes do Tocantins
+30|1703883|Carmolândia
+30|1705508|Colinas do Tocantins
+30|1707702|Filadélfia
+30|1713957|Muricilândia
+30|1714880|Nova Olinda
+30|1715705|Palmeirante
+30|1716307|Pau D'Arco
+30|1717206|Piraquê
+30|1718865|Santa Fé do Araguaia
+30|1722081|Wanderlândia
+30|1722107|Xambioá
+30|1700251|Abreulândia
+30|1701903|Araguacema
+30|1703107|Barrolândia
+30|1703206|Bernardo Sayão
+30|1703602|Brasilândia do Tocantins
+30|1703909|Caseara
+30|1706001|Couto de Magalhães
+30|1707108|Divinópolis do Tocantins
+30|1707207|Dois Irmãos do Tocantins
+30|1708254|Fortaleza do Tabocão
+30|1708304|Goianorte
+30|1709302|Guaraí
+30|1711100|Itaporã do Tocantins
+30|1711803|Juarina
+30|1712504|Marianópolis do Tocantins
+30|1713205|Miracema do Tocantins
+30|1713304|Miranorte
+30|1713700|Monte Santo do Tocantins
+30|1716653|Pequizeiro
+30|1716703|Colméia
+30|1718402|Presidente Kennedy
+30|1718709|Rio dos Bois
+30|1721257|Tupirama
+30|1721307|Tupiratins
+30|1702000|Araguaçu
+30|1704600|Chapada de Areia
+30|1706100|Cristalândia
+30|1707306|Dueré
+30|1707553|Fátima
+30|1708205|Formoso do Araguaia
+30|1711902|Lagoa da Confusão
+30|1715002|Nova Rosalândia
+30|1715507|Oliveira de Fátima
+30|1716109|Paraíso do Tocantins
+30|1717503|Pium
+30|1718451|Pugmil
+30|1718840|Sandolândia
+30|1700350|Aliança do Tocantins
+30|1700707|Alvorada
+30|1703701|Brejinho de Nazaré
+30|1703867|Cariri do Tocantins
+30|1706258|Crixás do Tocantins
+30|1707652|Figueirópolis
+30|1709500|Gurupi
+30|1711506|Jaú do Tocantins
+30|1715754|Palmeirópolis
+30|1716604|Peixe
+30|1718899|Santa Rita do Tocantins
+30|1720259|São Salvador do Tocantins
+30|1720853|Sucupira
+30|1720978|Talismã
+30|1701101|Aparecida do Rio Negro
+30|1703305|Bom Jesus do Tocantins
+30|1709807|Ipueiras
+30|1712009|Lajeado
+30|1713601|Monte do Carmo
+30|1716505|Pedro Afonso
+30|1718204|Porto Nacional
+30|1718881|Santa Maria do Tocantins
+30|1720655|Silvanópolis
+30|1721000|Palmas
+30|1721109|Tocantínia
+30|1703073|Barra do Ouro
+30|1703842|Campos Lindos
+30|1704105|Centenário
+30|1709005|Goiatins
+30|1710508|Itacajá
+30|1710904|Itapiratins
+30|1711951|Lagoa do Tocantins
+30|1712405|Lizarda
+30|1712702|Mateiros
+30|1715101|Novo Acordo
+30|1717909|Ponte Alta do Tocantins
+30|1718501|Recursolândia
+30|1718758|Rio Sono
+30|1719004|Santa Tereza do Tocantins
+30|1720150|São Félix do Tocantins
+30|1700400|Almas
+30|1702406|Arraias
+30|1702703|Aurora do Tocantins
+30|1705102|Chapada da Natividade
+30|1705557|Combinado
+30|1705607|Conceição do Tocantins
+30|1707009|Dianópolis
+30|1712157|Lavandeira
+30|1714203|Natividade
+30|1715150|Novo Alegre
+30|1715259|Novo Jardim
+30|1716208|Paranã
+30|1717008|Pindorama do Tocantins
+30|1717800|Ponte Alta do Bom Jesus
+30|1718006|Porto Alegre do Tocantins
+30|1718659|Rio da Conceição
+30|1718907|Santa Rosa do Tocantins
+30|1720499|São Valério da Natividade
+30|1720903|Taguatinga
+30|1720937|Taipas do Tocantins
+19|2100204|Alcântara
+19|2100832|Apicum-Açu
+19|2101301|Bacuri
+19|2101350|Bacurituba
+19|2101905|Bequimão
+19|2102408|Cajapió
+19|2103109|Cedral
+19|2103125|Central do Maranhão
+19|2103703|Cururupu
+19|2104909|Guimarães
+19|2106805|Mirinzal
+19|2109056|Porto Rico do Maranhão
+19|2111789|Serrano do Maranhão
+19|2107506|Paço do Lumiar
+19|2109452|Raposa
+19|2111201|São José de Ribamar
+19|2111300|São Luís
+19|2101103|Axixá
+19|2101251|Bacabeira
+19|2102374|Cachoeira Grande
+19|2105104|Icatu
+19|2107100|Morros
+19|2109205|Presidente Juscelino
+19|2109601|Rosário
+19|2110203|Santa Rita
+19|2101707|Barreirinhas
+19|2105005|Humberto de Campos
+19|2108058|Paulino Neves
+19|2109403|Primeira Cruz
+19|2110278|Santo Amaro do Maranhão
+19|2112506|Tutóia
+19|2100709|Anajatuba
+19|2101004|Arari
+19|2101772|Bela Vista do Maranhão
+19|2102507|Cajari
+19|2103554|Conceição do Lago-Açu
+19|2105153|Igarapé do Meio
+19|2106508|Matinha
+19|2106904|Monção
+19|2107456|Olinda Nova do Maranhão
+19|2107605|Palmeirândia
+19|2108256|Pedro do Rosário
+19|2108306|Penalva
+19|2108405|Peri Mirim
+19|2108603|Pinheiro
+19|2109270|Presidente Sarney
+19|2109809|Santa Helena
+19|2110500|São Bento
+19|2111003|São João Batista
+19|2111706|São Vicente Ferrer
+19|2112803|Viana
+19|2112902|Vitória do Mearim
+19|2102705|Cantanhede
+19|2105401|Itapecuru Mirim
+19|2106631|Matões do Norte
+19|2106755|Miranda do Norte
+19|2107209|Nina Rodrigues
+19|2108801|Pirapemas
+19|2109304|Presidente Vargas
+19|2112704|Vargem Grande
+19|2100550|Amapá do Maranhão
+19|2101970|Boa Vista do Gurupi
+19|2102606|Cândido Mendes
+19|2102903|Carutapera
+19|2103158|Centro do Guilherme
+19|2103174|Centro Novo do Maranhão
+19|2104305|Godofredo Viana
+19|2104677|Governador Nunes Freire
+19|2105658|Junco do Maranhão
+19|2106201|Luís Domingues
+19|2106326|Maracaçumé
+19|2106375|Maranhãozinho
+19|2112407|Turiaçu
+19|2112456|Turilândia
+19|2100402|Altamira do Maranhão
+19|2100477|Alto Alegre do Pindaré
+19|2100873|Araguanã
+19|2102002|Bom Jardim
+19|2102036|Bom Jesus das Selvas
+19|2102150|Brejo de Areia
+19|2102325|Buriticupu
+19|2104651|Governador Newton Bello
+19|2105708|Lago da Pedra
+19|2105963|Lagoa Grande do Maranhão
+19|2106359|Marajá do Sena
+19|2107357|Nova Olinda do Maranhão
+19|2108108|Paulo Ramos
+19|2108504|Pindaré-Mirim
+19|2109239|Presidente Médici
+19|2109908|Santa Inês
+19|2110005|Santa Luzia
+19|2110039|Santa Luzia do Paruá
+19|2111029|São João do Carú
+19|2112274|Tufilândia
+19|2113009|Vitorino Freire
+19|2114007|Zé Doca
+19|2100055|Açailândia
+19|2100600|Amarante do Maranhão
+19|2102358|Buritirana
+19|2103257|Cidelândia
+19|2103752|Davinópolis
+19|2104552|Governador Edison Lobão
+19|2105302|Imperatriz
+19|2105427|Itinga do Maranhão
+19|2105500|João Lisboa
+19|2105989|Lajeado Novo
+19|2107001|Montes Altos
+19|2109551|Ribamar Fiquene
+19|2110856|São Francisco do Brejão
+19|2111532|São Pedro da Água Branca
+19|2111763|Senador La Rocque
+19|2112852|Vila Nova dos Martírios
+19|2101202|Bacabal
+19|2101939|Bernardo do Mearim
+19|2102077|Bom Lugar
+19|2104008|Esperantinópolis
+19|2105203|Igarapé Grande
+19|2105807|Lago do Junco
+19|2105906|Lago Verde
+19|2105948|Lago dos Rodrigues
+19|2106003|Lima Campos
+19|2107407|Olho d'Água das Cunhãs
+19|2108207|Pedreiras
+19|2108702|Pio XII
+19|2108900|Poção de Pedras
+19|2110302|Santo Antônio dos Lopes
+19|2111409|São Luís Gonzaga do Maranhão
+19|2111508|São Mateus do Maranhão
+19|2111631|São Raimundo do Doca Bezerra
+19|2111672|São Roberto
+19|2111722|Satubinha
+19|2112233|Trizidela do Vale
+19|2100956|Arame
+19|2101608|Barra do Corda
+19|2104081|Fernando Falcão
+19|2104099|Formosa da Serra Negra
+19|2104800|Grajaú
+19|2105351|Itaipava do Grajaú
+19|2105476|Jenipapo dos Vieiras
+19|2105609|Joselândia
+19|2109759|Santa Filomena do Maranhão
+19|2111805|Sítio Novo
+19|2112308|Tuntum
+19|2103802|Dom Pedro
+19|2104206|Fortuna
+19|2104404|Gonçalves Dias
+19|2104503|Governador Archer
+19|2104602|Governador Eugênio Barros
+19|2104628|Governador Luiz Rocha
+19|2104701|Graça Aranha
+19|2109106|Presidente Dutra
+19|2110708|São Domingos do Maranhão
+19|2111250|São José dos Basílios
+19|2111748|Senador Alexandre Costa
+19|2100154|Água Doce do Maranhão
+19|2100907|Araioses
+19|2106300|Magalhães de Almeida
+19|2110104|Santa Quitéria do Maranhão
+19|2110237|Santana do Maranhão
+19|2110609|São Bernardo
+19|2100808|Anapurus
+19|2101731|Belágua
+19|2102101|Brejo
+19|2102200|Buriti
+19|2103208|Chapadinha
+19|2106409|Mata Roma
+19|2106672|Milagres do Maranhão
+19|2110401|São Benedito do Rio Preto
+19|2112605|Urbano Santos
+19|2100436|Alto Alegre do Maranhão
+19|2102754|Capinzal do Norte
+19|2103307|Codó
+19|2103604|Coroatá
+19|2108454|Peritoró
+19|2112100|Timbiras
+19|2100105|Afonso Cunha
+19|2100303|Aldeias Altas
+19|2103406|Coelho Neto
+19|2103901|Duque Bacelar
+19|2102309|Buriti Bravo
+19|2103000|Caxias
+19|2106607|Matões
+19|2107803|Parnarama
+19|2111078|São João do Soter
+19|2112209|Timon
+19|2101509|Barão de Grajaú
+19|2103505|Colinas
+19|2105450|Jatobá
+19|2105922|Lagoa do Mato
+19|2106706|Mirador
+19|2107308|Nova Iorque
+19|2107704|Paraibano
+19|2107902|Passagem Franca
+19|2108009|Pastos Bons
+19|2110906|São Francisco do Maranhão
+19|2111102|São João dos Patos
+19|2111904|Sucupira do Norte
+19|2111953|Sucupira do Riachão
+19|2102556|Campestre do Maranhão
+19|2102804|Carolina
+19|2104057|Estreito
+19|2109007|Porto Franco
+19|2111052|São João do Paraíso
+19|2111573|São Pedro dos Crentes
+19|2100501|Alto Parnaíba
+19|2101400|Balsas
+19|2104073|Feira Nova do Maranhão
+19|2109502|Riachão
+19|2112001|Tasso Fragoso
+19|2101806|Benedito Leite
+19|2104107|Fortaleza dos Nogueiras
+19|2106102|Loreto
+19|2107258|Nova Colinas
+19|2109700|Sambaíba
+19|2110658|São Domingos do Azeitão
+19|2110807|São Félix de Balsas
+19|2111607|São Raimundo das Mangabeiras
+23|2201200|Barras
+23|2201507|Batalha
+23|2201770|Boa Hora
+23|2201960|Brasileira
+23|2202059|Cabeceiras do Piauí
+23|2202174|Campo Largo do Piauí
+23|2203701|Esperantina
+23|2205409|Joaquim Pires
+23|2205458|Joca Marques
+23|2205805|Luzilândia
+23|2205854|Madeiro
+23|2206100|Matias Olímpio
+23|2206209|Miguel Alves
+23|2206670|Morro do Chapéu do Piauí
+23|2206803|Nossa Senhora dos Remédios
+23|2208403|Piripiri
+23|2208502|Porto
+23|2209971|São João do Arraial
+23|2201919|Bom Princípio do Piauí
+23|2202000|Buriti dos Lopes
+23|2202083|Cajueiro da Praia
+23|2202539|Caraúbas do Piauí
+23|2202653|Caxingó
+23|2202703|Cocal
+23|2202729|Cocal dos Alves
+23|2204659|Ilha Grande
+23|2205706|Luís Correia
+23|2206696|Murici dos Portelas
+23|2207702|Parnaíba
+23|2208304|Piracuruca
+23|2209872|São João da Fronteira
+23|2210052|São José do Divino
+23|2200400|Altos
+23|2201606|Beneditinos
+23|2202737|Coivaras
+23|2203255|Curralinhos
+23|2203305|Demerval Lobão
+23|2205508|José de Freitas
+23|2205557|Lagoa Alegre
+23|2205581|Lagoa do Piauí
+23|2206308|Miguel Leão
+23|2206407|Monsenhor Gil
+23|2207793|Pau D'Arco do Piauí
+23|2211001|Teresina
+23|2211100|União
+23|2200301|Alto Longá
+23|2201051|Assunção do Piauí
+23|2201945|Boqueirão do Piauí
+23|2202026|Buriti dos Montes
+23|2202208|Campo Maior
+23|2202406|Capitão de Campos
+23|2202604|Castelo do Piauí
+23|2202711|Cocal de Telha
+23|2203420|Domingos Mourão
+23|2205276|Jatobá do Piauí
+23|2205516|Juazeiro do Piauí
+23|2205573|Lagoa de São Francisco
+23|2206357|Milton Brandão
+23|2206753|Nossa Senhora de Nazaré
+23|2206951|Novo Santo Antônio
+23|2207900|Pedro II
+23|2209906|São João da Serra
+23|2210409|São Miguel do Tapuio
+23|2210656|Sigefredo Pacheco
+23|2200103|Agricolândia
+23|2200202|Água Branca
+23|2200509|Amarante
+23|2200608|Angical do Piauí
+23|2201002|Arraial
+23|2201408|Barro Duro
+23|2204105|Francisco Ayres
+23|2204600|Hugo Napoleão
+23|2205250|Jardim do Mulato
+23|2205540|Lagoinha do Piauí
+23|2207108|Olho D'Água do Piauí
+23|2207504|Palmeirais
+23|2207751|Passagem Franca do Piauí
+23|2208809|Regeneração
+23|2209450|Santo Antônio dos Milagres
+23|2209807|São Gonçalo do Piauí
+23|2210508|São Pedro do Piauí
+23|2200905|Aroazes
+23|2201176|Barra D'Alcântara
+23|2203503|Elesbão Veloso
+23|2204006|Francinópolis
+23|2204709|Inhuma
+23|2205599|Lagoa do Sítio
+23|2206902|Novo Oriente do Piauí
+23|2208106|Pimenteiras
+23|2208601|Prata do Piauí
+23|2209153|Santa Cruz dos Milagres
+23|2209609|São Félix do Piauí
+23|2210383|São Miguel da Baixa Grande
+23|2211308|Valença do Piauí
+23|2211407|Várzea Grande
+23|2201150|Baixa Grande do Ribeiro
+23|2208908|Ribeiro Gonçalves
+23|2209203|Santa Filomena
+23|2211209|Uruçuí
+23|2200806|Antônio Almeida
+23|2201705|Bertolínia
+23|2202752|Colônia do Gurguéia
+23|2203602|Eliseu Martins
+23|2205607|Landri Sales
+23|2205904|Manoel Emídio
+23|2206001|Marcos Parente
+23|2208551|Porto Alegre do Piauí
+23|2210631|Sebastião Leal
+23|2202251|Canavieira
+23|2203800|Flores do Piauí
+23|2203909|Floriano
+23|2204501|Guadalupe
+23|2205102|Itaueira
+23|2205300|Jerumenha
+23|2206704|Nazaré do Piauí
+23|2207850|Pavussu
+23|2209005|Rio Grande do Piauí
+23|2209708|São Francisco do Piauí
+23|2210102|São José do Peixe
+23|2210391|São Miguel do Fidalgo
+23|2200459|Alvorada do Gurguéia
+23|2201309|Barreiras do Piauí
+23|2201903|Bom Jesus
+23|2203107|Cristino Castro
+23|2203230|Currais
+23|2204402|Gilbués
+23|2206605|Monte Alegre do Piauí
+23|2207405|Palmeira do Piauí
+23|2208700|Redenção do Gurguéia
+23|2209302|Santa Luz
+23|2209757|São Gonçalo do Gurguéia
+23|2200707|Anísio de Abreu
+23|2201929|Bonfim do Piauí
+23|2201988|Brejo do Piauí
+23|2202307|Canto do Buriti
+23|2202505|Caracol
+23|2202851|Coronel José Dias
+23|2203354|Dirceu Arcoverde
+23|2203453|Dom Inocêncio
+23|2203750|Fartura do Piauí
+23|2204550|Guaribas
+23|2205532|Jurema
+23|2207355|Pajeú do Piauí
+23|2209559|São Braz do Piauí
+23|2210359|São Lourenço do Piauí
+23|2210607|São Raimundo Nonato
+23|2210953|Tamboril do Piauí
+23|2211357|Várzea Branca
+23|2201101|Avelino Lopes
+23|2202901|Corrente
+23|2203008|Cristalândia do Piauí
+23|2203206|Curimatá
+23|2205524|Júlio Borges
+23|2206654|Morro Cabeça no Tempo
+23|2207603|Parnaguá
+23|2208858|Riacho Frio
+23|2210623|Sebastião Barros
+23|2200954|Aroeiras do Itaim
+23|2201804|Bocaina
+23|2202075|Cajazeiras do Piauí
+23|2202778|Colônia do Piauí
+23|2203404|Dom Expedito Lopes
+23|2204352|Geminiano
+23|2204808|Ipiranga do Piauí
+23|2207009|Oeiras
+23|2207553|Paquetá
+23|2208007|Picos
+23|2209104|Santa Cruz do Piauí
+23|2209351|Santana do Piauí
+23|2209377|Santa Rosa do Piauí
+23|2209856|São João da Canabrava
+23|2209955|São João da Varjota
+23|2210201|São José do Piauí
+23|2210375|São Luis do Piauí
+23|2210938|Sussuapara
+23|2210979|Tanque do Piauí
+23|2211704|Wall Ferraz
+23|2200251|Alagoinha do Piauí
+23|2200277|Alegrete do Piauí
+23|2204204|Francisco Santos
+23|2206506|Monsenhor Hipólito
+23|2208205|Pio IX
+23|2209401|Santo Antônio de Lisboa
+23|2210300|São Julião
+23|2200053|Acauã
+23|2201556|Bela Vista do Piauí
+23|2201572|Belém do Piauí
+23|2201739|Betânia do Piauí
+23|2202091|Caldeirão Grande do Piauí
+23|2202109|Campinas do Piauí
+23|2202117|Campo Alegre do Fidalgo
+23|2202133|Campo Grande do Piauí
+23|2202455|Capitão Gervásio Oliveira
+23|2202554|Caridade do Piauí
+23|2202802|Conceição do Canindé
+23|2203271|Curral Novo do Piauí
+23|2203859|Floresta do Piauí
+23|2204154|Francisco Macedo
+23|2204303|Fronteiras
+23|2204907|Isaías Coelho
+23|2205003|Itainópolis
+23|2205151|Jacobina do Piauí
+23|2205201|Jaicós
+23|2205359|João Costa
+23|2205565|Lagoa do Barro do Piauí
+23|2205953|Marcolândia
+23|2206050|Massapê do Piauí
+23|2207207|Padre Marcos
+23|2207306|Paes Landim
+23|2207777|Patos do Piauí
+23|2207801|Paulistana
+23|2207934|Pedro Laurentino
+23|2207959|Nova Santa Rita
+23|2208650|Queimada Nova
+23|2208874|Ribeira do Piauí
+23|2209500|Santo Inácio do Piauí
+23|2209658|São Francisco de Assis do Piauí
+23|2210003|São João do Piauí
+23|2210706|Simões
+23|2210805|Simplício Mendes
+23|2210904|Socorro do Piauí
+23|2211506|Vera Mendes
+23|2211605|Vila Nova do Piauí
+17|2300200|Acaraú
+17|2302057|Barroquinha
+17|2302305|Bela Cruz
+17|2302602|Camocim
+17|2303907|Chaval
+17|2304251|Cruz
+17|2304707|Granja
+17|2306553|Itarema
+17|2307254|Jijoca de Jericoacoara
+17|2307809|Marco
+17|2307908|Martinópole
+17|2308906|Morrinhos
+17|2303402|Carnaubal
+17|2304236|Croatá
+17|2305001|Guaraciaba do Norte
+17|2305308|Ibiapina
+17|2312304|São Benedito
+17|2313401|Tianguá
+17|2313609|Ubajara
+17|2314102|Viçosa do Ceará
+17|2304004|Coreaú
+17|2304509|Frecheirinha
+17|2308807|Moraújo
+17|2313906|Uruoca
+17|2300507|Alcântaras
+17|2308203|Meruoca
+17|2303105|Cariré
+17|2304350|Forquilha
+17|2304657|Graça
+17|2304905|Groaíras
+17|2306108|Irauçuba
+17|2308005|Massapê
+17|2308377|Miraíma
+17|2309003|Mucambo
+17|2309904|Pacujá
+17|2312007|Santana do Acaraú
+17|2312809|Senador Sá
+17|2312908|Sobral
+17|2305803|Ipu
+17|2305902|Ipueiras
+17|2310951|Pires Ferreira
+17|2311009|Poranga
+17|2311702|Reriutaba
+17|2313955|Varjota
+17|2303659|Catunda
+17|2305209|Hidrolândia
+17|2312205|Santa Quitéria
+17|2300754|Amontada
+17|2306405|Itapipoca
+17|2313500|Trairi
+17|2310209|Paracuru
+17|2310258|Paraipaba
+17|2312403|São Gonçalo do Amarante
+17|2306306|Itapagé
+17|2313559|Tururu
+17|2313757|Umirim
+17|2313807|Uruburetama
+17|2300903|Apuiarés
+17|2304608|General Sampaio
+17|2310704|Pentecoste
+17|2312601|São Luís do Curu
+17|2313351|Tejuçuoca
+17|2302800|Canindé
+17|2303006|Caridade
+17|2306603|Itatira
+17|2310407|Paramoti
+17|2300150|Acarape
+17|2301208|Aracoiaba
+17|2301406|Aratuba
+17|2302107|Baturité
+17|2302909|Capistrano
+17|2305100|Guaramiranga
+17|2306504|Itapiúna
+17|2309102|Mulungu
+17|2309805|Pacoti
+17|2310100|Palmácia
+17|2311603|Redenção
+17|2301950|Barreira
+17|2303956|Chorozinho
+17|2309458|Ocara
+17|2302206|Beberibe
+17|2303501|Cascavel
+17|2310852|Pindoretama
+17|2301000|Aquiraz
+17|2303709|Caucaia
+17|2304285|Eusébio
+17|2304400|Fortaleza
+17|2304954|Guaiúba
+17|2306256|Itaitinga
+17|2307650|Maracanaú
+17|2307700|Maranguape
+17|2309706|Pacatuba
+17|2305233|Horizonte
+17|2309607|Pacajus
+17|2301257|Ararendá
+17|2304103|Crateús
+17|2305605|Independência
+17|2305654|Ipaporanga
+17|2308609|Monsenhor Tabosa
+17|2309300|Nova Russas
+17|2309409|Novo Oriente
+17|2311264|Quiterianópolis
+17|2313203|Tamboril
+17|2301851|Banabuiú
+17|2302404|Boa Viagem
+17|2303931|Choró
+17|2305266|Ibaretama
+17|2307635|Madalena
+17|2311306|Quixadá
+17|2311405|Quixeramobim
+17|2300408|Aiuaba
+17|2301505|Arneiroz
+17|2303600|Catarina
+17|2310308|Parambu
+17|2311900|Saboeiro
+17|2313302|Tauá
+17|2300309|Acopiara
+17|2304269|Deputado Irapuan Pinheiro
+17|2308351|Milhã
+17|2308500|Mombaça
+17|2310506|Pedra Branca
+17|2310902|Piquet Carneiro
+17|2312700|Senador Pompeu
+17|2313005|Solonópole
+17|2301109|Aracati
+17|2304459|Fortim
+17|2305357|Icapuí
+17|2306207|Itaiçaba
+17|2300705|Alto Santo
+17|2305332|Ibicuitinga
+17|2307007|Jaguaruana
+17|2307601|Limoeiro do Norte
+17|2308708|Morada Nova
+17|2310001|Palhano
+17|2311504|Quixeré
+17|2311801|Russas
+17|2312502|São João do Jaguaribe
+17|2313104|Tabuleiro do Norte
+17|2306702|Jaguaretama
+17|2306801|Jaguaribara
+17|2306900|Jaguaribe
+17|2304277|Ererê
+17|2306009|Iracema
+17|2310803|Pereiro
+17|2311231|Potiretama
+17|2303808|Cedro
+17|2305407|Icó
+17|2305506|Iguatu
+17|2309508|Orós
+17|2311355|Quixelô
+17|2300804|Antonina do Norte
+17|2303303|Cariús
+17|2307403|Jucás
+17|2313252|Tarrafas
+17|2314003|Várzea Alegre
+17|2301802|Baixio
+17|2305704|Ipaumirim
+17|2307502|Lavras da Mangabeira
+17|2313708|Umari
+17|2301307|Araripe
+17|2301604|Assaré
+17|2302701|Campos Sales
+17|2311207|Potengi
+17|2311959|Salitre
+17|2300606|Altaneira
+17|2303204|Caririaçu
+17|2304301|Farias Brito
+17|2304806|Granjeiro
+17|2301703|Aurora
+17|2302008|Barro
+17|2308104|Mauriti
+17|2301901|Barbalha
+17|2304202|Crato
+17|2307106|Jardim
+17|2307304|Juazeiro do Norte
+17|2308401|Missão Velha
+17|2309201|Nova Olinda
+17|2311108|Porteiras
+17|2312106|Santana do Cariri
+17|2300101|Abaiara
+17|2302503|Brejo Santo
+17|2307205|Jati
+17|2308302|Milagres
+17|2310605|Penaforte
+20|2401107|Areia Branca
+20|2401453|Baraúna
+20|2404408|Grossos
+20|2408003|Mossoró
+20|2411056|Tibau
+20|2413359|Serra do Mel
+20|2401008|Apodi
+20|2402303|Caraúbas
+20|2403707|Felipe Guerra
+20|2404309|Governador Dix-Sept Rosado
+20|2401305|Augusto Severo
+20|2405207|Janduís
+20|2407609|Messias Targino
+20|2408706|Paraú
+20|2414456|Triunfo Potiguar
+20|2414605|Upanema
+20|2400208|Açu
+20|2400703|Alto do Rodrigues
+20|2402501|Carnaubais
+20|2404705|Ipanguaçu
+20|2404853|Itajá
+20|2406106|Jucurutu
+20|2409902|Pendências
+20|2410256|Porto do Mangue
+20|2412807|São Rafael
+20|2400406|Água Nova
+20|2402907|Coronel João Pessoa
+20|2403202|Doutor Severiano
+20|2403301|Encanto
+20|2407005|Luís Gomes
+20|2407252|Major Sales
+20|2410801|Riacho de Santana
+20|2412500|São Miguel
+20|2414753|Venha-Ver
+20|2400505|Alexandria
+20|2403905|Francisco Dantas
+20|2404903|Itaú
+20|2406007|José da Penha
+20|2407302|Marcelino Vieira
+20|2408607|Paraná
+20|2409407|Pau dos Ferros
+20|2410009|Pilões
+20|2410207|Portalegre
+20|2410504|Rafael Fernandes
+20|2410702|Riacho da Cruz
+20|2411007|Rodolfo Fernandes
+20|2411908|São Francisco do Oeste
+20|2413607|Severiano Melo
+20|2413805|Taboleiro Grande
+20|2414100|Tenente Ananias
+20|2414902|Viçosa
+20|2400604|Almino Afonso
+20|2400901|Antônio Martins
+20|2404002|Frutuoso Gomes
+20|2405900|João Dias
+20|2406908|Lucrécia
+20|2407401|Martins
+20|2408409|Olho-d'Água do Borges
+20|2409308|Patu
+20|2410603|Rafael Godeiro
+20|2413557|Serrinha dos Pintos
+20|2414506|Umarizal
+20|2401859|Caiçara do Norte
+20|2404101|Galinhos
+20|2404507|Guamaré
+20|2407203|Macau
+20|2411601|São Bento do Norte
+20|2400307|Afonso Bezerra
+20|2400802|Angicos
+20|2401909|Caiçara do Rio do Vento
+20|2403756|Fernando Pedroza
+20|2405504|Jardim de Angicos
+20|2406700|Lajes
+20|2409605|Pedra Preta
+20|2409704|Pedro Avelino
+20|2401651|Bodó
+20|2402709|Cerro Corá
+20|2403806|Florânia
+20|2406502|Lagoa Nova
+20|2411403|Santana do Matos
+20|2413003|São Vicente
+20|2414159|Tenente Laurentino Cruz
+20|2402006|Caicó
+20|2404804|Ipueira
+20|2405603|Jardim de Piranhas
+20|2411809|São Fernando
+20|2412104|São João do Sabugi
+20|2413409|Serra Negra do Norte
+20|2414308|Timbaúba dos Batistas
+20|2400109|Acari
+20|2402402|Carnaúba dos Dantas
+20|2403004|Cruzeta
+20|2403103|Currais Novos
+20|2403400|Equador
+20|2405702|Jardim do Seridó
+20|2408508|Ouro Branco
+20|2408904|Parelhas
+20|2411429|Santana do Seridó
+20|2412401|São José do Seridó
+20|2401602|Bento Fernandes
+20|2405108|Jandaíra
+20|2405801|João Câmara
+20|2408805|Parazinho
+20|2410108|Poço Branco
+20|2401503|Barcelona
+20|2402105|Campo Redondo
+20|2402808|Coronel Ezequiel
+20|2405009|Jaçanã
+20|2405405|Japi
+20|2406403|Lagoa de Velhos
+20|2406809|Lajes Pintadas
+20|2407906|Monte das Gameleiras
+20|2411106|Ruy Barbosa
+20|2411205|Santa Cruz
+20|2411700|São Bento do Trairí
+20|2412302|São José do Campestre
+20|2412906|São Tomé
+20|2413300|Serra de São Bento
+20|2413706|Sítio Novo
+20|2414001|Tangará
+20|2401701|Bom Jesus
+20|2401800|Brejinho
+20|2404606|Ielmo Marinho
+20|2405306|Januário Cicco
+20|2406155|Jundiá
+20|2406205|Lagoa d'Anta
+20|2406304|Lagoa de Pedras
+20|2406601|Lagoa Salgada
+20|2407807|Monte Alegre
+20|2408300|Nova Cruz
+20|2409100|Passa e Fica
+20|2409209|Passagem
+20|2409332|Santa Maria
+20|2410306|Presidente Juscelino
+20|2410900|Riachuelo
+20|2411502|Santo Antônio
+20|2412609|São Paulo do Potengi
+20|2412708|São Pedro
+20|2413102|Senador Elói de Souza
+20|2413508|Serrinha
+20|2414704|Várzea
+20|2414803|Vera Cruz
+20|2407500|Maxaranguape
+20|2408953|Rio do Fogo
+20|2409506|Pedra Grande
+20|2410405|Pureza
+20|2412559|São Miguel do Gostoso
+20|2413904|Taipu
+20|2414407|Touros
+20|2402600|Ceará-Mirim
+20|2407104|Macaíba
+20|2408201|Nísia Floresta
+20|2412005|São Gonçalo do Amarante
+20|2412203|São José de Mipibu
+20|2403251|Parnamirim
+20|2403608|Extremoz
+20|2408102|Natal
+20|2401206|Arês
+20|2401404|Baía Formosa
+20|2402204|Canguaretama
+20|2403509|Espírito Santo
+20|2404200|Goianinha
+20|2407708|Montanhas
+20|2409803|Pedro Velho
+20|2413201|Senador Georgino Avelino
+20|2414209|Tibau do Sul
+20|2415008|Vila Flor
+24|2502003|Belém do Brejo do Cruz
+24|2502300|Bom Sucesso
+24|2502805|Brejo do Cruz
+24|2502904|Brejo dos Santos
+24|2504306|Catolé do Rocha
+24|2507408|Jericó
+24|2508109|Lagoa
+24|2509370|Mato Grosso
+24|2512804|Riacho dos Cavalos
+24|2513901|São Bento
+24|2514651|São José do Brejo do Cruz
+24|2500700|São João do Rio do Peixe
+24|2502052|Bernardino Batista
+24|2502201|Bom Jesus
+24|2502409|Bonito de Santa Fé
+24|2503308|Cachoeira dos Índios
+24|2503704|Cajazeiras
+24|2504108|Carrapateira
+24|2509602|Monte Horebe
+24|2512036|Poço Dantas
+24|2512077|Poço de José de Moura
+24|2513307|Santa Helena
+24|2513653|Santarém
+24|2514503|São José de Piranhas
+24|2516805|Triunfo
+24|2516904|Uiraúna
+24|2500775|Aparecida
+24|2503753|Cajazeirinhas
+24|2504504|Condado
+24|2505501|Vista Serrana
+24|2508406|Lastro
+24|2508802|Malta
+24|2509156|Marizópolis
+24|2510006|Nazarezinho
+24|2510907|Paulista
+24|2512101|Pombal
+24|2513208|Santa Cruz
+24|2513927|São Bentinho
+24|2513968|São Domingos de Pombal
+24|2513984|São Francisco
+24|2514206|São José da Lagoa Tapada
+24|2516201|Sousa
+24|2517209|Vieirópolis
+24|2501153|Areia de Baraúnas
+24|2503407|Cacimba de Areia
+24|2508703|Mãe d'Água
+24|2510709|Passagem
+24|2510808|Patos
+24|2512606|Quixabá
+24|2513802|Santa Teresinha
+24|2514404|São José de Espinharas
+24|2514602|São José do Bonfim
+24|2500205|Aguiar
+24|2502607|Igaracy
+24|2504207|Catingueira
+24|2504801|Coremas
+24|2505907|Emas
+24|2510204|Nova Olinda
+24|2510402|Olho d'Água
+24|2511301|Piancó
+24|2513604|Santana dos Garrotes
+24|2502102|Boa Ventura
+24|2504405|Conceição
+24|2505303|Curral Velho
+24|2505600|Diamante
+24|2506608|Ibiara
+24|2507002|Itaporanga
+24|2511004|Pedra Branca
+24|2513356|Santa Inês
+24|2513505|Santana de Mangueira
+24|2514305|São José de Caiana
+24|2515708|Serra Grande
+24|2500106|Água Branca
+24|2503555|Cacimbas
+24|2505402|Desterro
+24|2506707|Imaculada
+24|2508000|Juru
+24|2509008|Manaíra
+24|2509396|Maturéia
+24|2512309|Princesa Isabel
+24|2514552|São José de Princesa
+24|2516607|Tavares
+24|2516706|Teixeira
+24|2507804|Junco do Seridó
+24|2513000|Salgadinho
+24|2513406|Santa Luzia
+24|2514701|São José do Sabugi
+24|2514909|São Mamede
+24|2517100|Várzea
+24|2501534|Baraúna
+24|2505006|Cubati
+24|2506202|Frei Martinho
+24|2507705|Juazeirinho
+24|2510303|Nova Palmeira
+24|2511103|Pedra Lavrada
+24|2511400|Picuí
+24|2515401|Seridó
+24|2516755|Tenório
+24|2500734|Amparo
+24|2501351|Assunção
+24|2503902|Camalaú
+24|2504702|Congo
+24|2504850|Coxixola
+24|2508505|Livramento
+24|2509701|Monteiro
+24|2510600|Ouro Velho
+24|2510659|Parari
+24|2512200|Prata
+24|2514107|São João do Tigre
+24|2514800|São José dos Cordeiros
+24|2515203|São Sebastião do Umbuzeiro
+24|2515500|Serra Branca
+24|2516300|Sumé
+24|2516508|Taperoá
+24|2517407|Zabelê
+24|2500536|Alcantil
+24|2501575|Barra de Santana
+24|2501708|Barra de São Miguel
+24|2502508|Boqueirão
+24|2503100|Cabaceiras
+24|2504074|Caraúbas
+24|2504355|Caturité
+24|2506509|Gurjão
+24|2512788|Riacho de Santo Antônio
+24|2513851|Santo André
+24|2513943|São Domingos do Cariri
+24|2514008|São João do Cariri
+24|2500577|Algodão de Jandaíra
+24|2500908|Arara
+24|2501609|Barra de Santa Rosa
+24|2505105|Cuité
+24|2505352|Damião
+24|2510105|Nova Floresta
+24|2510501|Olivedos
+24|2512002|Pocinhos
+24|2512705|Remígio
+24|2516102|Soledade
+24|2516151|Sossêgo
+24|2501005|Araruna
+24|2503506|Cacimba de Dentro
+24|2504157|Casserengue
+24|2505709|Dona Inês
+24|2512747|Riachão
+24|2516003|Solânea
+24|2516409|Campo de Santana
+24|2501203|Areial
+24|2506004|Esperança
+24|2509503|Montadas
+24|2515104|São Sebastião de Lagoa de Roça
+24|2500304|Alagoa Grande
+24|2500403|Alagoa Nova
+24|2501104|Areia
+24|2501500|Bananeiras
+24|2502706|Borborema
+24|2509339|Matinhas
+24|2511608|Pilões
+24|2515906|Serraria
+24|2500502|Alagoinha
+24|2500809|Araçagi
+24|2501906|Belém
+24|2503605|Caiçara
+24|2505204|Cuitegi
+24|2505808|Duas Estradas
+24|2506301|Guarabira
+24|2508208|Lagoa de Dentro
+24|2508554|Logradouro
+24|2509800|Mulungu
+24|2511707|Pilõezinhos
+24|2511806|Pirpirituba
+24|2515609|Serra da Raiz
+24|2515930|Sertãozinho
+24|2502151|Boa Vista
+24|2504009|Campina Grande
+24|2506103|Fagundes
+24|2508307|Lagoa Seca
+24|2509206|Massaranduba
+24|2512408|Puxinanã
+24|2512507|Queimadas
+24|2515807|Serra Redonda
+24|2503803|Caldas Brandão
+24|2506400|Gurinhém
+24|2506806|Ingá
+24|2506905|Itabaiana
+24|2507200|Itatuba
+24|2507606|Juarez Távora
+24|2509404|Mogeiro
+24|2512754|Riachão do Bacamarte
+24|2513109|Salgado de São Félix
+24|2501302|Aroeiras
+24|2506251|Gado Bravo
+24|2509909|Natuba
+24|2513158|Santa Cecília
+24|2517001|Umbuzeiro
+24|2501401|Baía da Traição
+24|2504033|Capim
+24|2505238|Cuité de Mamanguape
+24|2505279|Curral de Cima
+24|2507101|Itapororoca
+24|2507309|Jacaraú
+24|2508901|Mamanguape
+24|2509057|Marcação
+24|2509305|Mataraca
+24|2512721|Pedro Régis
+24|2512903|Rio Tinto
+24|2504900|Cruz do Espírito Santo
+24|2507903|Juripiranga
+24|2509107|Mari
+24|2511509|Pilar
+24|2512762|Riachão do Poço
+24|2514453|São José dos Ramos
+24|2515005|São Miguel de Taipu
+24|2515302|Sapé
+24|2515971|Sobrado
+24|2501807|Bayeux
+24|2503209|Cabedelo
+24|2504603|Conde
+24|2507507|João Pessoa
+24|2508604|Lucena
+24|2513703|Santa Rita
+24|2500601|Alhandra
+24|2503001|Caaporã
+24|2511202|Pedras de Fogo
+24|2511905|Pitimbu
+22|2601102|Araripina
+22|2602001|Bodocó
+22|2605301|Exu
+22|2606309|Granito
+22|2607307|Ipubi
+22|2609907|Ouricuri
+22|2612455|Santa Cruz
+22|2612554|Santa Filomena
+22|2614303|Moreilândia
+22|2615607|Trindade
+22|2604304|Cedro
+22|2609303|Mirandiba
+22|2610400|Parnamirim
+22|2612208|Salgueiro
+22|2613503|São José do Belmonte
+22|2614006|Serrita
+22|2616100|Verdejante
+22|2600104|Afogados da Ingazeira
+22|2602506|Brejinho
+22|2603405|Calumbi
+22|2603900|Carnaíba
+22|2605608|Flores
+22|2606903|Iguaraci
+22|2607109|Ingazeira
+22|2607703|Itapetim
+22|2611533|Quixaba
+22|2612471|Santa Cruz da Baixa Verde
+22|2612802|Santa Terezinha
+22|2613602|São José do Egito
+22|2613909|Serra Talhada
+22|2614402|Solidão
+22|2614600|Tabira
+22|2615706|Triunfo
+22|2615904|Tuparetama
+22|2601201|Arcoverde
+22|2601805|Betânia
+22|2605103|Custódia
+22|2606606|Ibimirim
+22|2607000|Inajá
+22|2609154|Manari
+22|2614105|Sertânia
+22|2600203|Afrânio
+22|2603009|Cabrobó
+22|2605152|Dormentes
+22|2608750|Lagoa Grande
+22|2609808|Orocó
+22|2611101|Petrolina
+22|2612604|Santa Maria da Boa Vista
+22|2615201|Terra Nova
+22|2601607|Belém de São Francisco
+22|2603926|Carnaubeira da Penha
+22|2605707|Floresta
+22|2607406|Itacuruba
+22|2608057|Jatobá
+22|2611002|Petrolândia
+22|2614808|Tacaratu
+22|2600500|Águas Belas
+22|2602803|Buíque
+22|2607505|Itaíba
+22|2610806|Pedra
+22|2615805|Tupanatinga
+22|2616001|Venturosa
+22|2600609|Alagoinha
+22|2601706|Belo Jardim
+22|2601904|Bezerros
+22|2602605|Brejo da Madre de Deus
+22|2603108|Cachoeirinha
+22|2603801|Capoeiras
+22|2604106|Caruaru
+22|2606408|Gravatá
+22|2608008|Jataúba
+22|2610905|Pesqueira
+22|2611200|Poção
+22|2611705|Riacho das Almas
+22|2612406|Sanharó
+22|2613008|São Bento do Una
+22|2613107|São Caitano
+22|2614709|Tacaimbó
+22|2604155|Casinhas
+22|2605806|Frei Miguelinho
+22|2612505|Santa Cruz do Capibaribe
+22|2612703|Santa Maria do Cambucá
+22|2614501|Surubim
+22|2615003|Taquaritinga do Norte
+22|2615409|Toritama
+22|2616183|Vertente do Lério
+22|2616209|Vertentes
+22|2602209|Bom Jardim
+22|2604908|Cumaru
+22|2605400|Feira Nova
+22|2608107|João Alfredo
+22|2608909|Limoeiro
+22|2609105|Machados
+22|2609709|Orobó
+22|2610509|Passira
+22|2612109|Salgadinho
+22|2613800|São Vicente Ferrer
+22|2601003|Angelim
+22|2602100|Bom Conselho
+22|2602407|Brejão
+22|2603207|Caetés
+22|2603306|Calçado
+22|2603702|Canhotinho
+22|2604700|Correntes
+22|2606002|Garanhuns
+22|2606507|Iati
+22|2608255|Jucati
+22|2608305|Jupi
+22|2608404|Jurema
+22|2608602|Lagoa do Ouro
+22|2608800|Lajedo
+22|2610103|Palmeirina
+22|2610301|Paranatama
+22|2612307|Saloá
+22|2613206|São João
+22|2615102|Terezinha
+22|2600302|Agrestina
+22|2600807|Altinho
+22|2601300|Barra de Guabiraba
+22|2602308|Bonito
+22|2603504|Camocim de São Félix
+22|2605004|Cupira
+22|2606705|Ibirajuba
+22|2608701|Lagoa dos Gatos
+22|2610202|Panelas
+22|2612000|Sairé
+22|2613305|São Joaquim do Monte
+22|2600708|Aliança
+22|2602704|Buenos Aires
+22|2603603|Camutanga
+22|2604007|Carpina
+22|2604601|Condado
+22|2605509|Ferreiros
+22|2606200|Goiana
+22|2607653|Itambé
+22|2607802|Itaquitinga
+22|2608453|Lagoa do Carro
+22|2608503|Lagoa do Itaenga
+22|2609006|Macaparana
+22|2609501|Nazaré da Mata
+22|2610608|Paudalho
+22|2615300|Timbaúba
+22|2615508|Tracunhaém
+22|2616308|Vicência
+22|2604403|Chã de Alegria
+22|2604502|Chã Grande
+22|2606101|Glória do Goitá
+22|2611309|Pombos
+22|2616407|Vitória de Santo Antão
+22|2600401|Água Preta
+22|2600906|Amaraji
+22|2601409|Barreiros
+22|2601508|Belém de Maria
+22|2604205|Catende
+22|2604809|Cortês
+22|2605202|Escada
+22|2605905|Gameleira
+22|2607950|Jaqueira
+22|2608206|Joaquim Nabuco
+22|2609204|Maraial
+22|2610004|Palmares
+22|2611408|Primavera
+22|2611507|Quipapá
+22|2611804|Ribeirão
+22|2611903|Rio Formoso
+22|2612901|São Benedito do Sul
+22|2613404|São José da Coroa Grande
+22|2614204|Sirinhaém
+22|2614857|Tamandaré
+22|2616506|Xexéu
+22|2601052|Araçoiaba
+22|2606804|Igarassu
+22|2607604|Ilha de Itamaracá
+22|2607752|Itapissuma
+22|2600054|Abreu e Lima
+22|2603454|Camaragibe
+22|2607901|Jaboatão dos Guararapes
+22|2609402|Moreno
+22|2609600|Olinda
+22|2610707|Paulista
+22|2611606|Recife
+22|2613701|São Lourenço da Mata
+22|2602902|Cabo de Santo Agostinho
+22|2607208|Ipojuca
+22|2605459|Fernando de Noronha
+15|2700102|Água Branca
+15|2701605|Canapi
+15|2703304|Inhapi
+15|2705002|Mata Grande
+15|2706422|Pariconha
+15|2702405|Delmiro Gouveia
+15|2705804|Olho d'Água do Casado
+15|2707107|Piranhas
+15|2701803|Carneiros
+15|2702504|Dois Riachos
+15|2704609|Maravilha
+15|2706109|Ouro Branco
+15|2706208|Palestina
+15|2706406|Pão de Açúcar
+15|2707206|Poço das Trincheiras
+15|2708006|Santana do Ipanema
+15|2708402|São José da Tapera
+15|2708956|Senador Rui Palmeira
+15|2700706|Batalha
+15|2700904|Belo Monte
+15|2703403|Jacaré dos Homens
+15|2703700|Jaramataia
+15|2704401|Major Isidoro
+15|2705408|Monteirópolis
+15|2705705|Olho d'Água das Flores
+15|2706000|Olivença
+15|2700805|Belém
+15|2701209|Cacimbinhas
+15|2702553|Estrela de Alagoas
+15|2703106|Igaci
+15|2704807|Maribondo
+15|2704906|Mar Vermelho
+15|2705309|Minador do Negrão
+15|2706307|Palmeira dos Índios
+15|2706604|Paulo Jacinto
+15|2707602|Quebrangulo
+15|2709004|Tanque d'Arca
+15|2700300|Arapiraca
+15|2701506|Campo Grande
+15|2702009|Coité do Nóia
+15|2702355|Craíbas
+15|2702603|Feira Grande
+15|2702900|Girau do Ponciano
+15|2704104|Lagoa da Canoa
+15|2704203|Limoeiro de Anadia
+15|2708808|São Sebastião
+15|2709103|Taquarana
+15|2705903|Olho d'Água Grande
+15|2708204|São Brás
+15|2709202|Traipu
+15|2701902|Chã Preta
+15|2703007|Ibateguara
+15|2707008|Pindoba
+15|2708105|Santana do Mundaú
+15|2708303|São José da Laje
+15|2709301|União dos Palmares
+15|2709400|Viçosa
+15|2700409|Atalaia
+15|2701100|Branquinha
+15|2701308|Cajueiro
+15|2701357|Campestre
+15|2701704|Capela
+15|2702108|Colônia Leopoldina
+15|2702801|Flexeiras
+15|2703502|Jacuípe
+15|2703809|Joaquim Gomes
+15|2703908|Jundiá
+15|2705101|Matriz de Camaragibe
+15|2705200|Messias
+15|2705507|Murici
+15|2705606|Novo Lino
+15|2707305|Porto Calvo
+15|2708501|São Luís do Quitunde
+15|2703601|Japaratinga
+15|2704500|Maragogi
+15|2706505|Passo de Camaragibe
+15|2707404|Porto de Pedras
+15|2708709|São Miguel dos Milagres
+15|2700508|Barra de Santo Antônio
+15|2700607|Barra de São Miguel
+15|2702207|Coqueiro Seco
+15|2704302|Maceió
+15|2704708|Marechal Deodoro
+15|2706448|Paripueira
+15|2706901|Pilar
+15|2707701|Rio Largo
+15|2707909|Santa Luzia do Norte
+15|2708907|Satuba
+15|2700201|Anadia
+15|2701001|Boca da Mata
+15|2701407|Campo Alegre
+15|2702306|Coruripe
+15|2703759|Jequiá da Praia
+15|2704005|Junqueiro
+15|2707800|Roteiro
+15|2708600|São Miguel dos Campos
+15|2709152|Teotônio Vilela
+15|2702702|Feliz Deserto
+15|2703205|Igreja Nova
+15|2706703|Penedo
+15|2706802|Piaçabuçu
+15|2707503|Porto Real do Colégio
+21|2801207|Canindé de São Francisco
+21|2802205|Feira Nova
+21|2802403|Gararu
+21|2802601|Gracho Cardoso
+21|2803104|Itabi
+21|2804201|Monte Alegre de Sergipe
+21|2804508|Nossa Senhora da Glória
+21|2805406|Poço Redondo
+21|2805604|Porto da Folha
+21|2801405|Carira
+21|2802304|Frei Paulo
+21|2804458|Nossa Senhora Aparecida
+21|2805000|Pedra Mole
+21|2805208|Pinhão
+21|2806008|Ribeirópolis
+21|2800209|Aquidabã
+21|2801900|Cumbe
+21|2803807|Malhada dos Bois
+21|2804300|Muribeca
+21|2804607|Nossa Senhora das Dores
+21|2807006|São Miguel do Aleixo
+21|2800506|Areia Branca
+21|2801009|Campo do Brito
+21|2802908|Itabaiana
+21|2803708|Macambira
+21|2803906|Malhador
+21|2804102|Moita Bonita
+21|2806800|São Domingos
+21|2805505|Poço Verde
+21|2807105|Simão Dias
+21|2807402|Tobias Barreto
+21|2803500|Lagarto
+21|2805802|Riachão do Dantas
+21|2800100|Amparo de São Francisco
+21|2800704|Brejo Grande
+21|2801108|Canhoba
+21|2801603|Cedro de São João
+21|2802700|Ilha das Flores
+21|2804409|Neópolis
+21|2804706|Nossa Senhora de Lourdes
+21|2805703|Propriá
+21|2806404|Santana do São Francisco
+21|2807303|Telha
+21|2801306|Capela
+21|2802007|Divina Pastora
+21|2806503|Santa Rosa de Lima
+21|2807204|Siriri
+21|2803302|Japaratuba
+21|2803401|Japoatã
+21|2804904|Pacatuba
+21|2805307|Pirambu
+21|2806909|São Francisco
+21|2801504|Carmópolis
+21|2802502|General Maynard
+21|2803609|Laranjeiras
+21|2804003|Maruim
+21|2805901|Riachuelo
+21|2806107|Rosário do Catete
+21|2806602|Santo Amaro das Brotas
+21|2800308|Aracaju
+21|2800605|Barra dos Coqueiros
+21|2804805|Nossa Senhora do Socorro
+21|2806701|São Cristóvão
+21|2800407|Arauá
+21|2800670|Boquim
+21|2801702|Cristinápolis
+21|2803005|Itabaianinha
+21|2805109|Pedrinhas
+21|2806206|Salgado
+21|2807501|Tomar do Geru
+21|2807600|Umbaúba
+21|2802106|Estância
+21|2802809|Indiaroba
+21|2803203|Itaporanga d'Ajuda
+21|2806305|Santa Luzia do Itanhy
+16|2902500|Baianópolis
+16|2903201|Barreiras
+16|2907400|Catolândia
+16|2911105|Formosa do Rio Preto
+16|2919553|Luís Eduardo Magalhães
+16|2926202|Riachão das Neves
+16|2928901|São Desidério
+16|2901403|Angical
+16|2904407|Brejolândia
+16|2909406|Cotegipe
+16|2909703|Cristópolis
+16|2920452|Mansidão
+16|2928406|Santa Rita de Cássia
+16|2930907|Tabocas do Brejo Velho
+16|2933455|Wanderley
+16|2906105|Canápolis
+16|2908101|Cocos
+16|2909109|Coribe
+16|2909307|Correntina
+16|2917359|Jaborandi
+16|2928109|Santa Maria da Vitória
+16|2928208|Santana
+16|2929057|São Félix do Coribe
+16|2930303|Serra Dourada
+16|2905909|Campo Alegre de Lourdes
+16|2907202|Casa Nova
+16|2909901|Curaçá
+16|2918407|Juazeiro
+16|2924405|Pilão Arcado
+16|2926004|Remanso
+16|2930204|Sento Sé
+16|2930774|Sobradinho
+16|2900207|Abaré
+16|2907707|Chorrochó
+16|2911402|Glória
+16|2919900|Macururé
+16|2924009|Paulo Afonso
+16|2927101|Rodelas
+16|2902708|Barra
+16|2904753|Buritirama
+16|2913200|Ibotirama
+16|2915353|Itaguaçu da Bahia
+16|2921609|Morpará
+16|2922250|Muquém de São Francisco
+16|2933604|Xique-Xique
+16|2903904|Bom Jesus da Lapa
+16|2907103|Carinhanha
+16|2910776|Feira da Mata
+16|2923704|Paratinga
+16|2930154|Serra do Ramalho
+16|2930758|Sítio do Mato
+16|2901353|Andorinha
+16|2901809|Antônio Gonçalves
+16|2906006|Campo Formoso
+16|2910859|Filadélfia
+16|2917003|Itiúba
+16|2917706|Jaguarari
+16|2924603|Pindobaçu
+16|2930105|Senhor do Bonfim
+16|2932457|Umburanas
+16|2901155|América Dourada
+16|2903003|Barra do Mendes
+16|2903235|Barro Alto
+16|2905305|Cafarnaum
+16|2906204|Canarana
+16|2907608|Central
+16|2911303|Gentio do Ouro
+16|2912400|Ibipeba
+16|2913101|Ibititá
+16|2914406|Iraquara
+16|2914604|Irecê
+16|2918357|João Dourado
+16|2918506|Jussara
+16|2919157|Lapão
+16|2922052|Mulungu do Morro
+16|2925600|Presidente Dutra
+16|2929255|São Gabriel
+16|2930808|Souto Soares
+16|2932408|Uibaí
+16|2905107|Caém
+16|2905503|Caldeirão Grande
+16|2906873|Capim Grosso
+16|2917508|Jacobina
+16|2921203|Miguel Calmon
+16|2921401|Mirangaba
+16|2921708|Morro do Chapéu
+16|2923357|Ourolândia
+16|2924801|Piritiba
+16|2925253|Ponto Novo
+16|2925931|Quixabeira
+16|2929370|São José do Jacuípe
+16|2929800|Saúde
+16|2930600|Serrolândia
+16|2933109|Várzea do Poço
+16|2933158|Várzea Nova
+16|2902609|Baixa Grande
+16|2903805|Boa Vista do Tupim
+16|2911907|Iaçu
+16|2912608|Ibiquera
+16|2914703|Itaberaba
+16|2919009|Lajedinho
+16|2919603|Macajuba
+16|2920106|Mairi
+16|2922102|Mundo Novo
+16|2927200|Ruy Barbosa
+16|2931301|Tapiramutá
+16|2933059|Várzea da Roça
+16|2900405|Água Fria
+16|2901502|Anguera
+16|2901700|Antônio Cardoso
+16|2908200|Conceição da Feira
+16|2908507|Conceição do Jacuípe
+16|2908903|Coração de Maria
+16|2910305|Elísio Medrado
+16|2910800|Feira de Santana
+16|2913804|Ipecaetá
+16|2914000|Ipirá
+16|2914505|Irará
+16|2916856|Itatim
+16|2923308|Ouriçangas
+16|2924108|Pedrão
+16|2924652|Pintadas
+16|2925956|Rafael Jambeiro
+16|2927507|Santa Bárbara
+16|2928307|Santanópolis
+16|2928505|Santa Teresinha
+16|2928802|Santo Estêvão
+16|2929305|São Gonçalo dos Campos
+16|2930402|Serra Preta
+16|2931103|Tanquinho
+16|2931400|Teodoro Sampaio
+16|2909208|Coronel João Sá
+16|2918100|Jeremoabo
+16|2924207|Pedro Alexandre
+16|2927606|Santa Brígida
+16|2930766|Sítio do Quinto
+16|2906808|Cansanção
+16|2906824|Canudos
+16|2910701|Euclides da Cunha
+16|2921500|Monte Santo
+16|2922656|Nordestina
+16|2925808|Queimadas
+16|2925907|Quijingue
+16|2931905|Tucano
+16|2932002|Uauá
+16|2900355|Adustina
+16|2901601|Antas
+16|2902658|Banzaê
+16|2907806|Cícero Dantas
+16|2907905|Cipó
+16|2910750|Fátima
+16|2911857|Heliópolis
+16|2916500|Itapicuru
+16|2922904|Nova Soure
+16|2923050|Novo Triunfo
+16|2923100|Olindina
+16|2923803|Paripiranga
+16|2926509|Ribeira do Amparo
+16|2926608|Ribeira do Pombal
+16|2902104|Araci
+16|2903276|Barrocas
+16|2903607|Biritinga
+16|2906402|Candeal
+16|2906857|Capela do Alto Alegre
+16|2908408|Conceição do Coité
+16|2911253|Gavião
+16|2913309|Ichu
+16|2919108|Lamarão
+16|2922730|Nova Fátima
+16|2924058|Pé de Serra
+16|2926103|Retirolândia
+16|2926301|Riachão do Jacuípe
+16|2928000|Santaluz
+16|2928950|São Domingos
+16|2930501|Serrinha
+16|2931509|Teofilândia
+16|2933000|Valente
+16|2900306|Acajutiba
+16|2900702|Alagoinhas
+16|2901908|Aporá
+16|2902054|Araças
+16|2902203|Aramari
+16|2909604|Crisópolis
+16|2913705|Inhambupe
+16|2927002|Rio Real
+16|2929701|Sátiro Dias
+16|2907004|Cardeal da Silva
+16|2908606|Conde
+16|2910503|Entre Rios
+16|2910602|Esplanada
+16|2917904|Jandaíra
+16|2901106|Amélia Rodrigues
+16|2907509|Catu
+16|2915908|Itanagra
+16|2921005|Mata de São João
+16|2925204|Pojuca
+16|2929503|São Sebastião do Passé
+16|2931707|Terra Nova
+16|2902302|Aratuípe
+16|2904852|Cabaceiras do Paraguaçu
+16|2904902|Cachoeira
+16|2907301|Castro Alves
+16|2908309|Conceição do Almeida
+16|2909802|Cruz das Almas
+16|2910206|Dom Macedo Costa
+16|2911600|Governador Mangabeira
+16|2917805|Jaguaripe
+16|2920601|Maragogipe
+16|2922201|Muniz Ferreira
+16|2922300|Muritiba
+16|2922508|Nazaré
+16|2927309|Salinas da Margarida
+16|2928604|Santo Amaro
+16|2928703|Santo Antônio de Jesus
+16|2929008|São Félix
+16|2929107|São Felipe
+16|2929602|Sapeaçu
+16|2929750|Saubara
+16|2933174|Varzedo
+16|2905701|Camaçari
+16|2906501|Candeias
+16|2910057|Dias d'Ávila
+16|2916104|Itaparica
+16|2919207|Lauro de Freitas
+16|2919926|Madre de Deus
+16|2927408|Salvador
+16|2929206|São Francisco do Conde
+16|2930709|Simões Filho
+16|2933208|Vera Cruz
+16|2904100|Boquira
+16|2904209|Botuporã
+16|2904506|Brotas de Macaúbas
+16|2907558|Caturama
+16|2912509|Ibipitanga
+16|2913002|Ibitiara
+16|2914109|Ipupiara
+16|2919801|Macaúbas
+16|2923035|Novo Horizonte
+16|2923209|Oliveira dos Brejinhos
+16|2931053|Tanque Novo
+16|2900108|Abaíra
+16|2901304|Andaraí
+16|2902807|Barra da Estiva
+16|2904001|Boninal
+16|2904050|Bonito
+16|2908804|Contendas do Sincorá
+16|2912202|Ibicoara
+16|2915007|Itaeté
+16|2918605|Jussiape
+16|2919306|Lençóis
+16|2921906|Mucugê
+16|2922854|Nova Redenção
+16|2923506|Palmeiras
+16|2924306|Piatã
+16|2926707|Rio de Contas
+16|2929909|Seabra
+16|2932804|Utinga
+16|2933406|Wagner
+16|2900603|Aiquara
+16|2901007|Amargosa
+16|2901957|Apuarema
+16|2904308|Brejões
+16|2909505|Cravolândia
+16|2914208|Irajuba
+16|2914307|Iramaia
+16|2915106|Itagi
+16|2916708|Itaquara
+16|2916906|Itiruçu
+16|2917607|Jaguaquara
+16|2918001|Jequié
+16|2918209|Jiquiriçá
+16|2918308|Jitaúna
+16|2918704|Lafaiete Coutinho
+16|2918803|Laje
+16|2919058|Lajedo do Tabocal
+16|2920502|Maracás
+16|2920809|Marcionílio Souza
+16|2921302|Milagres
+16|2922409|Mutuípe
+16|2922805|Nova Itarana
+16|2924900|Planaltino
+16|2927903|Santa Inês
+16|2929404|São Miguel das Matas
+16|2932101|Ubaíra
+16|2900504|Érico Cardoso
+16|2910107|Dom Basílio
+16|2919504|Livramento de Nossa Senhora
+16|2923605|Paramirim
+16|2926905|Rio do Pires
+16|2905008|Caculé
+16|2905206|Caetité
+16|2906600|Candiba
+16|2911709|Guanambi
+16|2912004|Ibiassucê
+16|2913408|Igaporã
+16|2917334|Iuiú
+16|2917409|Jacaraci
+16|2918753|Lagoa Real
+16|2919405|Licínio de Almeida
+16|2920205|Malhada
+16|2921054|Matina
+16|2921807|Mortugaba
+16|2923407|Palmas de Monte Alto
+16|2924504|Pindaí
+16|2926400|Riacho de Santana
+16|2930006|Sebastião Laranjeiras
+16|2932606|Urandi
+16|2902005|Aracatu
+16|2904605|Brumado
+16|2906899|Caraíbas
+16|2908705|Condeúba
+16|2909000|Cordeiros
+16|2911659|Guajeru
+16|2917201|Ituaçu
+16|2919959|Maetinga
+16|2920304|Malhada de Pedras
+16|2924702|Piripá
+16|2925709|Presidente Jânio Quadros
+16|2926806|Rio do Antônio
+16|2931004|Tanhaçu
+16|2931806|Tremedal
+16|2901205|Anagé
+16|2902906|Barra do Choça
+16|2903508|Belo Campo
+16|2903706|Boa Nova
+16|2903953|Bom Jesus da Serra
+16|2904803|Caatiba
+16|2905156|Caetanos
+16|2906709|Cândido Sales
+16|2910008|Dário Meira
+16|2912301|Ibicuí
+16|2913507|Iguaí
+16|2920403|Manoel Vitorino
+16|2921450|Mirante
+16|2922706|Nova Canaã
+16|2925006|Planalto
+16|2925105|Poções
+16|2933307|Vitória da Conquista
+16|2910404|Encruzilhada
+16|2915809|Itambé
+16|2916401|Itapetinga
+16|2916807|Itarantim
+16|2917102|Itororó
+16|2919702|Macarani
+16|2920007|Maiquinique
+16|2925402|Potiraguá
+16|2926657|Ribeirão do Largo
+16|2905404|Cairu
+16|2905800|Camamu
+16|2913457|Igrapiúna
+16|2917300|Ituberá
+16|2920700|Maraú
+16|2922607|Nilo Peçanha
+16|2924678|Piraí do Norte
+16|2925758|Presidente Tancredo Neves
+16|2931202|Taperoá
+16|2932903|Valença
+16|2900900|Almadina
+16|2902252|Arataca
+16|2902401|Aurelino Leal
+16|2903102|Barra do Rocha
+16|2903300|Barro Preto
+16|2903409|Belmonte
+16|2904704|Buerarema
+16|2905602|Camacan
+16|2906303|Canavieiras
+16|2908002|Coaraci
+16|2910909|Firmino Alves
+16|2911006|Floresta Azul
+16|2911204|Gandu
+16|2911501|Gongogi
+16|2912103|Ibicaraí
+16|2912707|Ibirapitanga
+16|2912905|Ibirataia
+16|2913606|Ilhéus
+16|2913903|Ipiaú
+16|2914802|Itabuna
+16|2914901|Itacaré
+16|2915205|Itagibá
+16|2915403|Itaju do Colônia
+16|2915502|Itajuípe
+16|2915700|Itamari
+16|2916203|Itapé
+16|2916302|Itapebi
+16|2916609|Itapitanga
+16|2918555|Jussari
+16|2920908|Mascote
+16|2922755|Nova Ibiá
+16|2923902|Pau Brasil
+16|2927804|Santa Cruz da Vitória
+16|2928059|Santa Luzia
+16|2929354|São José da Vitória
+16|2931608|Teolândia
+16|2932200|Ubaitaba
+16|2932309|Ubatã
+16|2932507|Una
+16|2932705|Uruçuca
+16|2933505|Wenceslau Guimarães
+16|2900801|Alcobaça
+16|2906907|Caravelas
+16|2910727|Eunápolis
+16|2911808|Guaratinga
+16|2912806|Ibirapuã
+16|2914653|Itabela
+16|2915304|Itagimirim
+16|2915601|Itamaraju
+16|2916005|Itanhém
+16|2918456|Jucuruçu
+16|2918902|Lajedão
+16|2921104|Medeiros Neto
+16|2922003|Mucuri
+16|2923001|Nova Viçosa
+16|2925303|Porto Seguro
+16|2925501|Prado
+16|2927705|Santa Cruz Cabrália
+16|2931350|Teixeira de Freitas
+16|2933257|Vereda
+3|3104502|Arinos
+3|3108206|Bonfinópolis de Minas
+3|3109303|Buritis
+3|3109451|Cabeceira Grande
+3|3122470|Dom Bosco
+3|3126208|Formoso
+3|3144375|Natalândia
+3|3170404|Unaí
+3|3170479|Uruana de Minas
+3|3108552|Brasilândia de Minas
+3|3128600|Guarda-Mor
+3|3136306|João Pinheiro
+3|3137106|Lagamar
+3|3137536|Lagoa Grande
+3|3147006|Paracatu
+3|3153400|Presidente Olegário
+3|3161700|São Gonçalo do Abaeté
+3|3170750|Varjão de Minas
+3|3171006|Vazante
+3|3108255|Bonito de Minas
+3|3116159|Chapada Gaúcha
+3|3117836|Cônego Marinho
+3|3130051|Icaraí de Minas
+3|3132107|Itacarambi
+3|3135209|Januária
+3|3136959|Juvenília
+3|3139300|Manga
+3|3140852|Matias Cardoso
+3|3142254|Miravânia
+3|3142700|Montalvânia
+3|3149150|Pedras de Maria da Cruz
+3|3150570|Pintópolis
+3|3161106|São Francisco
+3|3162450|São João das Missões
+3|3170529|Urucuia
+3|3115474|Catuti
+3|3124302|Espinosa
+3|3127339|Gameleiras
+3|3135050|Jaíba
+3|3135100|Janaúba
+3|3139250|Mamonas
+3|3141009|Mato Verde
+3|3142908|Monte Azul
+3|3145059|Nova Porteirinha
+3|3146552|Pai Pedro
+3|3152204|Porteirinha
+3|3154507|Riacho dos Machados
+3|3166956|Serranópolis de Minas
+3|3101003|Águas Vermelhas
+3|3106655|Berizal
+3|3120870|Curral de Dentro
+3|3122355|Divisa Alegre
+3|3127073|Fruta de Leite
+3|3130655|Indaiabira
+3|3143450|Montezuma
+3|3144656|Ninheira
+3|3145372|Novorizonte
+3|3155603|Rio Pardo de Minas
+3|3156502|Rubelita
+3|3157005|Salinas
+3|3157377|Santa Cruz de Salinas
+3|3160454|Santo Antônio do Retiro
+3|3162708|São João do Paraíso
+3|3168002|Taiobeiras
+3|3170651|Vargem Grande do Rio Pardo
+3|3109402|Buritizeiro
+3|3129608|Ibiaí
+3|3135605|Jequitaí
+3|3137304|Lagoa dos Patos
+3|3138104|Lassance
+3|3151206|Pirapora
+3|3154457|Riachinho
+3|3157609|Santa Fé de Minas
+3|3164209|São Romão
+3|3170800|Várzea da Palma
+3|3108602|Brasília de Minas
+3|3111150|Campo Azul
+3|3112703|Capitão Enéas
+3|3116506|Claro dos Poções
+3|3118809|Coração de Jesus
+3|3126703|Francisco Sá
+3|3127354|Glaucilândia
+3|3129657|Ibiracatu
+3|3135357|Japonvar
+3|3136801|Juramento
+3|3138658|Lontra
+3|3138682|Luislândia
+3|3142007|Mirabela
+3|3143302|Montes Claros
+3|3147956|Patis
+3|3152131|Ponto Chique
+3|3162252|São João da Lagoa
+3|3162401|São João da Ponte
+3|3162658|São João do Pacuí
+3|3170008|Ubaí
+3|3170909|Varzelândia
+3|3171030|Verdelândia
+3|3108503|Botumirim
+3|3120300|Cristália
+3|3127800|Grão Mogol
+3|3132008|Itacambira
+3|3136579|Josenópolis
+3|3146255|Padre Carvalho
+3|3107307|Bocaiúva
+3|3123809|Engenheiro Navarro
+3|3126604|Francisco Dumont
+3|3128253|Guaraciama
+3|3145455|Olhos-d'Água
+3|3120102|Couto de Magalhães de Minas
+3|3121001|Datas
+3|3121605|Diamantina
+3|3125408|Felício dos Santos
+3|3125507|São Gonçalo do Rio Preto
+3|3127602|Gouveia
+3|3153301|Presidente Kubitschek
+3|3165909|Senador Modestino Gonçalves
+3|3102852|Angelândia
+3|3104452|Aricanduva
+3|3106507|Berilo
+3|3112307|Capelinha
+3|3113503|Carbonita
+3|3116100|Chapada do Norte
+3|3126505|Francisco Badaró
+3|3132503|Itamarandiba
+3|3135456|Jenipapo de Minas
+3|3136520|José Gonçalves de Minas
+3|3138351|Leme do Prado
+3|3141801|Minas Novas
+3|3169703|Turmalina
+3|3171071|Veredinha
+3|3103405|Araçuaí
+3|3113008|Caraí
+3|3119500|Coronel Murta
+3|3134004|Itinga
+3|3145307|Novo Cruzeiro
+3|3146305|Padre Paraíso
+3|3152170|Ponto dos Volantes
+3|3171600|Virgem da Lapa
+3|3102704|Cachoeira de Pajeú
+3|3117009|Comercinho
+3|3133303|Itaobim
+3|3141405|Medina
+3|3148707|Pedra Azul
+3|3101706|Almenara
+3|3105202|Bandeira
+3|3122454|Divisópolis
+3|3125606|Felisburgo
+3|3134707|Jacinto
+3|3135803|Jequitinhonha
+3|3136009|Joaíma
+3|3136504|Jordânia
+3|3140555|Mata Verde
+3|3143153|Monte Formoso
+3|3146750|Palmópolis
+3|3155108|Rio do Prado
+3|3156601|Rubim
+3|3157104|Salto da Divisa
+3|3158102|Santa Maria do Salto
+3|3160306|Santo Antônio do Jacinto
+3|3104700|Ataléia
+3|3115458|Catuji
+3|3126752|Franciscópolis
+3|3126802|Frei Gaspar
+3|3132305|Itaipé
+3|3137007|Ladainha
+3|3139201|Malacacheta
+3|3145356|Novo Oriente de Minas
+3|3146206|Ouro Verde de Minas
+3|3148509|Pavão
+3|3152402|Poté
+3|3165552|Setubinha
+3|3168606|Teófilo Otoni
+3|3100906|Águas Formosas
+3|3106606|Bertópolis
+3|3113701|Carlos Chagas
+3|3120151|Crisólita
+3|3127057|Fronteira dos Vales
+3|3138906|Machacalis
+3|3144300|Nanuque
+3|3157658|Santa Helena de Minas
+3|3166709|Serra dos Aimorés
+3|3170305|Umburatiba
+3|3109808|Cachoeira Dourada
+3|3112604|Capinópolis
+3|3129103|Gurinhatã
+3|3131406|Ipiaçu
+3|3134202|Ituiutaba
+3|3159803|Santa Vitória
+3|3103504|Araguari
+3|3103751|Araporã
+3|3111804|Canápolis
+3|3115003|Cascalho Rico
+3|3115805|Centralina
+3|3130705|Indianópolis
+3|3142809|Monte Alegre de Minas
+3|3152808|Prata
+3|3169604|Tupaciguara
+3|3170206|Uberlândia
+3|3100104|Abadia dos Dourados
+3|3119302|Coromandel
+3|3120706|Cruzeiro da Fortaleza
+3|3123502|Douradoquara
+3|3124807|Estrela do Sul
+3|3127909|Grupiara
+3|3131604|Iraí de Minas
+3|3143104|Monte Carmelo
+3|3148103|Patrocínio
+3|3156403|Romaria
+3|3166808|Serra do Salitre
+3|3103801|Arapuá
+3|3114303|Carmo do Paranaíba
+3|3128907|Guimarânia
+3|3137502|Lagoa Formosa
+3|3141207|Matutina
+3|3148004|Patos de Minas
+3|3155504|Rio Paranaíba
+3|3159704|Santa Rosa da Serra
+3|3162104|São Gotardo
+3|3168903|Tiros
+3|3111101|Campina Verde
+3|3114550|Carneirinho
+3|3116902|Comendador Gomes
+3|3127008|Fronteira
+3|3127107|Frutal
+3|3133402|Itapagipe
+3|3134400|Iturama
+3|3138625|Limeira do Oeste
+3|3150703|Pirajuba
+3|3151602|Planura
+3|3161304|São Francisco de Sales
+3|3170438|União de Minas
+3|3100708|Água Comprida
+3|3111408|Campo Florido
+3|3117306|Conceição das Alagoas
+3|3118205|Conquista
+3|3121258|Delta
+3|3170107|Uberaba
+3|3171105|Veríssimo
+3|3104007|Araxá
+3|3111507|Campos Altos
+3|3129509|Ibiá
+3|3145000|Nova Ponte
+3|3149200|Pedrinópolis
+3|3149804|Perdizes
+3|3153004|Pratinha
+3|3156908|Sacramento
+3|3157708|Santa Juliana
+3|3168101|Tapira
+3|3100203|Abaeté
+3|3107000|Biquinhas
+3|3115607|Cedro do Abaeté
+3|3143500|Morada Nova de Minas
+3|3146404|Paineiras
+3|3152006|Pompéu
+3|3169356|Três Marias
+3|3104809|Augusto de Lima
+3|3109204|Buenópolis
+3|3119104|Corinto
+3|3120904|Curvelo
+3|3125705|Felixlândia
+3|3131109|Inimutaba
+3|3136405|Joaquim Felício
+3|3142502|Monjolos
+3|3143609|Morro da Garça
+3|3153202|Presidente Juscelino
+3|3160603|Santo Hipólito
+3|3103900|Araújos
+3|3107406|Bom Despacho
+3|3123205|Dores do Indaiá
+3|3124708|Estrela do Indaiá
+3|3135308|Japaraíba
+3|3137205|Lagoa da Prata
+3|3138302|Leandro Ferreira
+3|3138807|Luz
+3|3140506|Martinho Campos
+3|3142403|Moema
+3|3153707|Quartel Geral
+3|3166600|Serra da Saudade
+3|3103207|Araçaí
+3|3105004|Baldim
+3|3109600|Cachoeira da Prata
+3|3109907|Caetanópolis
+3|3112505|Capim Branco
+3|3118908|Cordisburgo
+3|3126406|Fortuna de Minas
+3|3127206|Funilândia
+3|3131000|Inhaúma
+3|3134608|Jaboticatubas
+3|3135704|Jequitibá
+3|3139706|Maravilhas
+3|3141108|Matozinhos
+3|3146909|Papagaios
+3|3147402|Paraopeba
+3|3149606|Pequi
+3|3153608|Prudente de Morais
+3|3158508|Santana de Pirapama
+3|3159001|Santana do Riacho
+3|3167202|Sete Lagoas
+3|3102407|Alvorada de Minas
+3|3117504|Conceição do Mato Dentro
+3|3118106|Congonhas do Norte
+3|3122603|Dom Joaquim
+3|3132800|Itambé do Mato Dentro
+3|3143708|Morro do Pilar
+3|3147501|Passabém
+3|3156007|Rio Vermelho
+3|3160207|Santo Antônio do Itambé
+3|3160504|Santo Antônio do Rio Abaixo
+3|3164803|São Sebastião do Rio Preto
+3|3166501|Serra Azul de Minas
+3|3167103|Serro
+3|3126000|Florestal
+3|3145802|Onça de Pitangui
+3|3147105|Pará de Minas
+3|3151404|Pitangui
+3|3163102|São José da Varginha
+3|3106200|Belo Horizonte
+3|3106705|Betim
+3|3109006|Brumadinho
+3|3110004|Caeté
+3|3117876|Confins
+3|3118601|Contagem
+3|3124104|Esmeraldas
+3|3129806|Ibirité
+3|3130101|Igarapé
+3|3136652|Juatuba
+3|3137601|Lagoa Santa
+3|3140159|Mário Campos
+3|3140704|Mateus Leme
+3|3144805|Nova Lima
+3|3149309|Pedro Leopoldo
+3|3153905|Raposos
+3|3154606|Ribeirão das Neves
+3|3154804|Rio Acima
+3|3156700|Sabará
+3|3157807|Santa Luzia
+3|3162922|São Joaquim de Bicas
+3|3162955|São José da Lapa
+3|3165537|Sarzedo
+3|3171204|Vespasiano
+3|3102308|Alvinópolis
+3|3105400|Barão de Cocais
+3|3106002|Bela Vista de Minas
+3|3107703|Bom Jesus do Amparo
+3|3115359|Catas Altas
+3|3121803|Dionísio
+3|3125903|Ferros
+3|3131703|Itabira
+3|3136207|João Monlevade
+3|3136603|Nova União
+3|3144706|Nova Era
+3|3155702|Rio Piracicaba
+3|3157203|Santa Bárbara
+3|3158003|Santa Maria de Itabira
+3|3161007|São Domingos do Prata
+3|3161908|São Gonçalo do Rio Abaixo
+3|3163409|São José do Goiabal
+3|3168309|Taquaraçu de Minas
+3|3106408|Belo Vale
+3|3108107|Bonfim
+3|3120607|Crucilândia
+3|3132206|Itaguara
+3|3133709|Itatiaiuçu
+3|3135407|Jeceaba
+3|3142304|Moeda
+3|3150406|Piedade dos Gerais
+3|3155306|Rio Manso
+3|3121704|Diogo de Vasconcelos
+3|3131901|Itabirito
+3|3140001|Mariana
+3|3146107|Ouro Preto
+3|3114907|Casa Grande
+3|3115409|Catas Altas da Noruega
+3|3118007|Congonhas
+3|3118304|Conselheiro Lafaiete
+3|3120409|Cristiano Otoni
+3|3121407|Desterro de Entre Rios
+3|3123908|Entre Rios de Minas
+3|3133907|Itaverava
+3|3145901|Ouro Branco
+3|3153806|Queluzito
+3|3159100|Santana dos Montes
+3|3160900|São Brás do Suaçuí
+3|3108800|Braúnas
+3|3113800|Carmésia
+3|3116803|Coluna
+3|3122207|Divinolândia de Minas
+3|3123106|Dores de Guanhães
+3|3127503|Gonzaga
+3|3128006|Guanhães
+3|3140605|Materlândia
+3|3148400|Paulistas
+3|3156809|Sabinópolis
+3|3157500|Santa Efigênia de Minas
+3|3162807|São João Evangelista
+3|3165503|Sardoá
+3|3166105|Senhora do Porto
+3|3171808|Virginópolis
+3|3100609|Água Boa
+3|3112059|Cantagalo
+3|3126950|Frei Lagonegro
+3|3136553|José Raydan
+3|3148608|Peçanha
+3|3158201|Santa Maria do Suaçuí
+3|3163508|São José do Jacuri
+3|3164100|São Pedro do Suaçuí
+3|3164506|São Sebastião do Maranhão
+3|3101805|Alpercata
+3|3110806|Campanário
+3|3112653|Capitão Andrade
+3|3119203|Coroaci
+3|3122108|Divino das Laranjeiras
+3|3123700|Engenheiro Caldas
+3|3125804|Fernandes Tourinho
+3|3126901|Frei Inocêncio
+3|3127305|Galiléia
+3|3127701|Governador Valadares
+3|3132701|Itambacuri
+3|3133204|Itanhomi
+3|3135076|Jampruca
+3|3140100|Marilac
+3|3144201|Nacip Raydan
+3|3144904|Nova Módica
+3|3150000|Pescador
+3|3161601|São Geraldo da Piedade
+3|3161650|São Geraldo do Baixio
+3|3163003|São José da Safira
+3|3163300|São José do Divino
+3|3167707|Sobrália
+3|3169505|Tumiritinga
+3|3171501|Mathias Lobato
+3|3171907|Virgolândia
+3|3115706|Central de Minas
+3|3131802|Itabirinha
+3|3139607|Mantena
+3|3141504|Mendes Pimentel
+3|3144672|Nova Belém
+3|3161056|São Félix de Minas
+3|3162575|São João do Manteninha
+3|3100500|Açucena
+3|3103009|Antônio Dias
+3|3106309|Belo Oriente
+3|3119401|Coronel Fabriciano
+3|3131307|Ipatinga
+3|3135001|Jaguaraçu
+3|3136108|Joanésia
+3|3140308|Marliéria
+3|3141702|Mesquita
+3|3144359|Naque
+3|3149952|Periquito
+3|3158953|Santana do Paraíso
+3|3168705|Timóteo
+3|3107802|Bom Jesus do Galho
+3|3109253|Bugre
+3|3113404|Caratinga
+3|3120003|Córrego Novo
+3|3122504|Dom Cavati
+3|3123858|Entre Folhas
+3|3129301|Iapu
+3|3130556|Imbé de Minas
+3|3130903|Inhapim
+3|3131158|Ipaba
+3|3150158|Piedade de Caratinga
+3|3150539|Pingo-d'Água
+3|3157252|Santa Bárbara do Leste
+3|3159357|Santa Rita de Minas
+3|3160959|São Domingos das Dores
+3|3162609|São João do Oriente
+3|3164472|São Sebastião do Anta
+3|3168408|Tarumirim
+3|3170057|Ubaporanga
+3|3170578|Vargem Alegre
+3|3101102|Aimorés
+3|3102209|Alvarenga
+3|3117405|Conceição de Ipanema
+3|3118403|Conselheiro Pena
+3|3120839|Cuparaque
+3|3127370|Goiabeira
+3|3131208|Ipanema
+3|3134103|Itueta
+3|3144003|Mutum
+3|3151909|Pocrane
+3|3154309|Resplendor
+3|3159506|Santa Rita do Itueto
+3|3168051|Taparuba
+3|3105103|Bambuí
+3|3119807|Córrego Danta
+3|3123403|Doresópolis
+3|3130309|Iguatama
+3|3141306|Medeiros
+3|3151503|Piumhi
+3|3164308|São Roque de Minas
+3|3168200|Tapiraí
+3|3170602|Vargem Bonita
+3|3114204|Carmo do Cajuru
+3|3116605|Cláudio
+3|3117603|Conceição do Pará
+3|3122306|Divinópolis
+3|3130200|Igaratinga
+3|3133808|Itaúna
+3|3145208|Nova Serrana
+3|3149705|Perdigão
+3|3160405|Santo Antônio do Monte
+3|3161809|São Gonçalo do Pará
+3|3164605|São Sebastião do Oeste
+3|3104205|Arcos
+3|3110400|Camacho
+3|3119955|Córrego Fundo
+3|3126109|Formiga
+3|3133501|Itapecerica
+3|3146503|Pains
+3|3148905|Pedra do Indaiá
+3|3150505|Pimenta
+3|3100807|Aguanil
+3|3111200|Campo Belo
+3|3111903|Cana Verde
+3|3112000|Candeias
+3|3120201|Cristais
+3|3149903|Perdões
+3|3158805|Santana do Jacaré
+3|3108008|Bom Sucesso
+3|3114006|Carmo da Mata
+3|3114501|Carmópolis de Minas
+3|3130002|Ibituruna
+3|3145604|Oliveira
+3|3147709|Passa Tempo
+3|3150604|Piracema
+3|3159902|Santo Antônio do Amparo
+3|3161205|São Francisco de Paula
+3|3101904|Alpinópolis
+3|3107604|Bom Jesus da Penha
+3|3112406|Capetinga
+3|3112802|Capitólio
+3|3115102|Cássia
+3|3116407|Claraval
+3|3121209|Delfinópolis
+3|3126307|Fortaleza de Minas
+3|3129707|Ibiraci
+3|3133758|Itaú de Minas
+3|3147907|Passos
+3|3152907|Pratápolis
+3|3162203|São João Batista do Glória
+3|3162948|São José da Barra
+3|3104106|Arceburgo
+3|3109501|Cabo Verde
+3|3128303|Guaranésia
+3|3128709|Guaxupé
+3|3132909|Itamogi
+3|3134806|Jacuí
+3|3136900|Juruaia
+3|3143005|Monte Belo
+3|3143203|Monte Santo de Minas
+3|3144102|Muzambinho
+3|3145109|Nova Resende
+3|3163904|São Pedro da União
+3|3164704|São Sebastião do Paraíso
+3|3165107|São Tomás de Aquino
+3|3101607|Alfenas
+3|3102001|Alterosa
+3|3104304|Areado
+3|3114402|Carmo do Rio Claro
+3|3114709|Carvalhópolis
+3|3117108|Conceição da Aparecida
+3|3122405|Divisa Nova
+3|3125200|Fama
+3|3139003|Machado
+3|3147204|Paraguaçu
+3|3151701|Poço Fundo
+3|3166907|Serrania
+3|3107109|Boa Esperança
+3|3110905|Campanha
+3|3111309|Campo do Meio
+3|3111606|Campos Gerais
+3|3113909|Carmo da Cachoeira
+3|3118700|Coqueiral
+3|3123601|Elói Mendes
+3|3128105|Guapé
+3|3130507|Ilicínea
+3|3142601|Monsenhor Paulo
+3|3158300|Santana da Vargem
+3|3160801|São Bento Abade
+3|3165206|São Thomé das Letras
+3|3169307|Três Corações
+3|3169406|Três Pontas
+3|3170701|Varginha
+3|3101409|Albertina
+3|3102605|Andradas
+3|3105301|Bandeira do Sul
+3|3108404|Botelhos
+3|3110301|Caldas
+3|3111002|Campestre
+3|3129905|Ibitiúra de Minas
+3|3130606|Inconfidentes
+3|3134905|Jacutinga
+3|3143401|Monte Sião
+3|3146008|Ouro Fino
+3|3151800|Poços de Caldas
+3|3159209|Santa Rita de Caldas
+3|3107901|Bom Repouso
+3|3108305|Borda da Mata
+3|3109105|Bueno Brandão
+3|3110509|Camanducaia
+3|3110608|Cambuí
+3|3117900|Congonhal
+3|3119906|Córrego do Bom Jesus
+3|3124401|Espírito Santo do Dourado
+3|3124500|Estiva
+3|3125101|Extrema
+3|3127404|Gonçalves
+3|3131505|Ipuiúna
+3|3133600|Itapeva
+3|3143807|Munhoz
+3|3152501|Pouso Alegre
+3|3165404|Sapucaí-Mirim
+3|3165578|Senador Amaral
+3|3165800|Senador José Bento
+3|3169059|Tocos do Moji
+3|3169109|Toledo
+3|3109709|Cachoeira de Minas
+3|3113602|Careaçu
+3|3117207|Conceição das Pedras
+3|3117801|Conceição dos Ouros
+3|3119005|Cordislândia
+3|3129202|Heliodora
+3|3144409|Natércia
+3|3149101|Pedralva
+3|3159605|Santa Rita do Sapucaí
+3|3162005|São Gonçalo do Sapucaí
+3|3162302|São João da Mata
+3|3163201|São José do Alegre
+3|3164407|São Sebastião da Bela Vista
+3|3167400|Silvianópolis
+3|3169802|Turvolândia
+3|3101300|Alagoa
+3|3104908|Baependi
+3|3110707|Cambuquira
+3|3114105|Carmo de Minas
+3|3115508|Caxambu
+3|3117702|Conceição do Rio Verde
+3|3133006|Itamonte
+3|3133105|Itanhandu
+3|3135902|Jesuânia
+3|3137809|Lambari
+3|3145505|Olímpio Noronha
+3|3147600|Passa Quatro
+3|3152600|Pouso Alto
+3|3163706|São Lourenço
+3|3164902|São Sebastião do Rio Verde
+3|3167806|Soledade de Minas
+3|3101201|Aiuruoca
+3|3102803|Andrelândia
+3|3103603|Arantina
+3|3107208|Bocaina de Minas
+3|3107505|Bom Jardim de Minas
+3|3114808|Carvalhos
+3|3120805|Cruzília
+3|3138500|Liberdade
+3|3141900|Minduri
+3|3147808|Passa-Vinte
+3|3165305|São Vicente de Minas
+3|3166402|Seritinga
+3|3167004|Serranos
+3|3108909|Brasópolis
+3|3118502|Consolação
+3|3120508|Cristina
+3|3121100|Delfim Moreira
+3|3122801|Dom Viçoso
+3|3132404|Itajubá
+3|3139904|Maria da Fé
+3|3140407|Marmelópolis
+3|3147303|Paraisópolis
+3|3150901|Piranguçu
+3|3151008|Piranguinho
+3|3171709|Virgínia
+3|3172202|Wenceslau Braz
+3|3114600|Carrancas
+3|3130408|Ijaci
+3|3130804|Ingaí
+3|3134301|Itumirim
+3|3134509|Itutinga
+3|3138203|Lavras
+3|3138708|Luminárias
+3|3144607|Nepomuceno
+3|3154705|Ribeirão Vermelho
+3|3115201|Conceição da Barra de Minas
+3|3119708|Coronel Xavier Chaves
+3|3123007|Dores de Campos
+3|3137403|Lagoa Dourada
+3|3139102|Madre de Deus de Minas
+3|3144508|Nazareno
+3|3150307|Piedade do Rio Grande
+3|3152709|Prados
+3|3154200|Resende Costa
+3|3156106|Ritápolis
+3|3157336|Santa Cruz de Minas
+3|3158706|Santana do Garambéu
+3|3162500|São João del Rei
+3|3165008|São Tiago
+3|3168804|Tiradentes
+3|3101631|Alfredo Vasconcelos
+3|3102902|Antônio Carlos
+3|3105608|Barbacena
+3|3105905|Barroso
+3|3112208|Capela Nova
+3|3113107|Caranaíba
+3|3113206|Carandaí
+3|3121506|Desterro do Melo
+3|3129400|Ibertioga
+3|3154408|Ressaquinha
+3|3157302|Santa Bárbara do Tugúrio
+3|3166204|Senhora dos Remédios
+3|3100401|Acaiaca
+3|3105707|Barra Longa
+3|3122702|Dom Silvério
+3|3128204|Guaraciaba
+3|3135506|Jequeri
+3|3145851|Oratórios
+3|3150208|Piedade de Ponte Nova
+3|3152105|Ponte Nova
+3|3154002|Raul Soares
+3|3154903|Rio Casca
+3|3155009|Rio Doce
+3|3157401|Santa Cruz do Escalvado
+3|3160108|Santo Antônio do Grama
+3|3164001|São Pedro dos Ferros
+3|3165560|Sem-Peixe
+3|3166303|Sericita
+3|3170503|Urucânia
+3|3171154|Vermelho Novo
+3|3100302|Abre Campo
+3|3102050|Alto Caparaó
+3|3112109|Caparaó
+3|3112901|Caputira
+3|3116001|Chalé
+3|3123528|Durandé
+3|3137700|Lajinha
+3|3138674|Luisburgo
+3|3139409|Manhuaçu
+3|3139508|Manhumirim
+3|3140530|Martins Soares
+3|3140902|Matipó
+3|3148756|Pedra Bonita
+3|3153509|Alto Jequitibá
+3|3154150|Reduto
+3|3157906|Santa Margarida
+3|3158904|Santana do Manhuaçu
+3|3162559|São João do Manhuaçu
+3|3163607|São José do Mantimento
+3|3167608|Simonésia
+3|3102100|Alto Rio Doce
+3|3102506|Amparo do Serra
+3|3103702|Araponga
+3|3108701|Brás Pires
+3|3110202|Cajuri
+3|3111705|Canaã
+3|3116308|Cipotânea
+3|3116704|Coimbra
+3|3124005|Ervália
+3|3137908|Lamim
+3|3148301|Paula Cândido
+3|3148806|Pedra do Anta
+3|3150802|Piranga
+3|3152303|Porto Firme
+3|3153103|Presidente Bernardes
+3|3155207|Rio Espera
+3|3163805|São Miguel do Anta
+3|3166006|Senhora de Oliveira
+3|3168507|Teixeiras
+3|3171303|Viçosa
+3|3103108|Antônio Prado de Minas
+3|3105509|Barão de Monte Alto
+3|3110103|Caiana
+3|3113305|Carangola
+3|3122009|Divino
+3|3124203|Espera Feliz
+3|3124906|Eugenópolis
+3|3125309|Faria Lemos
+3|3125952|Fervedouro
+3|3142106|Miradouro
+3|3142205|Miraí
+3|3143906|Muriaé
+3|3145877|Orizânia
+3|3148202|Patrocínio do Muriaé
+3|3149002|Pedra Dourada
+3|3156452|Rosário da Limeira
+3|3161403|São Francisco do Glória
+3|3164431|São Sebastião da Vargem Alegre
+3|3169208|Tombos
+3|3171402|Vieiras
+3|3104601|Astolfo Dutra
+3|3121902|Divinésia
+3|3123304|Dores do Turvo
+3|3128402|Guarani
+3|3128808|Guidoval
+3|3129004|Guiricema
+3|3141603|Mercês
+3|3151305|Piraúba
+3|3155801|Rio Pomba
+3|3156304|Rodeiro
+3|3161502|São Geraldo
+3|3165701|Senador Firmino
+3|3167301|Silveirânia
+3|3167905|Tabuleiro
+3|3169000|Tocantins
+3|3169901|Ubá
+3|3172004|Visconde do Rio Branco
+3|3103306|Aracitaba
+3|3106101|Belmiro Braga
+3|3106804|Bias Fortes
+3|3106903|Bicas
+3|3115904|Chácara
+3|3116209|Chiador
+3|3119609|Coronel Pacheco
+3|3121308|Descoberto
+3|3125002|Ewbank da Câmara
+3|3127388|Goianá
+3|3128501|Guarará
+3|3136702|Juiz de Fora
+3|3138609|Lima Duarte
+3|3139805|Mar de Espanha
+3|3140209|Maripá de Minas
+3|3140803|Matias Barbosa
+3|3145406|Olaria
+3|3145703|Oliveira Fortes
+3|3146602|Paiva
+3|3149408|Pedro Teixeira
+3|3149507|Pequeri
+3|3150109|Piau
+3|3155405|Rio Novo
+3|3155900|Rio Preto
+3|3156205|Rochedo de Minas
+3|3157278|Santa Bárbara do Monte Verde
+3|3158607|Santana do Deserto
+3|3159308|Santa Rita de Jacutinga
+3|3159407|Santa Rita de Ibitipoca
+3|3160702|Santos Dumont
+3|3162906|São João Nepomuceno
+3|3165602|Senador Cortes
+3|3167509|Simão Pereira
+3|3101508|Além Paraíba
+3|3104403|Argirita
+3|3115300|Cataguases
+3|3122900|Dona Eusébia
+3|3124609|Estrela Dalva
+3|3132602|Itamarati de Minas
+3|3138005|Laranjal
+3|3138401|Leopoldina
+3|3146701|Palma
+3|3151107|Pirapetinga
+3|3154101|Recreio
+3|3158409|Santana de Cataguases
+3|3160009|Santo Antônio do Aventureiro
+3|3172103|Volta Grande
+4|3200169|Água Doce do Norte
+4|3200904|Barra de São Francisco
+4|3202108|Ecoporanga
+4|3203304|Mantenópolis
+4|3200136|Águia Branca
+4|3201001|Boa Esperança
+4|3203908|Nova Venécia
+4|3204708|São Gabriel da Palha
+4|3205150|Vila Pavão
+4|3205176|Vila Valério
+4|3200359|Alto Rio Novo
+4|3200805|Baixo Guandu
+4|3201506|Colatina
+4|3202256|Governador Lindenberg
+4|3203353|Marilândia
+4|3204005|Pancas
+4|3204658|São Domingos do Norte
+4|3203502|Montanha
+4|3203601|Mucurici
+4|3204104|Pinheiros
+4|3204252|Ponto Belo
+4|3201605|Conceição da Barra
+4|3203056|Jaguaré
+4|3204054|Pedro Canário
+4|3204906|São Mateus
+4|3200607|Aracruz
+4|3202207|Fundão
+4|3202504|Ibiraçu
+4|3203130|João Neiva
+4|3203205|Linhares
+4|3204351|Rio Bananal
+4|3205010|Sooretama
+4|3200102|Afonso Cláudio
+4|3201159|Brejetuba
+4|3201704|Conceição do Castelo
+4|3201902|Domingos Martins
+4|3203163|Laranja da Terra
+4|3203346|Marechal Floriano
+4|3205069|Venda Nova do Imigrante
+4|3202702|Itaguaçu
+4|3202900|Itarana
+4|3204500|Santa Leopoldina
+4|3204559|Santa Maria de Jetibá
+4|3204609|Santa Teresa
+4|3204955|São Roque do Canaã
+4|3201308|Cariacica
+4|3205002|Serra
+4|3205101|Viana
+4|3205200|Vila Velha
+4|3205309|Vitória
+4|3200300|Alfredo Chaves
+4|3200409|Anchieta
+4|3202405|Guarapari
+4|3202603|Iconha
+4|3204203|Piúma
+4|3204401|Rio Novo do Sul
+4|3200201|Alegre
+4|3201803|Divino de São Lourenço
+4|3202009|Dores do Rio Preto
+4|3202306|Guaçuí
+4|3202454|Ibatiba
+4|3202553|Ibitirama
+4|3202652|Irupi
+4|3203007|Iúna
+4|3203700|Muniz Freire
+4|3200508|Apiacá
+4|3200706|Atilio Vivacqua
+4|3201100|Bom Jesus do Norte
+4|3201209|Cachoeiro de Itapemirim
+4|3201407|Castelo
+4|3203106|Jerônimo Monteiro
+4|3203403|Mimoso do Sul
+4|3203809|Muqui
+4|3204807|São José do Calçado
+4|3205036|Vargem Alta
+4|3202801|Itapemirim
+4|3203320|Marataízes
+4|3204302|Presidente Kennedy
+2|3300605|Bom Jesus do Itabapoana
+2|3302056|Italva
+2|3302205|Itaperuna
+2|3302304|Laje do Muriaé
+2|3303104|Natividade
+2|3304102|Porciúncula
+2|3306156|Varre-Sai
+2|3300159|Aperibé
+2|3300902|Cambuci
+2|3302106|Itaocara
+2|3303005|Miracema
+2|3304706|Santo Antônio de Pádua
+2|3305133|São José de Ubá
+2|3301009|Campos dos Goytacazes
+2|3301157|Cardoso Moreira
+2|3304755|São Francisco de Itabapoana
+2|3304805|São Fidélis
+2|3305000|São João da Barra
+2|3300936|Carapebus
+2|3301405|Conceição de Macabu
+2|3302403|Macaé
+2|3304151|Quissamã
+2|3300225|Areal
+2|3300951|Comendador Levy Gasparian
+2|3303708|Paraíba do Sul
+2|3305406|Sapucaia
+2|3306008|Três Rios
+2|3301108|Cantagalo
+2|3301207|Carmo
+2|3301504|Cordeiro
+2|3302452|Macuco
+2|3300506|Bom Jardim
+2|3301603|Duas Barras
+2|3303401|Nova Friburgo
+2|3305703|Sumidouro
+2|3304607|Santa Maria Madalena
+2|3305307|São Sebastião do Alto
+2|3305901|Trajano de Morais
+2|3301306|Casimiro de Abreu
+2|3304524|Rio das Ostras
+2|3305604|Silva Jardim
+2|3300209|Araruama
+2|3300233|Armação dos Búzios
+2|3300258|Arraial do Cabo
+2|3300704|Cabo Frio
+2|3301876|Iguaba Grande
+2|3305208|São Pedro da Aldeia
+2|3305505|Saquarema
+2|3300407|Barra Mansa
+2|3302254|Itatiaia
+2|3303955|Pinheiral
+2|3304003|Piraí
+2|3304110|Porto Real
+2|3304128|Quatis
+2|3304201|Resende
+2|3304409|Rio Claro
+2|3306305|Volta Redonda
+2|3300308|Barra do Piraí
+2|3304508|Rio das Flores
+2|3306107|Valença
+2|3300100|Angra dos Reis
+2|3303807|Parati
+2|3301801|Engenheiro Paulo de Frontin
+2|3302809|Mendes
+2|3302908|Miguel Pereira
+2|3303609|Paracambi
+2|3303856|Paty do Alferes
+2|3306206|Vassouras
+2|3303906|Petrópolis
+2|3305158|São José do Vale do Rio Preto
+2|3305802|Teresópolis
+2|3300803|Cachoeiras de Macacu
+2|3304300|Rio Bonito
+2|3302007|Itaguaí
+2|3302601|Mangaratiba
+2|3305554|Seropédica
+2|3300456|Belford Roxo
+2|3301702|Duque de Caxias
+2|3301850|Guapimirim
+2|3301900|Itaboraí
+2|3302270|Japeri
+2|3302502|Magé
+2|3302700|Maricá
+2|3302858|Mesquita
+2|3303203|Nilópolis
+2|3303302|Niterói
+2|3303500|Nova Iguaçu
+2|3304144|Queimados
+2|3304557|Rio de Janeiro
+2|3304904|São Gonçalo
+2|3305109|São João de Meriti
+2|3305752|Tanguá
+1|3502606|Aparecida d'Oeste
+1|3503950|Aspásia
+1|3513850|Dirce Reis
+1|3514205|Dolcinópolis
+1|3524808|Jales
+1|3529104|Marinópolis
+1|3529658|Mesópolis
+1|3532843|Nova Canaã Paulista
+1|3535200|Palmeira d'Oeste
+1|3535903|Paranapuã
+1|3540259|Pontalinda
+1|3540408|Populina
+1|3544509|Rubinéia
+1|3545704|Santa Albertina
+1|3546108|Santa Clara d'Oeste
+1|3546603|Santa Fé do Sul
+1|3547205|Santana da Ponte Pensa
+1|3547403|Santa Rita d'Oeste
+1|3547650|Santa Salete
+1|3549003|São Francisco
+1|3554904|Três Fronteiras
+1|3555802|Urânia
+1|3556958|Vitória Brasil
+1|3515202|Estrela d'Oeste
+1|3515509|Fernandópolis
+1|3518008|Guarani d'Oeste
+1|3520707|Indiaporã
+1|3528205|Macedônia
+1|3529609|Meridiano
+1|3530003|Mira Estrela
+1|3534757|Ouroeste
+1|3536901|Pedranópolis
+1|3549201|São João das Duas Pontes
+1|3555307|Turmalina
+1|3501202|Álvares Florence
+1|3501806|Américo de Campos
+1|3510708|Cardoso
+1|3512902|Cosmorama
+1|3536257|Parisi
+1|3540309|Pontes Gestal
+1|3544202|Riolândia
+1|3556107|Valentim Gentil
+1|3557105|Votuporanga
+1|3500204|Adolfo
+1|3500907|Altair
+1|3504602|Bady Bassitt
+1|3504800|Bálsamo
+1|3511300|Cedral
+1|3517505|Guapiaçu
+1|3517901|Guaraci
+1|3519402|Ibirá
+1|3519808|Icém
+1|3521150|Ipiguá
+1|3524501|Jaci
+1|3525706|José Bonifácio
+1|3529500|Mendonça
+1|3530300|Mirassol
+1|3530409|Mirassolândia
+1|3532801|Nova Aliança
+1|3533007|Nova Granada
+1|3533908|Olímpia
+1|3534005|Onda Verde
+1|3534203|Orindiúva
+1|3535002|Palestina
+1|3536604|Paulo de Faria
+1|3539608|Planalto
+1|3540804|Potirendaba
+1|3549805|São José do Rio Preto
+1|3553401|Tanabi
+1|3555356|Ubarana
+1|3555604|Uchoa
+1|3557154|Zacarias
+1|3503703|Ariranha
+1|3509304|Cajobi
+1|3511102|Catanduva
+1|3511201|Catiguá
+1|3514924|Elisiário
+1|3514957|Embaúba
+1|3533254|Novais
+1|3535101|Palmares Paulista
+1|3535705|Paraíso
+1|3538105|Pindorama
+1|3545605|Santa Adélia
+1|3551900|Severínia
+1|3552601|Tabapuã
+1|3504206|Auriflama
+1|3515905|Floreal
+1|3516804|Gastão Vidigal
+1|3516903|General Salgado
+1|3518909|Guzolândia
+1|3528304|Magda
+1|3532868|Nova Castilho
+1|3533304|Nova Luzitânia
+1|3549250|São João de Iracema
+1|3528106|Macaubal
+1|3531001|Monções
+1|3531407|Monte Aprazível
+1|3532504|Neves Paulista
+1|3532603|Nhandeara
+1|3532702|Nipoã
+1|3539905|Poloni
+1|3551306|Sebastianópolis do Sul
+1|3555703|União Paulista
+1|3521507|Irapuã
+1|3521903|Itajobi
+1|3528858|Marapoama
+1|3533502|Novo Horizonte
+1|3544806|Sales
+1|3556008|Urupês
+1|3505500|Barretos
+1|3512001|Colina
+1|3512100|Colômbia
+1|3517406|Guaíra
+1|3521309|Ipuã
+1|3524204|Jaborandi
+1|3529708|Miguelópolis
+1|3531902|Morro Agudo
+1|3533601|Nuporanga
+1|3534302|Orlândia
+1|3544905|Sales Oliveira
+1|3549409|São Joaquim da Barra
+1|3503000|Aramina
+1|3508207|Buritizal
+1|3517703|Guará
+1|3520103|Igarapava
+1|3524105|Ituverava
+1|3513207|Cristais Paulista
+1|3516200|Franca
+1|3523701|Itirapuã
+1|3525409|Jeriquara
+1|3536307|Patrocínio Paulista
+1|3537008|Pedregulho
+1|3542701|Restinga
+1|3543105|Ribeirão Corrente
+1|3543600|Rifaina
+1|3549508|São José da Bela Vista
+1|3506102|Bebedouro
+1|3510104|Cândido Rodrigues
+1|3515608|Fernando Prestes
+1|3518602|Guariba
+1|3524303|Jaboticabal
+1|3531308|Monte Alto
+1|3531506|Monte Azul Paulista
+1|3539004|Pirangi
+1|3539509|Pitangueiras
+1|3546504|Santa Ernestina
+1|3553104|Taiaçu
+1|3553203|Taiúva
+1|3553658|Taquaral
+1|3553708|Taquaritinga
+1|3554409|Terra Roxa
+1|3556800|Viradouro
+1|3556909|Vista Alegre do Alto
+1|3505609|Barrinha
+1|3507803|Brodowski
+1|3513108|Cravinhos
+1|3514601|Dumont
+1|3518859|Guatapará
+1|3525102|Jardinópolis
+1|3527603|Luís Antônio
+1|3540200|Pontal
+1|3540903|Pradópolis
+1|3543402|Ribeirão Preto
+1|3547502|Santa Rita do Passa Quatro
+1|3547601|Santa Rosa de Viterbo
+1|3550902|São Simão
+1|3551405|Serra Azul
+1|3551504|Serrana
+1|3551702|Sertãozinho
+1|3501004|Altinópolis
+1|3505906|Batatais
+1|3509403|Cajuru
+1|3510906|Cássia dos Coqueiros
+1|3546256|Santa Cruz da Esperança
+1|3547908|Santo Antônio da Alegria
+1|3502101|Andradina
+1|3511003|Castilho
+1|3517802|Guaraçaí
+1|3520442|Ilha Solteira
+1|3523008|Itapura
+1|3530102|Mirandópolis
+1|3532108|Murutinga do Sul
+1|3533205|Nova Independência
+1|3537404|Pereira Barreto
+1|3552304|Sud Mennucci
+1|3552551|Suzanápolis
+1|3502804|Araçatuba
+1|3506201|Bento de Abreu
+1|3518206|Guararapes
+1|3526506|Lavínia
+1|3544400|Rubiácea
+1|3548054|Santo Antônio do Aracanguá
+1|3556305|Valparaíso
+1|3501103|Alto Alegre
+1|3504404|Avanhandava
+1|3505104|Barbosa
+1|3506409|Bilac
+1|3506508|Birigui
+1|3507704|Braúna
+1|3507753|Brejo Alegre
+1|3508108|Buritama
+1|3511904|Clementina
+1|3512506|Coroados
+1|3516507|Gabriel Monteiro
+1|3517109|Glicério
+1|3527256|Lourdes
+1|3527702|Luiziânia
+1|3537305|Penápolis
+1|3537701|Piacatu
+1|3548401|Santópolis do Aguapeí
+1|3555208|Turiúba
+1|3508801|Cafelândia
+1|3517000|Getulina
+1|3517208|Guaiçara
+1|3517307|Guaimbê
+1|3525805|Júlio Mesquita
+1|3527108|Lins
+1|3541604|Promissão
+1|3544608|Sabino
+1|3500709|Agudos
+1|3503406|Arealva
+1|3503604|Areiópolis
+1|3504305|Avaí
+1|3504701|Balbinos
+1|3506003|Bauru
+1|3507456|Borebi
+1|3508306|Cabrália Paulista
+1|3514502|Duartina
+1|3518107|Guarantã
+1|3519105|Iacanga
+1|3526803|Lençóis Paulista
+1|3527504|Lucianópolis
+1|3536570|Paulistânia
+1|3538907|Pirajuí
+1|3539400|Piratininga
+1|3540101|Pongaí
+1|3541109|Presidente Alves
+1|3542503|Reginópolis
+1|3555505|Ubirajara
+1|3555901|Uru
+1|3505203|Bariri
+1|3505302|Barra Bonita
+1|3506805|Bocaina
+1|3507308|Boracéia
+1|3514106|Dois Córregos
+1|3520004|Igaraçu do Tietê
+1|3522000|Itaju
+1|3522901|Itapuí
+1|3525300|Jaú
+1|3528007|Macatuba
+1|3529807|Mineiros do Tietê
+1|3536703|Pederneiras
+1|3500550|Águas de Santa Bárbara
+1|3503109|Arandu
+1|3504503|Avaré
+1|3511409|Cerqueira César
+1|3519253|Iaras
+1|3521804|Itaí
+1|3523503|Itatinga
+1|3535804|Paranapanema
+1|3502309|Anhembi
+1|3506904|Bofete
+1|3507506|Botucatu
+1|3512308|Conchas
+1|3536109|Pardinho
+1|3541059|Pratânia
+1|3550100|São Manuel
+1|3501707|Américo Brasiliense
+1|3503208|Araraquara
+1|3506706|Boa Esperança do Sul
+1|3507407|Borborema
+1|3514007|Dobrada
+1|3516853|Gavião Peixoto
+1|3519600|Ibitinga
+1|3522703|Itápolis
+1|3529302|Matão
+1|3532058|Motuca
+1|3532900|Nova Europa
+1|3543709|Rincão
+1|3546900|Santa Lúcia
+1|3552700|Tabatinga
+1|3554755|Trabiju
+1|3502002|Analândia
+1|3513702|Descalvado
+1|3514304|Dourado
+1|3519303|Ibaté
+1|3542909|Ribeirão Bonito
+1|3548906|São Carlos
+1|3507902|Brotas
+1|3512704|Corumbataí
+1|3521101|Ipeúna
+1|3523602|Itirapina
+1|3543907|Rio Claro
+1|3554706|Torrinha
+1|3503307|Araras
+1|3512209|Conchal
+1|3512407|Cordeirópolis
+1|3521408|Iracemápolis
+1|3526704|Leme
+1|3526902|Limeira
+1|3546207|Santa Cruz da Conceição
+1|3546702|Santa Gertrudes
+1|3500600|Águas de São Pedro
+1|3510401|Capivari
+1|3511706|Charqueada
+1|3525854|Jumirim
+1|3530904|Mombuca
+1|3538709|Piracicaba
+1|3542107|Rafard
+1|3544004|Rio das Pedras
+1|3545159|Saltinho
+1|3547007|Santa Maria da Serra
+1|3550407|São Pedro
+1|3554508|Tietê
+1|3500303|Aguaí
+1|3539301|Pirassununga
+1|3540705|Porto Ferreira
+1|3546306|Santa Cruz das Palmeiras
+1|3500402|Águas da Prata
+1|3508702|Caconde
+1|3510807|Casa Branca
+1|3513900|Divinolândia
+1|3515186|Espírito Santo do Pinhal
+1|3523800|Itobi
+1|3530508|Mococa
+1|3548104|Santo Antônio do Jardim
+1|3549102|São João da Boa Vista
+1|3549706|São José do Rio Pardo
+1|3550803|São Sebastião da Grama
+1|3553302|Tambaú
+1|3553609|Tapiratiba
+1|3556404|Vargem Grande do Sul
+1|3503802|Artur Nogueira
+1|3515152|Engenheiro Coelho
+1|3522604|Itapira
+1|3530706|Mogi Guaçu
+1|3530805|Moji Mirim
+1|3548005|Santo Antônio de Posse
+1|3557303|Estiva Gerbi
+1|3501608|Americana
+1|3509502|Campinas
+1|3512803|Cosmópolis
+1|3514908|Elias Fausto
+1|3519055|Holambra
+1|3519071|Hortolândia
+1|3520509|Indaiatuba
+1|3524709|Jaguariúna
+1|3531803|Monte Mor
+1|3533403|Nova Odessa
+1|3536505|Paulínia
+1|3537107|Pedreira
+1|3545803|Santa Bárbara d'Oeste
+1|3552403|Sumaré
+1|3556206|Valinhos
+1|3556701|Vinhedo
+1|3500501|Águas de Lindóia
+1|3501905|Amparo
+1|3527009|Lindóia
+1|3531209|Monte Alegre do Sul
+1|3536802|Pedra Bela
+1|3538204|Pinhalzinho
+1|3551603|Serra Negra
+1|3552106|Socorro
+1|3514403|Dracena
+1|3526001|Junqueirópolis
+1|3531605|Monte Castelo
+1|3533106|Nova Guataporanga
+1|3534807|Ouro Verde
+1|3535408|Panorama
+1|3536406|Paulicéia
+1|3547106|Santa Mercedes
+1|3549300|São João do Pau d'Alho
+1|3555109|Tupi Paulista
+1|3500105|Adamantina
+1|3515806|Flora Rica
+1|3516002|Flórida Paulista
+1|3520806|Inúbia Paulista
+1|3521606|Irapuru
+1|3527405|Lucélia
+1|3528908|Mariápolis
+1|3534609|Osvaldo Cruz
+1|3534906|Pacaembu
+1|3536000|Parapuã
+1|3540853|Pracinha
+1|3543808|Rinópolis
+1|3544707|Sagres
+1|3545100|Salmourão
+1|3500808|Alfredo Marcondes
+1|3501301|Álvares Machado
+1|3502408|Anhumas
+1|3508900|Caiabu
+1|3509106|Caiuá
+1|3515129|Emilianópolis
+1|3515301|Estrela do Norte
+1|3515350|Euclides da Cunha Paulista
+1|3520608|Indiana
+1|3525607|João Ramalho
+1|3528700|Marabá Paulista
+1|3529203|Martinópolis
+1|3530201|Mirante do Paranapanema
+1|3532207|Narandiba
+1|3538303|Piquerobi
+1|3539202|Pirapozinho
+1|3541208|Presidente Bernardes
+1|3541307|Presidente Epitácio
+1|3541406|Presidente Prudente
+1|3541505|Presidente Venceslau
+1|3542206|Rancharia
+1|3542404|Regente Feijó
+1|3543238|Ribeirão dos Índios
+1|3544251|Rosana
+1|3545506|Sandovalina
+1|3547700|Santo Anastácio
+1|3548302|Santo Expedito
+1|3552908|Taciba
+1|3553906|Tarabai
+1|3554300|Teodoro Sampaio
+1|3503356|Arco-Íris
+1|3505807|Bastos
+1|3519006|Herculândia
+1|3519204|Iacri
+1|3541802|Queiroz
+1|3542008|Quintana
+1|3555000|Tupã
+1|3501400|Álvaro de Carvalho
+1|3501509|Alvinlândia
+1|3514700|Echaporã
+1|3515657|Fernão
+1|3516606|Gália
+1|3516705|Garça
+1|3527801|Lupércio
+1|3529005|Marília
+1|3533700|Ocauçu
+1|3534104|Oriente
+1|3534500|Oscar Bressane
+1|3540002|Pompéia
+1|3556602|Vera Cruz
+1|3504008|Assis
+1|3507209|Borá
+1|3509809|Campos Novos Paulista
+1|3510005|Cândido Mota
+1|3513306|Cruzália
+1|3516101|Florínia
+1|3519501|Ibirarema
+1|3519907|Iepê
+1|3527900|Lutécia
+1|3528809|Maracaí
+1|3532157|Nantes
+1|3535309|Palmital
+1|3535507|Paraguaçu Paulista
+1|3537156|Pedrinhas Paulista
+1|3539707|Platina
+1|3541703|Quatá
+1|3553955|Tarumã
+1|3506300|Bernardino de Campos
+1|3510153|Canitar
+1|3515194|Espírito Santo do Turvo
+1|3515400|Fartura
+1|3520905|Ipaussu
+1|3528601|Manduri
+1|3533809|Óleo
+1|3534708|Ourinhos
+1|3538808|Piraju
+1|3543204|Ribeirão do Sul
+1|3545407|Salto Grande
+1|3546405|Santa Cruz do Rio Pardo
+1|3550506|São Pedro do Turvo
+1|3551207|Sarutaiá
+1|3553005|Taguaí
+1|3554201|Tejupá
+1|3554607|Timburi
+1|3557204|Chavantes
+1|3505005|Barão de Antonina
+1|3507159|Bom Sucesso de Itararé
+1|3508009|Buri
+1|3512605|Coronel Macedo
+1|3521705|Itaberá
+1|3522406|Itapeva
+1|3522802|Itaporanga
+1|3523206|Itararé
+1|3532827|Nova Campina
+1|3543501|Riversul
+1|3553807|Taquarituba
+1|3553856|Taquarivaí
+1|3500758|Alambari
+1|3502200|Angatuba
+1|3509452|Campina do Monte Alegre
+1|3518503|Guareí
+1|3522307|Itapetininga
+1|3507001|Boituva
+1|3511508|Cerquilho
+1|3511607|Cesário Lange
+1|3526407|Laranjal Paulista
+1|3537503|Pereiras
+1|3540507|Porangaba
+1|3541653|Quadra
+1|3554003|Tatuí
+1|3554656|Torre de Pedra
+1|3502705|Apiaí
+1|3505351|Barra do Chapéu
+1|3510203|Capão Bonito
+1|3517604|Guapiara
+1|3521200|Iporanga
+1|3522158|Itaóca
+1|3522653|Itapirapuã Paulista
+1|3542800|Ribeira
+1|3543006|Ribeirão Branco
+1|3543253|Ribeirão Grande
+1|3519709|Ibiúna
+1|3537800|Piedade
+1|3537909|Pilar do Sul
+1|3550209|São Miguel Arcanjo
+1|3553500|Tapiraí
+1|3501152|Alumínio
+1|3502754|Araçariguama
+1|3502903|Araçoiaba da Serra
+1|3508405|Cabreúva
+1|3510302|Capela do Alto
+1|3521002|Iperó
+1|3523909|Itu
+1|3528403|Mairinque
+1|3540606|Porto Feliz
+1|3545209|Salto
+1|3545308|Salto de Pirapora
+1|3550605|São Roque
+1|3551108|Sarapuí
+1|3552205|Sorocaba
+1|3557006|Votorantim
+1|3509601|Campo Limpo Paulista
+1|3524006|Itupeva
+1|3525904|Jundiaí
+1|3527306|Louveira
+1|3556503|Várzea Paulista
+1|3504107|Atibaia
+1|3507100|Bom Jesus dos Perdões
+1|3507605|Bragança Paulista
+1|3523404|Itatiba
+1|3525201|Jarinu
+1|3525508|Joanópolis
+1|3532009|Morungaba
+1|3532405|Nazaré Paulista
+1|3538600|Piracaia
+1|3554953|Tuiuti
+1|3556354|Vargem
+1|3509700|Campos do Jordão
+1|3531704|Monteiro Lobato
+1|3548203|Santo Antônio do Pinhal
+1|3548609|São Bento do Sapucaí
+1|3508504|Caçapava
+1|3520202|Igaratá
+1|3524402|Jacareí
+1|3538006|Pindamonhangaba
+1|3546009|Santa Branca
+1|3549904|São José dos Campos
+1|3554102|Taubaté
+1|3554805|Tremembé
+1|3502507|Aparecida
+1|3508603|Cachoeira Paulista
+1|3509957|Canas
+1|3513405|Cruzeiro
+1|3518404|Guaratinguetá
+1|3526605|Lavrinhas
+1|3527207|Lorena
+1|3538501|Piquete
+1|3540754|Potim
+1|3541901|Queluz
+1|3544301|Roseira
+1|3503158|Arapeí
+1|3503505|Areias
+1|3504909|Bananal
+1|3549607|São José do Barreiro
+1|3552007|Silveiras
+1|3513603|Cunha
+1|3524907|Jambeiro
+1|3526308|Lagoinha
+1|3532306|Natividade da Serra
+1|3535606|Paraibuna
+1|3542305|Redenção da Serra
+1|3550001|São Luís do Paraitinga
+1|3510500|Caraguatatuba
+1|3520400|Ilhabela
+1|3550704|São Sebastião
+1|3555406|Ubatuba
+1|3505401|Barra do Turvo
+1|3509254|Cajati
+1|3509908|Cananéia
+1|3514809|Eldorado
+1|3520301|Iguape
+1|3520426|Ilha Comprida
+1|3524600|Jacupiranga
+1|3526100|Juquiá
+1|3529906|Miracatu
+1|3536208|Pariquera-Açu
+1|3542602|Registro
+1|3551801|Sete Barras
+1|3522109|Itanhaém
+1|3523305|Itariri
+1|3531100|Mongaguá
+1|3537206|Pedro de Toledo
+1|3537602|Peruíbe
+1|3505708|Barueri
+1|3509205|Cajamar
+1|3510609|Carapicuíba
+1|3522505|Itapevi
+1|3525003|Jandira
+1|3534401|Osasco
+1|3539103|Pirapora do Bom Jesus
+1|3547304|Santana de Parnaíba
+1|3509007|Caieiras
+1|3516309|Francisco Morato
+1|3516408|Franco da Rocha
+1|3528502|Mairiporã
+1|3503901|Arujá
+1|3518800|Guarulhos
+1|3546801|Santa Isabel
+1|3513009|Cotia
+1|3515004|Embu
+1|3515103|Embu-Guaçu
+1|3522208|Itapecerica da Serra
+1|3526209|Juquitiba
+1|3549953|São Lourenço da Serra
+1|3552809|Taboão da Serra
+1|3556453|Vargem Grande Paulista
+1|3513801|Diadema
+1|3529401|Mauá
+1|3543303|Ribeirão Pires
+1|3544103|Rio Grande da Serra
+1|3547809|Santo André
+1|3548708|São Bernardo do Campo
+1|3548807|São Caetano do Sul
+1|3550308|São Paulo
+1|3506607|Biritiba-Mirim
+1|3515707|Ferraz de Vasconcelos
+1|3518305|Guararema
+1|3523107|Itaquaquecetuba
+1|3530607|Mogi das Cruzes
+1|3539806|Poá
+1|3545001|Salesópolis
+1|3552502|Suzano
+1|3506359|Bertioga
+1|3513504|Cubatão
+1|3518701|Guarujá
+1|3541000|Praia Grande
+1|3548500|Santos
+1|3551009|São Vicente
+5|4100608|Alto Paraná
+5|4100905|Amaporã
+5|4106704|Cruzeiro do Sul
+5|4107108|Diamante do Norte
+5|4108908|Guairaçá
+5|4110300|Inajá
+5|4111308|Itaúna do Sul
+5|4112603|Jardim Olinda
+5|4113502|Loanda
+5|4115002|Marilena
+5|4115903|Mirador
+5|4116505|Nova Aliança do Ivaí
+5|4117107|Nova Londrina
+5|4118006|Paraíso do Norte
+5|4118105|Paranacity
+5|4118303|Paranapoema
+5|4118402|Paranavaí
+5|4119707|Planaltina do Paraná
+5|4120200|Porto Rico
+5|4121000|Querência do Norte
+5|4123303|Santa Cruz de Monte Castelo
+5|4123709|Santa Isabel do Ivaí
+5|4123956|Santa Mônica
+5|4124202|Santo Antônio do Caiuá
+5|4124608|São Carlos do Ivaí
+5|4124905|São João do Caiuá
+5|4125902|São Pedro do Paraná
+5|4126702|Tamboara
+5|4127304|Terra Rica
+5|4100509|Altônia
+5|4100707|Alto Piquiri
+5|4103370|Brasilândia do Sul
+5|4103479|Cafezal do Sul
+5|4106605|Cruzeiro do Oeste
+5|4107256|Douradina
+5|4107520|Esperança Nova
+5|4108320|Francisco Alves
+5|4109906|Icaraíma
+5|4110607|Iporã
+5|4111555|Ivaté
+5|4114708|Maria Helena
+5|4115101|Mariluz
+5|4117206|Nova Olímpia
+5|4118857|Perobal
+5|4118907|Pérola
+5|4125357|São Jorge do Patrocínio
+5|4126900|Tapira
+5|4128104|Umuarama
+5|4128625|Alto Paraíso
+5|4128807|Xambrê
+5|4105508|Cianorte
+5|4105607|Cidade Gaúcha
+5|4109104|Guaporema
+5|4110409|Indianópolis
+5|4112405|Japurá
+5|4113007|Jussara
+5|4122602|Rondon
+5|4125555|São Manoel do Paraná
+5|4126108|São Tomé
+5|4126801|Tapejara
+5|4127908|Tuneiras do Oeste
+5|4100459|Altamira do Paraná
+5|4103008|Boa Esperança
+5|4103909|Campina da Lagoa
+5|4108601|Goioerê
+5|4112207|Janiópolis
+5|4112959|Juranda
+5|4116109|Moreira Sales
+5|4116802|Nova Cantu
+5|4120655|Quarto Centenário
+5|4121356|Rancho Alegre D'Oeste
+5|4128005|Ubiratã
+5|4101705|Araruna
+5|4102505|Barbosa Ferraz
+5|4104303|Campo Mourão
+5|4106555|Corumbataí do Sul
+5|4107504|Engenheiro Beltrão
+5|4107553|Farol
+5|4107702|Fênix
+5|4110805|Iretama
+5|4113734|Luiziana
+5|4114005|Mamborê
+5|4118808|Peabiru
+5|4121109|Quinta do Sol
+5|4122503|Roncador
+5|4127205|Terra Boa
+5|4101150|Ângulo
+5|4102109|Astorga
+5|4102208|Atalaia
+5|4103404|Cafeara
+5|4105102|Centenário do Sul
+5|4105904|Colorado
+5|4108106|Flórida
+5|4109203|Guaraci
+5|4110003|Iguaraçu
+5|4110904|Itaguajé
+5|4111902|Jaguapitã
+5|4113601|Lobato
+5|4113809|Lupionópolis
+5|4114104|Mandaguaçu
+5|4116307|Munhoz de Melo
+5|4116406|Nossa Senhora das Graças
+5|4116901|Nova Esperança
+5|4120408|Presidente Castelo Branco
+5|4123402|Santa Fé
+5|4123600|Santa Inês
+5|4124509|Santo Inácio
+5|4128302|Uniflor
+5|4100806|Alvorada do Sul
+5|4102802|Bela Vista do Paraíso
+5|4108007|Florestópolis
+5|4116000|Miraselva
+5|4120002|Porecatu
+5|4120333|Prado Ferreira
+5|4120507|Primeiro de Maio
+5|4126504|Sertanópolis
+5|4107306|Doutor Camargo
+5|4107801|Floraí
+5|4107900|Floresta
+5|4111100|Itambé
+5|4111605|Ivatuba
+5|4117404|Ourizona
+5|4125308|São Jorge do Ivaí
+5|4114203|Mandaguari
+5|4114807|Marialva
+5|4115200|Maringá
+5|4117503|Paiçandu
+5|4126256|Sarandi
+5|4101408|Apucarana
+5|4101507|Arapongas
+5|4103503|Califórnia
+5|4103800|Cambira
+5|4112108|Jandaia do Sul
+5|4114906|Marilândia do Sul
+5|4115754|Mauá da Serra
+5|4117297|Novo Itacolomi
+5|4122701|Sabáudia
+5|4103701|Cambé
+5|4109807|Ibiporã
+5|4113700|Londrina
+5|4119657|Pitangueiras
+5|4122404|Rolândia
+5|4126678|Tamarana
+5|4103206|Bom Sucesso
+5|4103305|Borrazópolis
+5|4106852|Cruzmaltina
+5|4107603|Faxinal
+5|4113106|Kaloré
+5|4115507|Marumbi
+5|4122107|Rio Bom
+5|4101655|Arapuã
+5|4101853|Ariranha do Ivaí
+5|4104402|Cândido de Abreu
+5|4108551|Godoy Moreira
+5|4108700|Grandes Rios
+5|4111506|Ivaiporã
+5|4112504|Jardim Alegre
+5|4113429|Lidianópolis
+5|4113759|Lunardelli
+5|4114500|Manoel Ribas
+5|4117271|Nova Tebas
+5|4122172|Rio Branco do Ivaí
+5|4122651|Rosário do Ivaí
+5|4125001|São João do Ivaí
+5|4125803|São Pedro do Ivaí
+5|4101903|Assaí
+5|4112702|Jataizinho
+5|4117214|Nova Santa Bárbara
+5|4121307|Rancho Alegre
+5|4123204|Santa Cecília do Pavão
+5|4124707|São Jerônimo da Serra
+5|4126009|São Sebastião da Amoreira
+5|4128401|Uraí
+5|4100103|Abatiá
+5|4101101|Andirá
+5|4102406|Bandeirantes
+5|4106001|Congonhinhas
+5|4106407|Cornélio Procópio
+5|4111001|Itambaracá
+5|4113403|Leópolis
+5|4116604|Nova América da Colina
+5|4117008|Nova Fátima
+5|4121901|Ribeirão do Pinhal
+5|4123105|Santa Amélia
+5|4123907|Santa Mariana
+5|4124301|Santo Antônio do Paraíso
+5|4126405|Sertaneja
+5|4102703|Barra do Jacaré
+5|4103602|Cambará
+5|4111803|Jacarezinho
+5|4112900|Jundiaí do Sul
+5|4121802|Ribeirão Claro
+5|4124103|Santo Antônio da Platina
+5|4106100|Conselheiro Mairinck
+5|4107009|Curiúva
+5|4107751|Figueira
+5|4109708|Ibaiti
+5|4111704|Jaboti
+5|4112306|Japira
+5|4119202|Pinhalão
+5|4126207|Sapopema
+5|4104709|Carlópolis
+5|4109005|Guapirama
+5|4112801|Joaquim Távora
+5|4120705|Quatiguá
+5|4122909|Salto do Itararé
+5|4124004|Santana do Itararé
+5|4125407|São José da Boa Vista
+5|4126603|Siqueira Campos
+5|4127809|Tomazina
+5|4128500|Wenceslau Braz
+5|4110078|Imbaú
+5|4117305|Ortigueira
+5|4121703|Reserva
+5|4127106|Telêmaco Borba
+5|4127502|Tibagi
+5|4128534|Ventania
+5|4101606|Arapoti
+5|4112009|Jaguariaíva
+5|4119400|Piraí do Sul
+5|4126306|Sengés
+5|4104659|Carambeí
+5|4104907|Castro
+5|4117701|Palmeira
+5|4119905|Ponta Grossa
+5|4102000|Assis Chateaubriand
+5|4107157|Diamante D'Oeste
+5|4107538|Entre Rios do Oeste
+5|4108205|Formosa do Oeste
+5|4108809|Guaíra
+5|4110656|Iracema do Oeste
+5|4112751|Jesuítas
+5|4114609|Marechal Cândido Rondon
+5|4115358|Maripá
+5|4115853|Mercedes
+5|4117222|Nova Santa Rosa
+5|4117453|Ouro Verde do Oeste
+5|4117909|Palotina
+5|4118451|Pato Bragado
+5|4120853|Quatro Pontes
+5|4123501|Santa Helena
+5|4125456|São José das Palmeiras
+5|4125753|São Pedro do Iguaçu
+5|4127403|Terra Roxa
+5|4127700|Toledo
+5|4127957|Tupãssi
+5|4101051|Anahy
+5|4103057|Boa Vista da Aparecida
+5|4103354|Braganey
+5|4103453|Cafelândia
+5|4104055|Campo Bonito
+5|4104600|Capitão Leônidas Marques
+5|4104808|Cascavel
+5|4105003|Catanduvas
+5|4106308|Corbélia
+5|4107124|Diamante do Sul
+5|4109302|Guaraniaçu
+5|4109757|Ibema
+5|4110052|Iguatu
+5|4113452|Lindoeste
+5|4116703|Nova Aurora
+5|4123824|Santa Lúcia
+5|4124020|Santa Tereza do Oeste
+5|4127858|Três Barras do Paraná
+5|4105300|Céu Azul
+5|4108304|Foz do Iguaçu
+5|4110953|Itaipulândia
+5|4115606|Matelândia
+5|4115804|Medianeira
+5|4116059|Missal
+5|4121257|Ramilândia
+5|4124053|Santa Terezinha de Itaipu
+5|4125704|São Miguel do Iguaçu
+5|4126355|Serranópolis do Iguaçu
+5|4128559|Vera Cruz do Oeste
+5|4101002|Ampére
+5|4102752|Bela Vista da Caroba
+5|4104501|Capanema
+5|4119004|Pérola d'Oeste
+5|4119806|Planalto
+5|4120358|Pranchita
+5|4121406|Realeza
+5|4123808|Santa Izabel do Oeste
+5|4102604|Barracão
+5|4103024|Boa Esperança do Iguaçu
+5|4103156|Bom Jesus do Sul
+5|4106571|Cruzeiro do Iguaçu
+5|4107207|Dois Vizinhos
+5|4107405|Enéas Marques
+5|4107850|Flor da Serra do Sul
+5|4108403|Francisco Beltrão
+5|4114351|Manfrinópolis
+5|4115408|Marmeleiro
+5|4116950|Nova Esperança do Sudoeste
+5|4117255|Nova Prata do Iguaçu
+5|4119251|Pinhal de São Bento
+5|4121604|Renascença
+5|4122800|Salgado Filho
+5|4123006|Salto do Lontra
+5|4124400|Santo Antônio do Sudoeste
+5|4125209|São Jorge d'Oeste
+5|4128609|Verê
+5|4103222|Bom Sucesso do Sul
+5|4105409|Chopinzinho
+5|4106506|Coronel Vivida
+5|4111209|Itapejara d'Oeste
+5|4115309|Mariópolis
+5|4118501|Pato Branco
+5|4124806|São João
+5|4126272|Saudade do Iguaçu
+5|4126652|Sulina
+5|4128708|Vitorino
+5|4103040|Boa Ventura de São Roque
+5|4113254|Laranjal
+5|4115739|Mato Rico
+5|4117800|Palmital
+5|4119608|Pitanga
+5|4123857|Santa Maria do Oeste
+5|4103958|Campina do Simão
+5|4104428|Candói
+5|4104451|Cantagalo
+5|4107546|Espigão Alto do Iguaçu
+5|4108452|Foz do Jordão
+5|4108650|Goioxim
+5|4109401|Guarapuava
+5|4110201|Inácio Martins
+5|4113304|Laranjeiras do Sul
+5|4115457|Marquinho
+5|4117057|Nova Laranjeiras
+5|4119301|Pinhão
+5|4120150|Porto Barreiro
+5|4120903|Quedas do Iguaçu
+5|4121752|Reserva do Iguaçu
+5|4122156|Rio Bonito do Iguaçu
+5|4127965|Turvo
+5|4128658|Virmond
+5|4105706|Clevelândia
+5|4106456|Coronel Domingos Soares
+5|4109658|Honório Serpa
+5|4114401|Mangueirinha
+5|4117602|Palmas
+5|4107736|Fernandes Pinheiro
+5|4108957|Guamiranga
+5|4110102|Imbituva
+5|4110508|Ipiranga
+5|4111407|Ivaí
+5|4120606|Prudentópolis
+5|4127007|Teixeira Soares
+5|4110706|Irati
+5|4113908|Mallet
+5|4121505|Rebouças
+5|4122008|Rio Azul
+5|4102901|Bituruna
+5|4106803|Cruz Machado
+5|4108502|General Carneiro
+5|4118600|Paula Freitas
+5|4118709|Paulo Frontin
+5|4120309|Porto Vitória
+5|4128203|União da Vitória
+5|4101309|Antônio Olinto
+5|4125100|São João do Triunfo
+5|4125605|São Mateus do Sul
+5|4100202|Adrianópolis
+5|4105201|Cerro Azul
+5|4128633|Doutor Ulysses
+5|4113205|Lapa
+5|4120101|Porto Amazonas
+5|4100400|Almirante Tamandaré
+5|4101804|Araucária
+5|4102307|Balsa Nova
+5|4103107|Bocaiúva do Sul
+5|4104006|Campina Grande do Sul
+5|4104204|Campo Largo
+5|4104253|Campo Magro
+5|4105805|Colombo
+5|4106209|Contenda
+5|4106902|Curitiba
+5|4107652|Fazenda Rio Grande
+5|4111258|Itaperuçu
+5|4114302|Mandirituba
+5|4119152|Pinhais
+5|4119509|Piraquara
+5|4120804|Quatro Barras
+5|4122206|Rio Branco do Sul
+5|4125506|São José dos Pinhais
+5|4127882|Tunas do Paraná
+5|4101200|Antonina
+5|4109500|Guaraqueçaba
+5|4109609|Guaratuba
+5|4115705|Matinhos
+5|4116208|Morretes
+5|4118204|Paranaguá
+5|4119954|Pontal do Paraná
+5|4100301|Agudos do Sul
+5|4104105|Campo do Tenente
+5|4119103|Piên
+5|4121208|Quitandinha
+5|4122305|Rio Negro
+5|4127601|Tijucas do Sul
+7|4200804|Anchieta
+7|4202081|Bandeirante
+7|4202099|Barra Bonita
+7|4202156|Belmonte
+7|4204905|Descanso
+7|4205001|Dionísio Cerqueira
+7|4206405|Guaraciaba
+7|4206603|Guarujá do Sul
+7|4207650|Iporã do Oeste
+7|4208401|Itapiranga
+7|4211009|Mondaí
+7|4212007|Palma Sola
+7|4212239|Paraíso
+7|4214151|Princesa
+7|4215075|Riqueza
+7|4215208|Romelândia
+7|4215554|Santa Helena
+7|4216255|São João do Oeste
+7|4216701|São José do Cedro
+7|4217204|São Miguel do Oeste
+7|4218756|Tunápolis
+7|4200507|Águas de Chapecó
+7|4200556|Águas Frias
+7|4202578|Bom Jesus do Oeste
+7|4203105|Caibi
+7|4203501|Campo Erê
+7|4204103|Caxambu do Sul
+7|4204202|Chapecó
+7|4204350|Cordilheira Alta
+7|4204400|Coronel Freitas
+7|4204707|Cunha Porã
+7|4204756|Cunhataí
+7|4205357|Flor do Sertão
+7|4205431|Formosa do Sul
+7|4206652|Guatambú
+7|4207759|Iraceminha
+7|4207858|Irati
+7|4208955|Jardinópolis
+7|4210506|Maravilha
+7|4210902|Modelo
+7|4211405|Nova Erechim
+7|4211454|Nova Itaberaba
+7|4211652|Novo Horizonte
+7|4212106|Palmitos
+7|4212908|Pinhalzinho
+7|4213153|Planalto Alegre
+7|4214201|Quilombo
+7|4215356|Saltinho
+7|4215687|Santa Terezinha do Progresso
+7|4215695|Santiago do Sul
+7|4215752|São Bernardino
+7|4216008|São Carlos
+7|4216909|São Lourenço do Oeste
+7|4217154|São Miguel da Boa Vista
+7|4217303|Saudades
+7|4217550|Serra Alta
+7|4217758|Sul Brasil
+7|4217956|Tigrinhos
+7|4218855|União do Oeste
+7|4200101|Abelardo Luz
+7|4202537|Bom Jesus
+7|4204459|Coronel Martins
+7|4205175|Entre Rios
+7|4205308|Faxinal dos Guedes
+7|4205605|Galvão
+7|4207684|Ipuaçu
+7|4209177|Jupiá
+7|4209458|Lajeado Grande
+7|4210555|Marema
+7|4211850|Ouro Verde
+7|4212270|Passos Maia
+7|4213401|Ponte Serrada
+7|4216107|São Domingos
+7|4219101|Vargeão
+7|4219507|Xanxerê
+7|4219705|Xaxim
+7|4200408|Água Doce
+7|4201604|Arroio Trinta
+7|4203006|Caçador
+7|4203154|Calmon
+7|4203907|Capinzal
+7|4204004|Catanduvas
+7|4205209|Erval Velho
+7|4205506|Fraiburgo
+7|4206702|Herval d'Oeste
+7|4206751|Ibiam
+7|4206801|Ibicaré
+7|4207577|Iomerê
+7|4208609|Jaborá
+7|4209003|Joaçaba
+7|4209201|Lacerdópolis
+7|4209706|Lebon Régis
+7|4210035|Luzerna
+7|4210050|Macieira
+7|4210704|Matos Costa
+7|4211801|Ouro
+7|4213005|Pinheiro Preto
+7|4214409|Rio das Antas
+7|4215406|Salto Veloso
+7|4217907|Tangará
+7|4218509|Treze Tílias
+7|4219176|Vargem Bonita
+7|4219309|Videira
+7|4200754|Alto Bela Vista
+7|4201273|Arabutã
+7|4201653|Arvoredo
+7|4204301|Concórdia
+7|4207601|Ipira
+7|4207700|Ipumirim
+7|4207809|Irani
+7|4208005|Itá
+7|4209854|Lindóia do Sul
+7|4211876|Paial
+7|4212601|Peritiba
+7|4213104|Piratuba
+7|4213906|Presidente Castello Branco
+7|4217501|Seara
+7|4219606|Xavantina
+7|4202131|Bela Vista do Toldo
+7|4203808|Canoinhas
+7|4207908|Irineópolis
+7|4208104|Itaiópolis
+7|4210100|Mafra
+7|4210308|Major Vieira
+7|4211108|Monte Castelo
+7|4212205|Papanduva
+7|4213609|Porto União
+7|4215679|Santa Terezinha
+7|4218251|Timbó Grande
+7|4218301|Três Barras
+7|4203303|Campo Alegre
+7|4215000|Rio Negrinho
+7|4215802|São Bento do Sul
+7|4201307|Araquari
+7|4202057|Balneário Barra do Sul
+7|4204509|Corupá
+7|4205803|Garuva
+7|4206504|Guaramirim
+7|4208450|Itapoá
+7|4208906|Jaraguá do Sul
+7|4209102|Joinville
+7|4210605|Massaranduba
+7|4216206|São Francisco do Sul
+7|4217402|Schroeder
+7|4200051|Abdon Batista
+7|4202875|Brunópolis
+7|4203600|Campos Novos
+7|4204806|Curitibanos
+7|4205555|Frei Rogério
+7|4211058|Monte Carlo
+7|4213302|Ponte Alta
+7|4213351|Ponte Alta do Norte
+7|4215505|Santa Cecília
+7|4216057|São Cristovão do Sul
+7|4219150|Vargem
+7|4219853|Zortéa
+7|4201000|Anita Garibaldi
+7|4202438|Bocaina do Sul
+7|4202503|Bom Jardim da Serra
+7|4202602|Bom Retiro
+7|4203253|Capão Alto
+7|4203402|Campo Belo do Sul
+7|4204152|Celso Ramos
+7|4204178|Cerro Negro
+7|4204558|Correia Pinto
+7|4209300|Lages
+7|4211751|Otacílio Costa
+7|4211892|Painel
+7|4212056|Palmeira
+7|4215059|Rio Rufino
+7|4216503|São Joaquim
+7|4216800|São José do Cerrito
+7|4218905|Urubici
+7|4218954|Urupema
+7|4200309|Agronômica
+7|4201901|Aurora
+7|4202859|Braço do Trombudo
+7|4205100|Dona Emma
+7|4206900|Ibirama
+7|4209151|José Boiteux
+7|4209508|Laurentino
+7|4209904|Lontras
+7|4210852|Mirim Doce
+7|4213708|Pouso Redondo
+7|4214003|Presidente Getúlio
+7|4214102|Presidente Nereu
+7|4214508|Rio do Campo
+7|4214607|Rio do Oeste
+7|4214805|Rio do Sul
+7|4215307|Salete
+7|4217808|Taió
+7|4218608|Trombudo Central
+7|4219358|Vitor Meireles
+7|4219408|Witmarsum
+7|4201257|Apiúna
+7|4201703|Ascurra
+7|4202206|Benedito Novo
+7|4202404|Blumenau
+7|4202701|Botuverá
+7|4202909|Brusque
+7|4205159|Doutor Pedrinho
+7|4205902|Gaspar
+7|4206306|Guabiruba
+7|4207502|Indaial
+7|4210001|Luiz Alves
+7|4213203|Pomerode
+7|4214706|Rio dos Cedros
+7|4215109|Rodeio
+7|4218202|Timbó
+7|4202008|Balneário Camboriú
+7|4202107|Barra Velha
+7|4202453|Bombinhas
+7|4203204|Camboriú
+7|4207106|Ilhota
+7|4208203|Itajaí
+7|4208302|Itapema
+7|4211306|Navegantes
+7|4212502|Penha
+7|4212809|Balneário Piçarras
+7|4213500|Porto Belo
+7|4216354|São João do Itaperiú
+7|4200200|Agrolândia
+7|4201802|Atalanta
+7|4204194|Chapadão do Lageado
+7|4207403|Imbuia
+7|4208500|Ituporanga
+7|4212700|Petrolândia
+7|4219200|Vidal Ramos
+7|4200903|Angelina
+7|4203709|Canelinha
+7|4209805|Leoberto Leal
+7|4210209|Major Gercino
+7|4211504|Nova Trento
+7|4216305|São João Batista
+7|4218004|Tijucas
+7|4201208|Antônio Carlos
+7|4202305|Biguaçu
+7|4205407|Florianópolis
+7|4206009|Governador Celso Ramos
+7|4211900|Palhoça
+7|4212304|Paulo Lopes
+7|4215703|Santo Amaro da Imperatriz
+7|4216602|São José
+7|4217253|São Pedro de Alcântara
+7|4200606|Águas Mornas
+7|4200705|Alfredo Wagner
+7|4201109|Anitápolis
+7|4214300|Rancho Queimado
+7|4215901|São Bonifácio
+7|4201505|Armazém
+7|4202800|Braço do Norte
+7|4203956|Capivari de Baixo
+7|4205704|Garopaba
+7|4206108|Grão Pará
+7|4206207|Gravatal
+7|4207205|Imaruí
+7|4207304|Imbituba
+7|4208807|Jaguaruna
+7|4209409|Laguna
+7|4211702|Orleans
+7|4212403|Pedras Grandes
+7|4214904|Rio Fortuna
+7|4215455|Sangão
+7|4215604|Santa Rosa de Lima
+7|4217006|São Ludgero
+7|4217105|São Martinho
+7|4218400|Treze de Maio
+7|4218707|Tubarão
+7|4204251|Cocal do Sul
+7|4204608|Criciúma
+7|4205456|Forquilhinha
+7|4207007|Içara
+7|4209607|Lauro Muller
+7|4211207|Morro da Fumaça
+7|4211603|Nova Veneza
+7|4217600|Siderópolis
+7|4218350|Treviso
+7|4219002|Urussanga
+7|4201406|Araranguá
+7|4201950|Balneário Arroio do Silva
+7|4202073|Balneário Gaivota
+7|4205191|Ermo
+7|4208708|Jacinto Machado
+7|4210407|Maracajá
+7|4210803|Meleiro
+7|4211256|Morro Grande
+7|4212254|Passo de Torres
+7|4213807|Praia Grande
+7|4215653|Santa Rosa do Sul
+7|4216404|São João do Sul
+7|4217709|Sombrio
+7|4218103|Timbé do Sul
+7|4218806|Turvo
+6|4300307|Alecrim
+6|4304309|Cândido Godói
+6|4310405|Independência
+6|4313425|Novo Machado
+6|4315008|Porto Lucena
+6|4315057|Porto Mauá
+6|4315073|Porto Vera Cruz
+6|4317202|Santa Rosa
+6|4317905|Santo Cristo
+6|4318499|São José do Inhacorá
+6|4321808|Três de Maio
+6|4322103|Tucunduva
+6|4322301|Tuparendi
+6|4301859|Barra do Guarita
+6|4302204|Boa Vista do Buricá
+6|4302378|Bom Progresso
+6|4302600|Braga
+6|4304002|Campo Novo
+6|4306007|Crissiumal
+6|4306320|Derrubadas
+6|4306734|Doutor Maurício Cardoso
+6|4307450|Esperança do Sul
+6|4309605|Horizontina
+6|4309704|Humaitá
+6|4312302|Miraguaí
+6|4313011|Nova Candelária
+6|4315404|Redentora
+6|4319109|São Martinho
+6|4320230|Sede Nova
+6|4321402|Tenente Portela
+6|4321477|Tiradentes do Sul
+6|4321907|Três Passos
+6|4323705|Vista Gaúcha
+6|4300505|Alpestre
+6|4300646|Ametista do Sul
+6|4303400|Caiçara
+6|4305801|Constantina
+6|4306072|Cristal do Sul
+6|4306429|Dois Irmãos das Missões
+6|4306924|Engenho Velho
+6|4307302|Erval Seco
+6|4308508|Frederico Westphalen
+6|4309126|Gramado dos Loureiros
+6|4310504|Iraí
+6|4311601|Liberato Salzano
+6|4312708|Nonoai
+6|4313441|Novo Tiradentes
+6|4313466|Novo Xingu
+6|4313805|Palmitinho
+6|4314498|Pinheirinho do Vale
+6|4314704|Planalto
+6|4315552|Rio dos Índios
+6|4315909|Rodeio Bonito
+6|4316204|Rondinha
+6|4320206|Seberi
+6|4321329|Taquaruçu do Sul
+6|4321857|Três Palmeiras
+6|4321956|Trindade do Sul
+6|4323101|Vicente Dutra
+6|4323507|Vista Alegre
+6|4300901|Aratiba
+6|4301552|Áurea
+6|4301701|Barão de Cotegipe
+6|4301925|Barra do Rio Azul
+6|4302055|Benjamin Constant do Sul
+6|4303806|Campinas do Sul
+6|4304853|Carlos Gomes
+6|4305116|Centenário
+6|4306130|Cruzaltense
+6|4306957|Entre Rios do Sul
+6|4306973|Erebango
+6|4307005|Erechim
+6|4307203|Erval Grande
+6|4307559|Estação
+6|4308052|Faxinalzinho
+6|4308250|Floriano Peixoto
+6|4308706|Gaurama
+6|4308904|Getúlio Vargas
+6|4310462|Ipiranga do Sul
+6|4310702|Itatiba do Sul
+6|4310900|Jacutinga
+6|4311908|Marcelino Ramos
+6|4312005|Mariano Moro
+6|4314134|Paulo Bento
+6|4314787|Ponte Preta
+6|4315313|Quatro Irmãos
+6|4319703|São Valentim
+6|4320602|Severiano de Almeida
+6|4321634|Três Arroios
+6|4322905|Viadutos
+6|4301800|Barracão
+6|4303202|Cacique Doble
+6|4309803|Ibiaçá
+6|4311700|Machadinho
+6|4312203|Maximiliano de Almeida
+6|4313607|Paim Filho
+6|4316600|Sananduva
+6|4317954|Santo Expedito do Sul
+6|4318424|São João da Urtiga
+6|4318606|São José do Ouro
+6|4322186|Tupanci do Sul
+6|4303301|Caibaté
+6|4303707|Campina das Missões
+6|4305207|Cerro Largo
+6|4309506|Guarani das Missões
+6|4312179|Mato Queimado
+6|4315107|Porto Xavier
+6|4316303|Roque Gonzales
+6|4316477|Salvador das Missões
+6|4319307|São Paulo das Missões
+6|4319372|São Pedro do Butiá
+6|4320578|Sete de Setembro
+6|4302501|Bossoroca
+6|4305009|Catuípe
+6|4306353|Dezesseis de Novembro
+6|4306932|Entre-Ijuís
+6|4307831|Eugênio de Castro
+6|4309001|Giruá
+6|4314555|Pirapó
+6|4315958|Rolador
+6|4317509|Santo Ângelo
+6|4317707|Santo Antônio das Missões
+6|4318903|São Luiz Gonzaga
+6|4319158|São Miguel das Missões
+6|4319208|São Nicolau
+6|4320321|Senador Salgado Filho
+6|4322343|Ubiretama
+6|4323754|Vitória das Missões
+6|4300208|Ajuricaba
+6|4300455|Alegria
+6|4301503|Augusto Pestana
+6|4302584|Bozano
+6|4305405|Chiapetta
+6|4305702|Condor
+6|4305871|Coronel Barros
+6|4305900|Coronel Bicaco
+6|4310207|Ijuí
+6|4310413|Inhacorá
+6|4313334|Nova Ramada
+6|4313904|Panambi
+6|4314308|Pejuçara
+6|4317806|Santo Augusto
+6|4319737|São Valério do Sul
+6|4300471|Almirante Tamandaré do Sul
+6|4301958|Barra Funda
+6|4302154|Boa Vista das Missões
+6|4304705|Carazinho
+6|4305157|Cerro Grande
+6|4305306|Chapada
+6|4305850|Coqueiros do Sul
+6|4310850|Jaboticaba
+6|4311429|Lajeado do Bugre
+6|4312955|Nova Boa Vista
+6|4313490|Novo Barreiro
+6|4313706|Palmeira das Missões
+6|4314456|Pinhal
+6|4316428|Sagrada Família
+6|4317756|Santo Antônio do Planalto
+6|4318457|São José das Missões
+6|4319364|São Pedro das Missões
+6|4320107|Sarandi
+6|4300059|Água Santa
+6|4303558|Camargo
+6|4304903|Casca
+6|4304952|Caseiros
+6|4305371|Charrua
+6|4305504|Ciríaco
+6|4305975|Coxilha
+6|4306304|David Canabarro
+6|4307054|Ernestina
+6|4308854|Gentil
+6|4309902|Ibiraiaras
+6|4311809|Marau
+6|4312138|Mato Castelhano
+6|4312625|Muliterno
+6|4312674|Nicolau Vergueiro
+6|4314100|Passo Fundo
+6|4314779|Pontão
+6|4316105|Ronda Alta
+6|4316733|Santa Cecília do Sul
+6|4317558|Santo Antônio do Palma
+6|4318051|São Domingos do Sul
+6|4320503|Sertão
+6|4320909|Tapejara
+6|4322558|Vanini
+6|4323358|Vila Lângaro
+6|4323408|Vila Maria
+6|4300554|Alto Alegre
+6|4302220|Boa Vista do Cadeado
+6|4302238|Boa Vista do Incra
+6|4304101|Campos Borges
+6|4306106|Cruz Alta
+6|4307500|Espumoso
+6|4308458|Fortaleza dos Valos
+6|4310009|Ibirubá
+6|4310876|Jacuizinho
+6|4311155|Jóia
+6|4315354|Quinze de Novembro
+6|4316436|Saldanha Marinho
+6|4316451|Salto do Jacuí
+6|4316709|Santa Bárbara do Sul
+6|4305603|Colorado
+6|4311270|Lagoa dos Três Cantos
+6|4312658|Não-Me-Toque
+6|4320305|Selbach
+6|4321006|Tapera
+6|4321469|Tio Hugo
+6|4323200|Victor Graeff
+6|4302006|Barros Cassal
+6|4308300|Fontoura Xavier
+6|4309951|Ibirapuitã
+6|4311254|Lagoão
+6|4312427|Mormaço
+6|4318465|São José do Herval
+6|4320800|Soledade
+6|4322152|Tunas
+6|4300661|André da Rocha
+6|4300703|Anta Gorda
+6|4301404|Arvorezinha
+6|4306452|Dois Lajeados
+6|4309258|Guabiju
+6|4309407|Guaporé
+6|4310306|Ilópolis
+6|4310579|Itapuca
+6|4312351|Montauri
+6|4312757|Nova Alvorada
+6|4312807|Nova Araçá
+6|4312906|Nova Bassano
+6|4313300|Nova Prata
+6|4314001|Paraí
+6|4315172|Protásio Alves
+6|4315206|Putinga
+6|4318440|São Jorge
+6|4319711|São Valentim do Sul
+6|4320404|Serafina Corrêa
+6|4322350|União da Serra
+6|4323606|Vista Alegre do Prata
+6|4302303|Bom Jesus
+6|4303608|Cambará do Sul
+6|4303673|Campestre da Serra
+6|4304622|Capão Bonito do Sul
+6|4307401|Esmeralda
+6|4310439|Ipê
+6|4311122|Jaquirana
+6|4311304|Lagoa Vermelha
+6|4312377|Monte Alegre dos Campos
+6|4312617|Muitos Capões
+6|4314464|Pinhal da Serra
+6|4318200|São Francisco de Paula
+6|4318622|São José dos Ausentes
+6|4322509|Vacaria
+6|4300802|Antônio Prado
+6|4302105|Bento Gonçalves
+6|4302253|Boa Vista do Sul
+6|4304804|Carlos Barbosa
+6|4305108|Caxias do Sul
+6|4305934|Coronel Pilar
+6|4305959|Cotiporã
+6|4307864|Fagundes Varela
+6|4307906|Farroupilha
+6|4308201|Flores da Cunha
+6|4308607|Garibaldi
+6|4312385|Monte Belo do Sul
+6|4313086|Nova Pádua
+6|4313359|Nova Roma do Sul
+6|4317251|Santa Tereza
+6|4319000|São Marcos
+6|4322806|Veranópolis
+6|4323309|Vila Flores
+6|4304655|Capão do Cipó
+6|4310553|Itacurubi
+6|4311130|Jari
+6|4311205|Júlio de Castilhos
+6|4314472|Pinhal Grande
+6|4315321|Quevedos
+6|4317400|Santiago
+6|4322202|Tupanciretã
+6|4322376|Unistalda
+6|4302907|Cacequi
+6|4306379|Dilermando de Aguiar
+6|4310538|Itaara
+6|4311106|Jaguari
+6|4312104|Mata
+6|4313037|Nova Esperança do Sul
+6|4316907|Santa Maria
+6|4319125|São Martinho da Serra
+6|4319406|São Pedro do Sul
+6|4319604|São Sepé
+6|4319802|São Vicente do Sul
+6|4321493|Toropi
+6|4323457|Vila Nova do Sul
+6|4300109|Agudo
+6|4306700|Dona Francisca
+6|4308003|Faxinal do Soturno
+6|4308409|Formigueiro
+6|4310751|Ivorá
+6|4313102|Nova Palma
+6|4315503|Restinga Seca
+6|4318432|São João do Polêsine
+6|4320651|Silveira Martins
+6|4301206|Arroio do Tigre
+6|4304200|Candelária
+6|4307815|Estrela Velha
+6|4309159|Gramado Xavier
+6|4309571|Herveiras
+6|4309753|Ibarama
+6|4311239|Lagoa Bonita do Sul
+6|4312153|Mato Leitão
+6|4314068|Passa Sete
+6|4316808|Santa Cruz do Sul
+6|4320263|Segredo
+6|4320677|Sinimbu
+6|4320701|Sobradinho
+6|4322533|Vale do Sol
+6|4322608|Venâncio Aires
+6|4322707|Vera Cruz
+6|4301008|Arroio do Meio
+6|4302402|Bom Retiro do Sul
+6|4302451|Boqueirão do Leão
+6|4304614|Canudos do Vale
+6|4304697|Capitão
+6|4305587|Colinas
+6|4305835|Coqueiro Baixo
+6|4306205|Cruzeiro do Sul
+6|4306759|Doutor Ricardo
+6|4306809|Encantado
+6|4307807|Estrela
+6|4308078|Fazenda Vilanova
+6|4308433|Forquetinha
+6|4310363|Imigrante
+6|4311403|Lajeado
+6|4312054|Marques de Souza
+6|4312609|Muçum
+6|4313003|Nova Bréscia
+6|4314159|Paverama
+6|4315131|Pouso Novo
+6|4315156|Progresso
+6|4315453|Relvado
+6|4315800|Roca Sales
+6|4316758|Santa Clara do Sul
+6|4320453|Sério
+6|4320859|Tabaí
+6|4321303|Taquari
+6|4321451|Teutônia
+6|4321626|Travesseiro
+6|4322855|Vespasiano Correa
+6|4323770|Westfalia
+6|4303004|Cachoeira do Sul
+6|4305132|Cerro Branco
+6|4313391|Novo Cabrais
+6|4313953|Pantano Grande
+6|4314027|Paraíso do Sul
+6|4314076|Passo do Sobrado
+6|4315701|Rio Pardo
+6|4300570|Alto Feliz
+6|4301651|Barão
+6|4302352|Bom Princípio
+6|4302659|Brochier
+6|4304689|Capela de Santana
+6|4308102|Feliz
+6|4309555|Harmonia
+6|4311643|Linha Nova
+6|4311791|Maratá
+6|4312401|Montenegro
+6|4314035|Pareci Novo
+6|4314753|Poço das Antas
+6|4314803|Portão
+6|4316501|Salvador do Sul
+6|4318481|São José do Hortêncio
+6|4318614|São José do Sul
+6|4319356|São Pedro da Serra
+6|4319505|São Sebastião do Caí
+6|4319752|São Vendelino
+6|4322251|Tupandi
+6|4322541|Vale Real
+6|4304408|Canela
+6|4306403|Dois Irmãos
+6|4309100|Gramado
+6|4310108|Igrejinha
+6|4310801|Ivoti
+6|4311627|Lindolfo Collor
+6|4312476|Morro Reuter
+6|4313201|Nova Petrópolis
+6|4314423|Picada Café
+6|4315149|Presidente Lucena
+6|4315750|Riozinho
+6|4316006|Rolante
+6|4316956|Santa Maria do Herval
+6|4321204|Taquara
+6|4321709|Três Coroas
+6|4301107|Arroio dos Ratos
+6|4301750|Barão do Triunfo
+6|4302709|Butiá
+6|4305355|Charqueadas
+6|4308805|General Câmara
+6|4312252|Minas do Leão
+6|4318408|São Jerônimo
+6|4322004|Triunfo
+6|4322525|Vale Verde
+6|4300604|Alvorada
+6|4300877|Araricá
+6|4303103|Cachoeirinha
+6|4303905|Campo Bom
+6|4304606|Canoas
+6|4306767|Eldorado do Sul
+6|4307609|Estância Velha
+6|4307708|Esteio
+6|4309050|Glorinha
+6|4309209|Gravataí
+6|4309308|Guaíba
+6|4311981|Mariana Pimentel
+6|4313060|Nova Hartz
+6|4313375|Nova Santa Rita
+6|4313409|Novo Hamburgo
+6|4314050|Parobé
+6|4314902|Porto Alegre
+6|4318705|São Leopoldo
+6|4319901|Sapiranga
+6|4320008|Sapucaia do Sul
+6|4320552|Sertão Santana
+6|4323002|Viamão
+6|4301057|Arroio do Sal
+6|4301636|Balneário Pinhal
+6|4304630|Capão da Canoa
+6|4304671|Capivari do Sul
+6|4304713|Caraá
+6|4305454|Cidreira
+6|4306551|Dom Pedro de Alcântara
+6|4310330|Imbé
+6|4310652|Itati
+6|4311734|Mampituba
+6|4311775|Maquiné
+6|4312443|Morrinhos do Sul
+6|4312500|Mostardas
+6|4313508|Osório
+6|4313656|Palmares do Sul
+6|4317608|Santo Antônio da Patrulha
+6|4321352|Tavares
+6|4321436|Terra de Areia
+6|4321501|Torres
+6|4321600|Tramandaí
+6|4321667|Três Cachoeiras
+6|4321832|Três Forquilhas
+6|4323804|Xangri-lá
+6|4300851|Arambaré
+6|4301909|Barra do Ribeiro
+6|4303509|Camaquã
+6|4305173|Cerro Grande do Sul
+6|4305447|Chuvisca
+6|4306502|Dom Feliciano
+6|4320354|Sentinela do Sul
+6|4321105|Tapes
+6|4300406|Alegrete
+6|4301875|Barra do Quaraí
+6|4308656|Garruchos
+6|4310603|Itaqui
+6|4311718|Maçambara
+6|4311759|Manoel Viana
+6|4315305|Quaraí
+6|4318002|São Borja
+6|4318101|São Francisco de Assis
+6|4322400|Uruguaiana
+6|4316402|Rosário do Sul
+6|4316972|Santa Margarida do Sul
+6|4317103|Santana do Livramento
+6|4318309|São Gabriel
+6|4300034|Aceguá
+6|4301602|Bagé
+6|4306601|Dom Pedrito
+6|4309654|Hulha Negra
+6|4311502|Lavras do Sul
+6|4300638|Amaral Ferrador
+6|4302808|Caçapava do Sul
+6|4304358|Candiota
+6|4306908|Encruzilhada do Sul
+6|4314175|Pedras Altas
+6|4314506|Pinheiro Machado
+6|4314605|Piratini
+6|4317004|Santana da Boa Vista
+6|4301073|Arroio do Padre
+6|4304507|Canguçu
+6|4304663|Capão do Leão
+6|4305124|Cerrito
+6|4306056|Cristal
+6|4312450|Morro Redondo
+6|4314209|Pedro Osório
+6|4314407|Pelotas
+6|4318804|São Lourenço do Sul
+6|4322327|Turuçu
+6|4301305|Arroio Grande
+6|4307104|Herval
+6|4311007|Jaguarão
+6|4305439|Chuí
+6|4315602|Rio Grande
+6|4317301|Santa Vitória do Palmar
+6|4318507|São José do Norte
+9|5003207|Corumbá
+9|5005202|Ladário
+9|5006903|Porto Murtinho
+9|5000708|Anastácio
+9|5001102|Aquidauana
+9|5003488|Dois Irmãos do Buriti
+9|5005608|Miranda
+9|5000252|Alcinópolis
+9|5002605|Camapuã
+9|5003306|Coxim
+9|5003900|Figueirão
+9|5006408|Pedro Gomes
+9|5007406|Rio Verde de Mato Grosso
+9|5007695|São Gabriel do Oeste
+9|5007935|Sonora
+9|5001508|Bandeirantes
+9|5002704|Campo Grande
+9|5003108|Corguinho
+9|5004908|Jaraguari
+9|5007307|Rio Negro
+9|5007505|Rochedo
+9|5007901|Sidrolândia
+9|5008008|Terenos
+9|5002902|Cassilândia
+9|5002951|Chapadão do Sul
+9|5003256|Costa Rica
+9|5001003|Aparecida do Taboado
+9|5004403|Inocência
+9|5006309|Paranaíba
+9|5007802|Selvíria
+9|5000203|Água Clara
+9|5002308|Brasilândia
+9|5007109|Ribas do Rio Pardo
+9|5007554|Santa Rita do Pardo
+9|5008305|Três Lagoas
+9|5000807|Anaurilândia
+9|5001904|Bataguassu
+9|5002001|Batayporã
+9|5006200|Nova Andradina
+9|5007976|Taquarussu
+9|5002100|Bela Vista
+9|5002159|Bodoquena
+9|5002209|Bonito
+9|5002803|Caracol
+9|5004106|Guia Lopes da Laguna
+9|5005004|Jardim
+9|5005806|Nioaque
+9|5000609|Amambaí
+9|5000906|Antônio João
+9|5001243|Aral Moreira
+9|5002407|Caarapó
+9|5003504|Douradina
+9|5003702|Dourados
+9|5003801|Fátima do Sul
+9|5004502|Itaporã
+9|5005152|Juti
+9|5005251|Laguna Carapã
+9|5005400|Maracaju
+9|5006002|Nova Alvorada do Sul
+9|5006606|Ponta Porã
+9|5007208|Rio Brilhante
+9|5008404|Vicentina
+9|5000856|Angélica
+9|5003157|Coronel Sapucaia
+9|5003454|Deodápolis
+9|5003751|Eldorado
+9|5004007|Glória de Dourados
+9|5004304|Iguatemi
+9|5004601|Itaquiraí
+9|5004700|Ivinhema
+9|5004809|Japorã
+9|5005103|Jateí
+9|5005681|Mundo Novo
+9|5005707|Naviraí
+9|5006259|Novo Horizonte do Sul
+9|5006358|Paranhos
+9|5007703|Sete Quedas
+9|5007950|Tacuru
+34|5101407|Aripuanã
+34|5101902|Brasnorte
+34|5102850|Castanheira
+34|5103254|Colniza
+34|5103379|Cotriguaçu
+34|5105150|Juína
+34|5105176|Juruena
+34|5107578|Rondolândia
+34|5100250|Alta Floresta
+34|5100805|Apiacás
+34|5102793|Carlinda
+34|5106158|Nova Bandeirantes
+34|5106299|Paranaíta
+34|5108956|Nova Monte Verde
+34|5103205|Colíder
+34|5104104|Guarantã do Norte
+34|5105606|Matupá
+34|5106216|Nova Canaã do Norte
+34|5106265|Novo Mundo
+34|5106422|Peixoto de Azevedo
+34|5108055|Terra Nova do Norte
+34|5108808|Nova Guarita
+34|5102637|Campo Novo do Parecis
+34|5102686|Campos de Júlio
+34|5103304|Comodoro
+34|5103502|Diamantino
+34|5107875|Sapezal
+34|5105101|Juara
+34|5106273|Novo Horizonte do Norte
+34|5106802|Porto dos Gaúchos
+34|5107305|São José do Rio Claro
+34|5107941|Tabaporã
+34|5108907|Nova Maringá
+34|5104526|Ipiranga do Norte
+34|5104542|Itanhangá
+34|5105259|Lucas do Rio Verde
+34|5105903|Nobres
+34|5106224|Nova Mutum
+34|5106240|Nova Ubiratã
+34|5107768|Santa Rita do Trivelato
+34|5107925|Sorriso
+34|5108006|Tapurah
+34|5103056|Cláudia
+34|5103700|Feliz Natal
+34|5104559|Itaúba
+34|5105580|Marcelândia
+34|5106190|Nova Santa Helena
+34|5107248|Santa Carmem
+34|5107909|Sinop
+34|5108303|União do Sul
+34|5108501|Vera
+34|5103858|Gaúcha do Norte
+34|5106208|Nova Brasilândia
+34|5106307|Paranatinga
+34|5106455|Planalto da Serra
+34|5100359|Alto Boa Vista
+34|5101852|Bom Jesus do Araguaia
+34|5102694|Canabrava do Norte
+34|5103353|Confresa
+34|5105309|Luciára
+34|5106315|Novo Santo Antônio
+34|5106778|Porto Alegre do Norte
+34|5107180|Ribeirão Cascalheira
+34|5107354|São José do Xingu
+34|5107743|Santa Cruz do Xingu
+34|5107776|Santa Terezinha
+34|5107859|São Félix do Araguaia
+34|5107883|Serra Nova Dourada
+34|5108600|Vila Rica
+34|5100201|Água Boa
+34|5102603|Campinápolis
+34|5102702|Canarana
+34|5106174|Nova Nazaré
+34|5106257|Nova Xavantina
+34|5106281|Novo São Joaquim
+34|5107065|Querência
+34|5107792|Santo Antônio do Leste
+34|5101001|Araguaiana
+34|5101803|Barra do Garças
+34|5103106|Cocalinho
+34|5103361|Conquista D'Oeste
+34|5105507|Vila Bela da Santíssima Trindade
+34|5106182|Nova Lacerda
+34|5106752|Pontes e Lacerda
+34|5108352|Vale de São Domingos
+34|5101704|Barra do Bugres
+34|5103452|Denise
+34|5106232|Nova Olímpia
+34|5106851|Porto Estrela
+34|5107958|Tangará da Serra
+34|5101258|Araputanga
+34|5103809|Figueirópolis D'Oeste
+34|5103957|Glória D'Oeste
+34|5104500|Indiavaí
+34|5105002|Jauru
+34|5105234|Lambari D'Oeste
+34|5105622|Mirassol d'Oeste
+34|5106828|Porto Esperidião
+34|5107107|São José dos Quatro Marcos
+34|5107156|Reserva do Cabaçal
+34|5107206|Rio Branco
+34|5107750|Salto do Céu
+34|5100508|Alto Paraguai
+34|5101308|Arenápolis
+34|5106000|Nortelândia
+34|5107263|Santo Afonso
+34|5108857|Nova Marilândia
+34|5100102|Acorizal
+34|5104906|Jangada
+34|5107701|Rosário Oeste
+34|5103007|Chapada dos Guimarães
+34|5103403|Cuiabá
+34|5106109|Nossa Senhora do Livramento
+34|5107800|Santo Antônio do Leverger
+34|5108402|Várzea Grande
+34|5101605|Barão de Melgaço
+34|5102504|Cáceres
+34|5103437|Curvelândia
+34|5106505|Poconé
+34|5102678|Campo Verde
+34|5107040|Primavera do Leste
+34|5101209|Araguainha
+34|5103908|General Carneiro
+34|5104203|Guiratinga
+34|5106653|Pontal do Araguaia
+34|5106703|Ponte Branca
+34|5107008|Poxoréo
+34|5107198|Ribeirãozinho
+34|5108105|Tesouro
+34|5108204|Torixoréu
+34|5103601|Dom Aquino
+34|5104609|Itiquira
+34|5104807|Jaciara
+34|5105200|Juscimeira
+34|5106372|Pedra Preta
+34|5107297|São José do Povo
+34|5107404|São Pedro da Cipa
+34|5107602|Rondonópolis
+34|5100300|Alto Araguaia
+34|5100409|Alto Garças
+34|5100607|Alto Taquari
+11|5206404|Crixás
+11|5214002|Mozarlândia
+11|5214051|Mundo Novo
+11|5214838|Nova Crixás
+11|5215256|Novo Planalto
+11|5220207|São Miguel do Araguaia
+11|5221577|Uirapuru
+11|5202155|Araguapaz
+11|5202502|Aruanã
+11|5203807|Britânia
+11|5207535|Faina
+11|5208905|Goiás
+11|5211008|Itapirapuã
+11|5212204|Jussara
+11|5212956|Matrinchã
+11|5219258|Santa Fé de Goiás
+11|5201702|Aragarças
+11|5202353|Arenópolis
+11|5203104|Baliza
+11|5203401|Bom Jardim de Goiás
+11|5207105|Diorama
+11|5213707|Montes Claros de Goiás
+11|5217203|Piranhas
+11|5200555|Alto Horizonte
+11|5200829|Amaralina
+11|5203575|Bonópolis
+11|5204656|Campinaçu
+11|5204706|Campinorte
+11|5204953|Campos Verdes
+11|5207501|Estrela do Norte
+11|5208103|Formoso
+11|5212808|Mara Rosa
+11|5213087|Minaçu
+11|5213772|Montividiu do Norte
+11|5214101|Mutunópolis
+11|5214606|Niquelândia
+11|5214879|Nova Iguaçu de Goiás
+11|5218003|Porangatu
+11|5219605|Santa Tereza de Goiás
+11|5219704|Santa Terezinha de Goiás
+11|5221452|Trombas
+11|5221601|Uruaçu
+11|5200605|Alto Paraíso de Goiás
+11|5204904|Campos Belos
+11|5205307|Cavalcante
+11|5205521|Colinas do Sul
+11|5213509|Monte Alegre de Goiás
+11|5214903|Nova Roma
+11|5220009|São João d'Aliança
+11|5221080|Teresina de Goiás
+11|5203203|Barro Alto
+11|5205000|Carmo do Rio Verde
+11|5205406|Ceres
+11|5208608|Goianésia
+11|5209291|Guaraíta
+11|5209457|Guarinos
+11|5209804|Hidrolina
+11|5210158|Ipiranga de Goiás
+11|5210901|Itapaci
+11|5211206|Itapuranga
+11|5213855|Morro Agudo de Goiás
+11|5214705|Nova América
+11|5214861|Nova Glória
+11|5216908|Pilar de Goiás
+11|5218607|Rialma
+11|5218706|Rianápolis
+11|5218904|Rubiataba
+11|5219357|Santa Isabel
+11|5219456|Santa Rita do Novo Destino
+11|5220157|São Luíz do Norte
+11|5220280|São Patrício
+11|5221700|Uruana
+11|5201108|Anápolis
+11|5201603|Araçu
+11|5203609|Brazabrantes
+11|5204854|Campo Limpo de Goiás
+11|5205208|Caturaí
+11|5206800|Damolândia
+11|5209606|Heitoraí
+11|5210000|Inhumas
+11|5210406|Itaberaí
+11|5210562|Itaguari
+11|5210604|Itaguaru
+11|5211404|Itauçu
+11|5211800|Jaraguá
+11|5212055|Jesúpolis
+11|5215009|Nova Veneza
+11|5215405|Ouro Verde de Goiás
+11|5216809|Petrolina de Goiás
+11|5219506|Santa Rosa de Goiás
+11|5219902|São Francisco de Goiás
+11|5221007|Taquaral de Goiás
+11|5200902|Amorinópolis
+11|5204201|Cachoeira de Goiás
+11|5205703|Córrego do Ouro
+11|5207600|Fazenda Nova
+11|5210208|Iporá
+11|5210307|Israelândia
+11|5211602|Ivolândia
+11|5212006|Jaupaci
+11|5213400|Moiporá
+11|5215207|Novo Brasil
+11|5200159|Adelândia
+11|5200852|Americano do Brasil
+11|5201306|Anicuns
+11|5202601|Aurilândia
+11|5202809|Avelinópolis
+11|5203939|Buriti de Goiás
+11|5207808|Firminópolis
+11|5213905|Mossâmedes
+11|5214408|Nazário
+11|5219001|Sanclerlândia
+11|5219100|Santa Bárbara de Goiás
+11|5220108|São Luís de Montes Belos
+11|5221502|Turvânia
+11|5200050|Abadia de Goiás
+11|5201405|Aparecida de Goiânia
+11|5201801|Aragoiânia
+11|5203302|Bela Vista de Goiás
+11|5203559|Bonfinópolis
+11|5204557|Caldazinha
+11|5208400|Goianápolis
+11|5208707|Goiânia
+11|5208806|Goianira
+11|5209200|Guapó
+11|5209705|Hidrolândia
+11|5212303|Leopoldo de Bulhões
+11|5214507|Nerópolis
+11|5219738|Santo Antônio de Goiás
+11|5220454|Senador Canedo
+11|5221197|Terezópolis de Goiás
+11|5221403|Trindade
+11|5200803|Alvorada do Norte
+11|5203962|Buritinópolis
+11|5206701|Damianópolis
+11|5207907|Flores de Goiás
+11|5208301|Divinópolis de Goiás
+11|5209408|Guarani de Goiás
+11|5209903|Iaciara
+11|5212709|Mambaí
+11|5218300|Posse
+11|5219803|São Domingos
+11|5220686|Simolândia
+11|5220702|Sítio d'Abadia
+11|5200100|Abadiânia
+11|5200175|Água Fria de Goiás
+11|5200258|Águas Lindas de Goiás
+11|5200308|Alexânia
+11|5204003|Cabeceiras
+11|5205497|Cidade Ocidental
+11|5205513|Cocalzinho de Goiás
+11|5205802|Corumbá de Goiás
+11|5206206|Cristalina
+11|5208004|Formosa
+11|5212501|Luziânia
+11|5213053|Mimoso de Goiás
+11|5215231|Novo Gama
+11|5215603|Padre Bernardo
+11|5217302|Pirenópolis
+11|5217609|Planaltina
+11|5219753|Santo Antônio do Descoberto
+11|5221858|Valparaíso de Goiás
+11|5222203|Vila Boa
+11|5222302|Vila Propício
+11|5201454|Aparecida do Rio Doce
+11|5201504|Aporé
+11|5204409|Caiapônia
+11|5205059|Castelândia
+11|5205471|Chapadão do Céu
+11|5207253|Doverlândia
+11|5211909|Jataí
+11|5213004|Maurilândia
+11|5213103|Mineiros
+11|5213756|Montividiu
+11|5215652|Palestina de Goiás
+11|5216452|Perolândia
+11|5218102|Portelândia
+11|5218805|Rio Verde
+11|5219308|Santa Helena de Goiás
+11|5219407|Santa Rita do Araguaia
+11|5219712|Santo Antônio da Barra
+11|5220504|Serranópolis
+11|5200134|Acreúna
+11|5204607|Campestre de Goiás
+11|5205455|Cezarina
+11|5207352|Edealina
+11|5207402|Edéia
+11|5209952|Indiara
+11|5211701|Jandaia
+11|5215702|Palmeiras de Goiás
+11|5215900|Palminópolis
+11|5216403|Paraúna
+11|5220058|São João da Paraúna
+11|5221551|Turvelândia
+11|5221908|Varjão
+11|5200209|Água Limpa
+11|5200506|Aloândia
+11|5203500|Bom Jesus de Goiás
+11|5203906|Buriti Alegre
+11|5204250|Cachoeira Dourada
+11|5204508|Caldas Novas
+11|5206503|Cromínia
+11|5209101|Goiatuba
+11|5209937|Inaciolândia
+11|5211503|Itumbiara
+11|5212105|Joviânia
+11|5212600|Mairipotaba
+11|5212907|Marzagão
+11|5213806|Morrinhos
+11|5216007|Panamá
+11|5217104|Piracanjuba
+11|5217708|Pontalina
+11|5218052|Porteirão
+11|5218391|Professor Jamil
+11|5218789|Rio Quente
+11|5222054|Vicentinópolis
+11|5206305|Cristianópolis
+11|5208152|Gameleira de Goiás
+11|5215306|Orizona
+11|5215801|Palmelo
+11|5217401|Pires do Rio
+11|5219209|Santa Cruz de Goiás
+11|5220264|São Miguel do Passa Quatro
+11|5220603|Silvânia
+11|5221809|Urutaí
+11|5222005|Vianópolis
+11|5201207|Anhanguera
+11|5204805|Campo Alegre de Goiás
+11|5205109|Catalão
+11|5205901|Corumbaíba
+11|5206602|Cumari
+11|5206909|Davinópolis
+11|5208509|Goiandira
+11|5210109|Ipameri
+11|5214804|Nova Aurora
+11|5215504|Ouvidor
+11|5221304|Três Ranchos
+11|5204102|Cachoeira Alta
+11|5204300|Caçu
+11|5209150|Gouvelândia
+11|5210802|Itajá
+11|5211305|Itarumã
+11|5212253|Lagoa Santa
+11|5216304|Paranaiguara
+11|5218508|Quirinópolis
+11|5220405|São Simão
+10|5300108|Brasília

@@ -1,0 +1,11 @@
+2006.06.16 16:24 B C:\Apache2\htdocs\phpmysql5\scripts\check_lang.php --> 192.168.1.253 /phpmysql5/scripts check_lang.php
+2006.06.16 16:24 B C:\Apache2\htdocs\phpmysql5\scripts\convertcfg.pl --> 192.168.1.253 /phpmysql5/scripts convertcfg.pl
+2006.06.16 16:24 B C:\Apache2\htdocs\phpmysql5\scripts\create-release.sh --> 192.168.1.253 /phpmysql5/scripts create-release.sh
+2006.06.16 16:24 B C:\Apache2\htdocs\phpmysql5\scripts\create_tables.sql --> 192.168.1.253 /phpmysql5/scripts create_tables.sql
+2006.06.16 16:24 B C:\Apache2\htdocs\phpmysql5\scripts\create_tables_mysql_4_1_2+.sql --> 192.168.1.253 /phpmysql5/scripts create_tables_mysql_4_1_2+.sql
+2006.06.16 16:24 B C:\Apache2\htdocs\phpmysql5\scripts\decode_bug.php --> 192.168.1.253 /phpmysql5/scripts decode_bug.php
+2006.06.16 16:24 B C:\Apache2\htdocs\phpmysql5\scripts\find_unused_messages.sh --> 192.168.1.253 /phpmysql5/scripts find_unused_messages.sh
+2006.06.16 16:24 B C:\Apache2\htdocs\phpmysql5\scripts\remove_control_m.sh --> 192.168.1.253 /phpmysql5/scripts remove_control_m.sh
+2006.06.16 16:24 B C:\Apache2\htdocs\phpmysql5\scripts\setup.php --> 192.168.1.253 /phpmysql5/scripts setup.php
+2006.06.16 16:24 B C:\Apache2\htdocs\phpmysql5\scripts\upgrade.pl --> 192.168.1.253 /phpmysql5/scripts upgrade.pl
+2006.06.16 16:24 B C:\Apache2\htdocs\phpmysql5\scripts\upgrade_tables_mysql_4_1_2+.sql --> 192.168.1.253 /phpmysql5/scripts upgrade_tables_mysql_4_1_2+.sql

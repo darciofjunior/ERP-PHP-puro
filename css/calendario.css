@@ -1,0 +1,76 @@
+body {  font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt; 
+	margin-top: 0px; 
+	margin-right: 0px; 
+	margin-bottom: 0px; 
+	margin-left: 0px}
+A:link { text-decoration: none; 
+	 color: #0000FF;}
+A:visited  { text-decoration: none; 
+  	     color: #0000FF;}
+A:hover  { text-decoration: none; 
+           color: #000066;}
+A.bold:link  { color: #0000FF;
+               text-decoration: none;
+               font-weight: normal;}
+A.bold:visited  {  color: #0000FF;
+                   text-decoration: none;
+                   font-weight: normal;}
+A.bold:hover {  color: #0000FF;
+                text-decoration: none;
+                font-weight: bold;}
+
+table {  font-size: 8pt}
+h1 {  font-size: 11pt; 
+      font-weight: bold}
+h2 { font-size: 9pt; 
+     font-weight: bold }
+.barra {  color: #FFFFFF; 
+	  background-color: #3366CC; 
+	  font-size: 8pt}
+.barra a:link {  color: #FFFFFF; 
+	         text-decoration: none;}
+.barra a:visited {  color: #FFFFFF; 
+                    text-decoration: none;}
+.barra a:hover {  color: #CCCCCC; 
+                  text-decoration: none;}
+
+.caixa {  font-size: 8pt; 
+	  background-image: none; 
+	  background-repeat: no-repeat}
+.caixa th {  font-weight: bold; 
+ 	     text-align: left; 
+ 	     border-color: black black #3366CC; 
+ 	     font-size: 8pt; 
+ 	     border-style: solid; 
+ 	     border-top-width: 0px; 
+ 	     border-right-width: 0px; 
+ 	     border-bottom-width: 1px; 
+ 	     border-left-width: 0px}
+.caixa a:link {  color: #003366; 
+		 text-decoration: none;}
+.caixa a:visited {  color: #003366; 
+		    text-decoration: none;}
+.caixa a:hover {  color: #003366; text-decoration: 
+		  none;font-weight: bold;}
+.caixa td {  padding-left: 5px}
+
+.caixatxt {  font-size: 8pt; 
+	     font-style: italic}
+table.caixatxt {  border-color: black black black #3366CC; 
+	 	  border-style: dashed; 
+	 	  border-top-width: 0px; 
+	 	  border-right-width: 0px; 
+	 	  border-bottom-width: 0px; 
+	 	  border-left-width: 1px}
+.barralat     { background-repeat: bgcolor: #C0C4DE; }
+.caixatxt li {  font-size: 8pt; 
+		font-style: italic ; 
+		list-style-position: outside; 
+		list-style-type: square}
+.caminho {  border-color: black black #3366CC; 
+	    border-style: solid; 
+	    border-top-width: 0px; 
+	    border-right-width: 0px; 
+	    border-bottom-width: 0px; 
+	    border-left-width: 0px}

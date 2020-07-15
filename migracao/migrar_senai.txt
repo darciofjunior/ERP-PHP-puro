@@ -1,0 +1,88 @@
+SENAI Araçuaí UI|SERVICO NAC DE APRENDIZAGEM INDL|Rua Dom Serafim|190||Araçuaí|MG|39600-000|33|3731-4678|||
+SENAI Araguari CFP Mário Abdalla|SERVICO NAC DE APRENDIZAGEM INDL|Rua Manoel Assis Pereira|140|Goiás|Araguari|MG|38442-104|34|3242-4100|34|3246-5701
+SENAI Araxá CFP Djalma Guimarães|SERVICO NAC DE APRENDIZAGEM INDL|Av Italo Rossi|S/Nº|Santa Rita|Araxá|MG|38180-000|34|3662-3038|34|3661-6212
+SENAI Arcos CFP Eliezer Vitorino Costa|SERVICO NAC DE APRENDIZAGEM INDL|Rua Camburiú|195|São Pedro|Arcos|MG|35588-000|37|3351-3070|37|3351-3905
+SENAI Barão de Cocais CFP Guilherme Caldas Emrich|SERVICO NAC DE APRENDIZAGEM INDL|Rua Antônio Soeiro|108|Bairro Vila Regina|Barão de Cocais|MG|35970-000|31|3837-1055
+SENAI Barbacena CFP Olavo Machado|SERVICO NAC DE APRENDIZAGEM INDL|Praça Dom Bosco|88||Barbacena|MG|36200-654|32|3332-4496|32|3332-5156
+SENAI Barroso CFP José Pio de Souza|SERVICO NAC DE APRENDIZAGEM INDL|Rua Silvano Albertoni|100||Barroso|MG|36205-000|32|3351-1174|||
+SENAI Belo Horizonte Faculdade de Tecnologia|SERVICO NAC DE APRENDIZAGEM INDL|Av.Afonso Pena|1.500|Centro|Belo Horizonte|MG|30130-005|31|3226-4044|31|3226-4694
+SENAI Belo Horizonte CFP Paulo de Tarso|SERVICO NAC DE APRENDIZAGEM INDL|Rua Humaitá|1275|Padre Eustáquio|Belo Horizonte|MG|30720-410|31|3412-4779|31|3411-9119
+SENAI Belo Horizonte MODATEC|SERVICO NAC DE APRENDIZAGEM INDL|Rua Santo Agostinho|1717|Bairro Horto|Belo Horizonte|MG|31035-490|31|3482-5611|31|3482-5654
+SENAI Belo Horizonte CECOTEG Sérgio de Freitas Pacheco|SERVICO NAC DE APRENDIZAGEM INDL|Rua Santo Agostinho|1717|Bairro Horto|Belo Horizonte|MG|31035-490|31|3482-5631|31|3482-5628
+SENAI Belo Horizonte CFP Américo Renê Giannetti|SERVICO NAC DE APRENDIZAGEM INDL|Avenida Antônio Carlos|561|Bairro Lagoinha|Belo Horizonte|MG|31210-010|31|3422-5023|31|3422-5030
+SENAI Belo Horizonte CETEL César Rodrigues|SERVICO NAC DE APRENDIZAGEM INDL|Rua Santo Agostinho|1717|Bairro Horto|Belo Horizonte|MG|31035-480|31|3482-5580/5634|31|3482-5574
+SENAI Belo Horizonte-Centro de Inovação e Tecnologia SENAI FIEMG – Campus CETEC|SERVICO NAC DE APRENDIZAGEM INDL|Av.José Cândido da Silveira|2000|Horto|Belo Horizonte|MG|31035-536|31|3489-2000|||
+SENAI Belo Horizonte CA Centro Automotivo|SERVICO NAC DE APRENDIZAGEM INDL|Rua Santo Agostinho|1717|Bairro Horto|Belo Horizonte|MG|31035-490|31|3482-5235/5246|31|3482-5231
+SENAI Betim CETEM Maria Madalena Nogueira|SERVICO NAC DE APRENDIZAGEM INDL|Avenida Amazonas|55|Centro|Betim|MG|32650-720|31|3594-1000|31|3594-1002
+SENAI Campo Belo CT Ely Poli|SERVICO NAC DE APRENDIZAGEM INDL|Rua Rodrigues Alves|10||Campo Belo|MG|37270-000|35|3832-2385|||
+SENAI Caratinga CT Dário da Anunciação Grossi|SERVICO NAC DE APRENDIZAGEM INDL|Praça Coronel Rafael Silva Araújo|70|Salatiel|Caratinga|MG|35300-255|33|3321-4748|||
+SENAI Carmo do Cajuru CT Marcenaria|SERVICO NAC DE APRENDIZAGEM INDL|Rua Cinco|391|Bonfim|Carmo do Cajuru|MG|35510-000|37|3244–2921|||
+SENAI Cataguases CFP José Ignácio Peixoto|SERVICO NAC DE APRENDIZAGEM INDL|Rua Gama Cerqueira|281||Cataguases|MG|36770-000|32|3429-8100|||
+SENAI Cláudio CFP Risoleta Tolentino Neves|SERVICO NAC DE APRENDIZAGEM INDL|ROD MG 260|KM 33, 05|Anel Rodoviário|Cláudio|MG|35530-000|37|3381-5075|||
+SENAI Conceição do Mato Dentro CFP José Aparecido de Oliveira|SERVICO NAC DE APRENDIZAGEM INDL|Rua São Francisco|501||Conceição do Mato Dentro|MG|35860-000|31|3868-1876|||
+SENAI Contagem UI Nenem Scariolli|SERVICO NAC DE APRENDIZAGEM INDL|Rua Hum|303|Santa Maria/Cidade Industrial|Contagem|MG|32240-222|31|3505-3400|||
+SENAI Contagem CFP Alvimar Carneiro Rezende|SERVIÇO NAC DE APRENDIZAGEM INDL|Av.Socrates Mariani Bittencourt|711|Bairro Cinco|Contagem|MG|03010-010|31|3352-2377|||
+SENAI Contagem CFP Euvaldo Lodi|SERVICO NAC DE APRENDIZAGEM INDL|Rua Dr.José Américo Cançado Bahia|75|Industrial|Contagem|MG|32210-130|31|3363-8001|||
+SENAI Contagem CEDETEM Petronio Machado Zica|SERVICO NAC DE APRENDIZAGEM INDL|Av.Sind. Vanderley Teixeira Fernandes|265|DI-Helio P.Guimarães|Contagem|MG|32113-498|31|3357-6286|31|3357-6312
+SENAI Coronel Fabriciano CT Selma Dias Caldeira|SERVICO NAC DE APRENDIZAGEM INDL|Rua Dr.Rubem Siqueira Maia|674|Centro|Coronel Fabriciano|MG|35170-460|31|3841-0636|31|3841-7855
+SENAI Dionísio CT Peráclito Americano|SERVICO NAC DE APRENDIZAGEM INDL|Rua Dr.José Mateus de Vasconcelos|220||Dionísio|MG|35984-970|31|3858-1133|||
+SENAI Divinópolis CFP Anielo Greco|SERVICO NAC DE APRENDIZAGEM INDL|Rua Engenheiro Benjamim de Oliveira|144||Divinópolis|MG|35501-001|37|3214-4444|||
+SENAI Extrema CFP Janez Hlebanja|SERVICO NAC DE APRENDIZAGEM INDL|Avenida Alcebíades Gili|11||Extrema|MG|37640-000|35|3435-2007|35|3435-2934
+SENAI Formiga CT Luiz Rodrigues da Costa|SERVICO NAC DE APRENDIZAGEM INDL|Rua João Pedrosa|215||Formiga|MG|35570-000|37|3321-3218|||
+SENAI Governador Valadares CFP Luiz Chaves|SERVICO NAC DE APRENDIZAGEM INDL|Rua Cinco|120|Nova JK|Governador Valadares|MG|35045-570|33|3272-4615|||
+SENAI Ibirité CFP|SERVICO NAC DE APRENDIZAGEM INDL|Avenida João de Deus Campos|355||Ibirité|MG|32400-000|313533-9684|31|3521-0642|||
+SENAI Ipatinga CFP Rinaldo Campos Soares|SERVICO NAC DE APRENDIZAGEM INDL|Avenida Pedro Linhares Gomes|5431||Ipatinga|MG|35160-900|31|3822-9604|||
+SENAI Itabira CFP Pedro Martins Guerra|SERVICO NAC DE APRENDIZAGEM INDL|Rua Nossa Senhora da Piedade|1|Bairro Campestre|Itabira|MG|35900-073|31|3834-5678|31|3839-4387
+SENAI Itabirito CFP Laércio Garcia Nogueira|SERVICO NAC DE APRENDIZAGEM INDL|Rua João Pinheiro|895|Santa Efigênia|Itabirito|MG|35450-000|31|3561-4058|31|3561-4156
+SENAI Itajubá CFP Aureliano Chaves|SERVICO NAC DE APRENDIZAGEM INDL|Rua Doutor Luís Renó|715||Itajubá|MG|37504-050|35|3623-1788|||
+SENAI Itapecerica CT|SERVICO NAC DE APRENDIZAGEM INDL|Rua João Ferreira Maia|30||Itapecerica|MG|35550-000|37|3341-3971|||
+SENAI Itaúna-CETEF Marcelino Corradi|SERVICO NAC DE APRENDIZAGEM INDL|Rua Lilia Antunes|99|Nogueira Machado|Itaúna|MG|35680-270|37|3249-2400|37|3249-2401
+SENAI Ituiutaba CFP Bebé Martins|SERVICO NAC DE APRENDIZAGEM INDL|Rua Canela,|335|Alvorada|Ituiutaba|MG|38307-090|34|3268-7770|||
+SENAI Jaíba UI|SERVICO NAC DE APRENDIZAGEM INDL|Rua César Lima|215||Jaíba|MG|39508-000|38|3833-2585|||
+SENAI João Monlevade CFP Nansen Araújo|SERVICO NAC DE APRENDIZAGEM INDL|Rua 23|140||João Monlevade|MG|35930-420|31|3851-5171|31|3851-4196
+SENAI Juiz de Fora CFP|SERVICO NAC DE APRENDIZAGEM INDL|Avenida Barão do Rio Branco|2572|Centro|Juiz de Fora|MG|36016-311|32|3239-2201|32|3217-2440
+SENAI Juiz de Fora CDI Luiz Adelar Scheuer|SERVICO NAC DE APRENDIZAGEM INDL|BR-040|km 773||Juiz de Fora|MG|36035-000|32|3221-8666|||
+SENAI Juiz de Fora CFP José Fagundes Netto|SERVICO NAC DE APRENDIZAGEM INDL|Av.Rio Branco|1219|Centro|Juiz de Fora|MG|36035-000|32|3239-2233|32|3239-2238
+SENAI Lavras CT José Azevedo Botelho|SERVICO NAC DE APRENDIZAGEM INDL|Rua José Hilário|255||Lavras|MG|37200-000|35|3821-5210|||
+SENAI Mariana CFP Dr. José Luciano Duarte Penido|SERVICO NAC DE APRENDIZAGEM INDL|Rodovia do Contorno|s/nº|Bairro Colina|Mariana|MG|35420-000|31|3557-2120|||
+SENAI Matozinhos CFP Isauro Figueiredo|SERVICO NAC DE APRENDIZAGEM INDL|Rua João Gonçalves de Oliveira|201|São Pedro|Matozinhos|MG|35720-000|31|3712-7539/6600|31|3712-7504
+SENAI Montes Claros CFP Luiz de Paula|SERVICO NAC DE APRENDIZAGEM INDL|Avenida Dulce Sarmento|601||Montes Claros|MG|39400-318|38|3221-2726|38|3221-2184
+SENAI Muriaé CFP Cézar Augusto Bianchi Botaro|SERVICO NAC DE APRENDIZAGEM INDL|Rua Sinval Florencio da Silva|2||Muriaé|MG|36880-000|32|3728 2050|||
+SENAI Nova Lima CFP Afonso Greco|SERVICO NAC DE APRENDIZAGEM INDL|Praça Expedicionário Assunção|168||Nova Lima|MG|34000-000|31|3541-2666|31|3541-2511
+SENAI Nova Serrana CFP Geny José Ferreira|SERVICO NAC DE APRENDIZAGEM INDL|Avenida José Batista Filho|3200||Nova Serrana|MG|35519-000|37|3225-1953|37|3226-3599
+SENAI Ouro Branco CFP|SERVICO NAC DE APRENDIZAGEM INDL|Avenida Macapá|177|Luzia Augusta|Ouro Branco|MG|36420-000|31|3741-4114|||
+SENAI Ouro Branco CT Gerdau Açominas|SERVICO NAC DE APRENDIZAGEM INDL|Rod. MG 443|Km 7|Bairro Fazenda do Catete|Ouro Branco|MG|36420-000|31|3749-2203|||
+SENAI Ouro Preto CFP|SERVICO NAC DE APRENDIZAGEM INDL|Rua Hugo Soderi||Saramenha|Ouro Preto|MG|35400-000|31|3551-1290|31|3551-5103
+SENAI Pará de Minas CFP Dr. Celso Charurí|SERVICO NAC DE APRENDIZAGEM INDL|Avenida Getúlio Vargas|2615||Pará de Minas|MG|35661-000|37|3237-1717|||
+SENAI Paracatu CFP Epitácio Cardoso Naves|SERVICO NAC DE APRENDIZAGEM INDL|Rua Afrânio Salustiano Pereira|201|Bela Vista|Paracat|MG|38600-000|38|3671-9035|||
+SENAI Passos UI Clezia de Melo Freire|SERVICO NAC DE APRENDIZAGEM INDL|Rua da Mogiana|||Passos|MG|37900-534|35|3521-8055|||
+SENAI Patos de Minas CFP Anávio Braz de Queiroz|SERVICO NAC DE APRENDIZAGEM INDL|Avenida Afonso Queirós|966|Sebastião Amorim|Patos de Minas|MG|38705-167|34|3821-4715|34|3821-4651
+SENAI Patrocínio CFP João Elias Abrahão|SERVICO NAC DE APRENDIZAGEM INDL|Avenida Marciano Pires|1771||Patrocínio|MG|38740-000|34|3831-9010|34|3831-9481
+SENAI Pedro Leopoldo CFP Gerson Dias|SERVICO NAC DE APRENDIZAGEM INDL|Avenida Coronel Juventino Dias|856||Pedro Leopoldo|MG|33600-000|31|3662-3615|31|3662-3616
+SENAI Pirapetinga UI Dirceu de Oliveira Martins|SERVICO NAC DE APRENDIZAGEM INDL|Rua Antônio Ribeiro da Costa Júnior|162||Pirapetinga|MG|36730-000|32|3465 1550|32|3465-1447
+SENAI Pirapora CT|SERVICO NAC DE APRENDIZAGEM INDL|Avenida Jefferson Gitirana|1422||Pirapora|MG|39270-000|38|3731-1019|||
+SENAI Poços de Caldas CTSA Alice de Podestá Navarro Vieira|SERVICO NAC DE APRENDIZAGEM INDL|Avenida Padre Cletus Francis Cox|300||Poços de Caldas|MG|37701-355|35|3714-8647|35|3714-4259
+SENAI Poços de Caldas CFP João Moreira Salles|SERVICO NAC DE APRENDIZAGEM INDL=|Rua Pedro Barbosa|600||Poços de Caldas|MG|37704-099|35|3729-2600|||
+SENAI Ponte Nova CFP São Vicente de Paulo|SERVICO NAC DE APRENDIZAGEM INDL|Rua Dom Luiz Lasagna|65||Ponte Nova|MG|35430-221|31|3817-1912|31|3817-4015
+SENAI Pouso Alegre CFP Orlando Chiarini|SERVICO NAC DE APRENDIZAGEM INDL|Avenida Vereador Antônio da Costa Rios|322|São Geraldo|Pouso Alegre|MG|37550-000|35|3423-7330|||
+SENAI Sabará CFP Michel Michels|SERVICO NAC DE APRENDIZAGEM INDL|Rua João Francisco Ferreira|18|Centro|Sabará|MG|34505-740|31|3671-4123|31|3671-4004
+SENAI Santa Luzia CFP João Carlos Giovannini|SERVICO NAC DE APRENDIZAGEM INDL|Rua Benedito Freire da Paz|197|Boa Esperança|Santa Luzia|MG|33035-230|31|3641-4518|31|3641-4514
+SENAI Santa Rita do Sapucaí CDTSVE Stefan Bogdan Salej|SERVICO NAC DE APRENDIZAGEM INDL|Rua Empresarial Prefeito Paulo Frederico de Toledo|160||Santa Rita do Sapucaí|MG|37540-000|35|3471-5671|||
+SENAI Santo Antônio do Monte CT Oscar José do Nascimento|SERVICO NAC DE APRENDIZAGEM INDL|Rua Padre Paulo|525|Bairro Mãe Chiquinha|Santo Antônio do Monte|MG|35560-000|37|3281-3315|||
+SENAI São Gonçalo do Pará CT Luiz Nogueira da Silva|SERVICO NAC DE APRENDIZAGEM INDL|Rua São Paulo|755||São Gonçalo do Pará|MG|35516-970|37|3234-2554|||
+SENAI São Gonçalo do Rio Abaixo CFP José Fernando Coura|SERVICO NAC DE APRENDIZAGEM INDL|Rua Raimundo Mateus|704|Guanabara|São Gonçalo do Rio Abaixo|MG|35935-000|31|3833–5753|31|3833-5441
+SENAI São Gonçalo do Sapucaí UI José Bento Nogueira Junqueira|SERVICO NAC DE APRENDIZAGEM INDL|R Jose Benedito de Paiva|955||São Gonçalo do Sapucaí|MG|37490-000|35|3241-1760|||
+SENAI São João Del Rei CFP Sílvio Assunção Teixeira|SERVICO NAC DE APRENDIZAGEM INDL|Praça Senhor Bom Jesus de Matosinhos|1|Bairro Matosinhos|São João Del Rei|MG|36305-142|32|3371-6303|32|3371-5847
+SENAI São João Nepomuceno UI Robson Braga de Andrade|SERVICO NAC DE APRENDIZAGEM INDL|Rua Roberto Schincariol|81|Distrito Industrial|São João Nepomuceno|MG|36680-000|32|3261-1813|32|3261-7011
+SENAI São Sebastião do Paraíso CFP Monsenhor Jerônimo Mancini|SERVICO NAC DE APRENDIZAGEM INDL|Avenida Tenente José Joaquim|1512|Nossa Senhora Aparecida|São Sebastião do Paraíso|MG|37950-000|35|3558-1365|||
+SENAI Sete Lagoas CFP Taft Alves Ferreira|SERVICO NAC DE APRENDIZAGEM INDL|Avenida Prefeito Alberto Moura|60||Sete Lagoas|MG|35702-051|31|3779-1450|31|3773-4426
+SENAI Teófilo Otoni UI Edson Gonçalves Soares|SERVICO NAC DE APRENDIZAGEM INDL|Rua Treze|40|São Jacinto|Teófilo Otoni|MG|39801-244|33|3523-4635|||
+SENAI Timóteo CFP Luciano José de Araújo|SERVICO NAC DE APRENDIZAGEM INDL|Avenida Judite Maria do Carmo|12|Olaria|Timóteo|MG|35180-184|31|3848-1198|||
+SENAI Três Corações CFP Lauro Turcato|SERVICO NAC DE APRENDIZAGEM INDL|Avenida Deputado Renato Azeredo|1561||Três Corações|MG|37410-000|35|3235-2779|||
+SENAI Três Marias CFP Ademar Marra|SERVICO NAC DE APRENDIZAGEM INDL|Rua B|280||Três Marias|MG|39205-000|38|3754-1233|38|3754-0270
+SENAI Turmalina CFP|SERVICO NAC DE APRENDIZAGEM INDL|Avenida Eucalipto|1000||Turmalina|MG|39660-000|38|3527-1422|38|3527-1422
+SENAI Ubá CFP José Alencar Gomes da Silva|SERVICO NAC DE APRENDIZAGEM INDL|Avenida Jesus Brandão|452||Ubá|MG|36500-000|32|3531-1036|32|3532-6505
+SENAI Uberaba CFP Fidelis Reis|SERVICO NAC DE APRENDIZAGEM INDL|Praça Professor Eugênio|85|São Benedito|Uberaba|MG|38010-280|34|3325-9300|||
+SENAI Vazante CFP Marcelo Ianhez|SERVICO NAC DE APRENDIZAGEM IND|Avenida Presidente Tancredo de Almeida Neves|1500||Vazante|MG|38780-000|34|3813-2599|34|3813-2946
+SENAI Vespasiano CFP Luiz César Albertini|SERVICO NAC DE APRENDIZAGEM INDL|Rua São Paulo|1300|Célvia|Vespasiano|MG|33200-000|31|3621-2248/8488|31|3621-2248
+SENAI Visconde do Rio Branco CFP Silvio Benatti|SERVICO NAC DE APRENDIZAGEM INDL|Avenida São João Batista|165|Centro|Visconde do Rio Branco|MG|36520-031|32|3551-6905|||

@@ -1,0 +1,3 @@
+<?
+//Muita sacanagem, tive que criar esse arquivo porque o meu Ajax se perde, quando uso o comando innerHTML que limpa a DIV ...
+?>

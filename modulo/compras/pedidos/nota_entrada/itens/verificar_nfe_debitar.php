@@ -1,0 +1,22 @@
+<?
+require('../../../../../lib/segurancas.php');
+require('../../../../../lib/ajax.php');
+
+/*Verifico se já existe alguma "Nota Fiscal Debitar" desse Fornecedor, Número e Data de Emissão 
+passados por parâmetro ...
+
+Observação: Trago a mais recente ...*/
+$sql = "SELECT `id_nfe`, `num_nota` 
+        FROM `nfe` 
+        WHERE `id_fornecedor` = '$_POST[id_fornecedor]' 
+        AND `num_nota` = '$_POST[num_nota]' 
+        AND SUBSTRING(`data_emissao`, 1, 10) = '$_POST[data_emissao]' ORDER BY `id_nfe` DESC LIMIT 1 ";
+$campos = bancos::sql($sql);
+/*Se não existir eu posso nenhuma NF, então significa que eu posso estar abrindo essa Tela como sendo 
+um Iframe normalmente p/ a Inclusão da Nota Fiscal*/
+if(count($campos) == 0) {
+    echo 'N';
+}else {//Já existe a NF ...
+    echo $campos[0]['id_nfe'].'|'.$campos[0]['num_nota'];
+}
+?>
